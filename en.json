@@ -572,7 +572,7 @@
       "contentType": "quizzes",
       "name": "Quizzes",
       "createDate": "2024-09-21T13:06:35.9796093",
-      "updateDate": "2024-10-30T10:23:58.9554111",
+      "updateDate": "2024-11-11T21:01:25.6910996",
       "route": {
         "path": "/en/quizzes/",
         "startItem": {
@@ -598,7 +598,21 @@
                           "id": "1a92f52f-fe89-44d2-bc36-c9e1f6f591b1",
                           "properties": {
                             "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                            "image": [],
+                            "image": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
+                                "name": "quiz1.png",
+                                "mediaType": "Image",
+                                "url": "/media/u2abikuy/quiz1.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 87733,
+                                "properties": {}
+                              }
+                            ],
                             "type": "Multiple",
                             "answers": {
                               "items": [
@@ -674,7 +688,21 @@
                           "id": "1cdbcc5d-9c59-4d3b-9f5d-bb2f254f29f5",
                           "properties": {
                             "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                            "image": [],
+                            "image": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
+                                "name": "quiz1.png",
+                                "mediaType": "Image",
+                                "url": "/media/u2abikuy/quiz1.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 87733,
+                                "properties": {}
+                              }
+                            ],
                             "type": "Single",
                             "answers": {
                               "items": [
@@ -750,7 +778,21 @@
                           "id": "8b582f12-785b-46f2-89a7-c2ab64052ac8",
                           "properties": {
                             "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                            "image": [],
+                            "image": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
+                                "name": "quiz1.png",
+                                "mediaType": "Image",
+                                "url": "/media/u2abikuy/quiz1.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 87733,
+                                "properties": {}
+                              }
+                            ],
                             "type": "Multiple",
                             "answers": {
                               "items": [
@@ -840,7 +882,21 @@
                           "id": "d3533f00-16d9-4b46-a001-2b331534bc9a",
                           "properties": {
                             "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                            "image": [],
+                            "image": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
+                                "name": "quiz1.png",
+                                "mediaType": "Image",
+                                "url": "/media/u2abikuy/quiz1.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 87733,
+                                "properties": {}
+                              }
+                            ],
                             "type": "Multiple",
                             "answers": {
                               "items": [
