@@ -1,0 +1,9 @@
+[
+  { "isoCode": "en", "displayName": "English" },
+  { "isoCode": "es", "displayName": "Spanish" },
+  { "isoCode": "pt", "displayName": "Portuguese" },
+  { "isoCode": "sw", "displayName": "Swahili" },
+  { "isoCode": "ar", "displayName": "Arabic (MSA)" },
+  { "isoCode": "ur", "displayName": "Urdu" },
+  { "isoCode": "hi", "displayName": "Hindi" }
+]
