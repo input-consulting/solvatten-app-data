@@ -1,6 +1,10 @@
 [
-	{ "isoCode": "sv", "displayName": "Swedish" },
-	{ "isoCode": "nl", "displayName": "Dutch" },
-	{ "isoCode": "fr", "displayName": "French" },
-	{ "isoCode": "en", "displayName": "English" }
+  { "isoCode": "en", "displayName": "English" },
+  { "isoCode": "sv", "displayName": "Swedish" },
+  { "isoCode": "es", "displayName": "Spanish" },
+  { "isoCode": "pt", "displayName": "Portuguese" },
+  { "isoCode": "sw", "displayName": "Swahili" },
+  { "isoCode": "ar", "displayName": "Arabic (MSA)" },
+  { "isoCode": "ur", "displayName": "Urdu" },
+  { "isoCode": "hi", "displayName": "Hindi" }
 ]
