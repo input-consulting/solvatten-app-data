@@ -5,7 +5,7 @@
       "contentType": "app",
       "name": "App",
       "createDate": "2024-10-30T09:18:55.7292754",
-      "updateDate": "2024-10-30T10:26:47.8218412",
+      "updateDate": "2024-11-12T20:22:58.6802337",
       "route": {
         "path": "/sv/",
         "startItem": {
@@ -17,7 +17,7 @@
       "properties": {},
       "cultures": {
         "en-US": {
-          "path": "/en/",
+          "path": "/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -43,6 +43,13 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
+        },
+        "en": {
+          "path": "/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
         }
       }
     },
@@ -50,7 +57,7 @@
       "contentType": "instructions",
       "name": "Instruktioner",
       "createDate": "2024-09-20T23:10:25.3865255",
-      "updateDate": "2024-10-30T10:23:50.0147385",
+      "updateDate": "2024-11-12T20:22:58.7897352",
       "route": {
         "path": "/sv/instruktioner/",
         "startItem": {
@@ -60,9 +67,9 @@
       },
       "id": "df76bb6f-4d5c-4a11-a263-d34bb44d252b",
       "properties": {
-        "title": "Innan du b\u00F6rjar...",
-        "block1": "K\u00E4nn din vattenk\u00E4lla. Anv\u00E4nd vattnet som kommer fr\u00E5n din vanliga basis. Om du \u00E4r os\u00E4ker p\u00E5 vattnets kvalitet b\u00F6r du r\u00E5dfr\u00E5ga din lokala vattenr\u00E5dgivare. Solvatten behandlar inte kemisk f\u00F6rorening som arsenik eller fluor. Solvatten behandlar endast vatten som \u00E4r f\u00F6rorenat med mikrobiologiska patogener.",
-        "block2": "Nu k\u00F6r vi! :-)",
+        "title": "Innan du börjar...",
+        "block1": "Känn din vattenkälla. Använd vattnet som kommer från din vanliga basis. Om du är osäker på vattnets kvalitet bör du rådfråga din lokala vattenrådgivare. Solvatten behandlar inte kemisk förorening som arsenik eller fluor. Solvatten behandlar endast vatten som är förorenat med mikrobiologiska patogener.",
+        "block2": "Nu kör vi! :-)",
         "chapters": {
           "items": [
             {
@@ -81,7 +88,7 @@
       },
       "cultures": {
         "en-US": {
-          "path": "/en/instructions/",
+          "path": "/instructions",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -107,6 +114,13 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
+        },
+        "en": {
+          "path": "/instructions/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
         }
       }
     },
@@ -114,7 +128,7 @@
       "contentType": "faq",
       "name": "Faq",
       "createDate": "2024-09-21T12:49:10.894209",
-      "updateDate": "2024-10-30T10:23:55.1678457",
+      "updateDate": "2024-11-12T20:22:58.8291847",
       "route": {
         "path": "/sv/faq/",
         "startItem": {
@@ -209,7 +223,7 @@
                 "id": "a43d3870-c1f1-4497-90a8-ad2aea954cb2",
                 "properties": {
                   "question": "Is Solvatten environmentally friendly?",
-                  "answer": "Yes, Solvatten is highly sustainable. It reduces the need for boiling water over firewood or other fossil fuels, helping to decrease deforestation and carbon emissions. Additionally, it doesn\u2019t require batteries or electricity, making it an eco-friendly solution."
+                  "answer": "Yes, Solvatten is highly sustainable. It reduces the need for boiling water over firewood or other fossil fuels, helping to decrease deforestation and carbon emissions. Additionally, it doesn’t require batteries or electricity, making it an eco-friendly solution."
                 }
               },
               "settings": null
@@ -274,7 +288,7 @@
       },
       "cultures": {
         "en-US": {
-          "path": "/en/faq/",
+          "path": "/faq",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -293,6 +307,13 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
+        },
+        "en": {
+          "path": "/faq/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
         }
       }
     },
@@ -300,7 +321,7 @@
       "contentType": "quizzes",
       "name": "Quizzes",
       "createDate": "2024-09-21T13:06:35.9796093",
-      "updateDate": "2024-10-30T10:23:58.9554111",
+      "updateDate": "2024-11-12T20:22:58.8513109",
       "route": {
         "path": "/sv/quizzes/",
         "startItem": {
@@ -326,7 +347,21 @@
                           "id": "1a92f52f-fe89-44d2-bc36-c9e1f6f591b1",
                           "properties": {
                             "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                            "image": [],
+                            "image": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
+                                "name": "quiz1.png",
+                                "mediaType": "Image",
+                                "url": "/media/u2abikuy/quiz1.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 87733,
+                                "properties": {}
+                              }
+                            ],
                             "type": "Multiple",
                             "answers": {
                               "items": [
@@ -402,7 +437,21 @@
                           "id": "1cdbcc5d-9c59-4d3b-9f5d-bb2f254f29f5",
                           "properties": {
                             "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                            "image": [],
+                            "image": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
+                                "name": "quiz1.png",
+                                "mediaType": "Image",
+                                "url": "/media/u2abikuy/quiz1.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 87733,
+                                "properties": {}
+                              }
+                            ],
                             "type": "Single",
                             "answers": {
                               "items": [
@@ -478,7 +527,21 @@
                           "id": "8b582f12-785b-46f2-89a7-c2ab64052ac8",
                           "properties": {
                             "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                            "image": [],
+                            "image": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
+                                "name": "quiz1.png",
+                                "mediaType": "Image",
+                                "url": "/media/u2abikuy/quiz1.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 87733,
+                                "properties": {}
+                              }
+                            ],
                             "type": "Multiple",
                             "answers": {
                               "items": [
@@ -568,7 +631,21 @@
                           "id": "d3533f00-16d9-4b46-a001-2b331534bc9a",
                           "properties": {
                             "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                            "image": [],
+                            "image": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
+                                "name": "quiz1.png",
+                                "mediaType": "Image",
+                                "url": "/media/u2abikuy/quiz1.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 87733,
+                                "properties": {}
+                              }
+                            ],
                             "type": "Multiple",
                             "answers": {
                               "items": [
@@ -649,7 +726,7 @@
       },
       "cultures": {
         "en-US": {
-          "path": "/en/quizzes/",
+          "path": "/quizzes",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -668,6 +745,13 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
+        },
+        "en": {
+          "path": "/quizzes/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
         }
       }
     },
@@ -675,7 +759,7 @@
       "contentType": "tipsAndTricks",
       "name": "Tips Och Tricks",
       "createDate": "2024-11-06T16:08:33.1975827",
-      "updateDate": "2024-11-06T16:11:58.074153",
+      "updateDate": "2024-11-12T20:22:58.8729969",
       "route": {
         "path": "/sv/tips-och-tricks/",
         "startItem": {
@@ -703,7 +787,7 @@
       },
       "cultures": {
         "en-US": {
-          "path": "/en/tips-and-tricks/",
+          "path": "/tips-and-tricks",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -711,6 +795,13 @@
         },
         "sv": {
           "path": "/sv/tips-och-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "en": {
+          "path": "/tips-and-tricks/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
