@@ -2,58 +2,6 @@
   "total": 5,
   "items": [
     {
-      "contentType": "app",
-      "name": "App",
-      "createDate": "2024-10-30T09:18:55.7292754",
-      "updateDate": "2024-11-12T20:22:58.6802337",
-      "route": {
-        "path": "/sv/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-      "properties": {},
-      "cultures": {
-        "en-US": {
-          "path": "/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "sv": {
-          "path": "/sv/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "nl": {
-          "path": "/nl/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "fr": {
-          "path": "/fr/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "en": {
-          "path": "/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
       "contentType": "instructions",
       "name": "Instruktioner",
       "createDate": "2024-09-20T23:10:25.3865255",
@@ -87,13 +35,6 @@
         }
       },
       "cultures": {
-        "en-US": {
-          "path": "/instructions",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
         "sv": {
           "path": "/sv/instruktioner/",
           "startItem": {
@@ -116,7 +57,7 @@
           }
         },
         "en": {
-          "path": "/instructions/",
+          "path": "/en/instructions/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -287,13 +228,6 @@
         }
       },
       "cultures": {
-        "en-US": {
-          "path": "/faq",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
         "sv": {
           "path": "/sv/faq/",
           "startItem": {
@@ -309,7 +243,99 @@
           }
         },
         "en": {
-          "path": "/faq/",
+          "path": "/en/faq/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "tipsAndTricks",
+      "name": "Tips Och Tricks",
+      "createDate": "2024-11-06T16:08:33.1975827",
+      "updateDate": "2024-11-12T20:22:58.8729969",
+      "route": {
+        "path": "/sv/tips-och-tricks/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "d9a1d37e-efb4-4190-9164-64db8d648c6d",
+      "properties": {
+        "content": {
+          "items": [
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "16d038fe-7d8a-45f7-b0c9-465d64887f24",
+                "properties": {
+                  "title": "Tips och trick 1 titel",
+                  "text": "Tips och trick 1 text"
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "sv": {
+          "path": "/sv/tips-och-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "en": {
+          "path": "/en/tips-and-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "app",
+      "name": "App",
+      "createDate": "2024-10-30T09:18:55.7292754",
+      "updateDate": "2024-11-19T11:04:52.979086",
+      "route": {
+        "path": "/sv/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+      "properties": {},
+      "cultures": {
+        "sv": {
+          "path": "/sv/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "nl": {
+          "path": "/nl/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "en": {
+          "path": "/en/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -321,7 +347,7 @@
       "contentType": "quizzes",
       "name": "Quizzes",
       "createDate": "2024-09-21T13:06:35.9796093",
-      "updateDate": "2024-11-12T20:22:58.8513109",
+      "updateDate": "2024-11-19T11:05:07.1990457",
       "route": {
         "path": "/sv/quizzes/",
         "startItem": {
@@ -612,7 +638,8 @@
                         "settings": null
                       }
                     ]
-                  }
+                  },
+                  "icon": "sunny"
                 }
               },
               "settings": null
@@ -716,7 +743,8 @@
                         "settings": null
                       }
                     ]
-                  }
+                  },
+                  "icon": "thermometer"
                 }
               },
               "settings": null
@@ -725,13 +753,6 @@
         }
       },
       "cultures": {
-        "en-US": {
-          "path": "/quizzes",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
         "sv": {
           "path": "/sv/quizzes/",
           "startItem": {
@@ -746,62 +767,15 @@
             "path": "app"
           }
         },
-        "en": {
-          "path": "/quizzes/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
-      "contentType": "tipsAndTricks",
-      "name": "Tips Och Tricks",
-      "createDate": "2024-11-06T16:08:33.1975827",
-      "updateDate": "2024-11-12T20:22:58.8729969",
-      "route": {
-        "path": "/sv/tips-och-tricks/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "d9a1d37e-efb4-4190-9164-64db8d648c6d",
-      "properties": {
-        "content": {
-          "items": [
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "16d038fe-7d8a-45f7-b0c9-465d64887f24",
-                "properties": {
-                  "title": "Tips och trick 1 titel",
-                  "text": "Tips och trick 1 text"
-                }
-              },
-              "settings": null
-            }
-          ]
-        }
-      },
-      "cultures": {
-        "en-US": {
-          "path": "/tips-and-tricks",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "sv": {
-          "path": "/sv/tips-och-tricks/",
+        "fr": {
+          "path": "/fr/quizzes/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
         },
         "en": {
-          "path": "/tips-and-tricks/",
+          "path": "/en/quizzes/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
