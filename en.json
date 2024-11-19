@@ -2,55 +2,10 @@
   "total": 5,
   "items": [
     {
-      "contentType": "app",
-      "name": "App",
-      "createDate": "2024-10-30T09:18:55.7292754",
-      "updateDate": "2024-10-30T10:26:47.8218412",
-      "route": {
-        "path": "/en/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-      "properties": {},
-      "cultures": {
-        "en-US": {
-          "path": "/en/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "sv": {
-          "path": "/sv/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "nl": {
-          "path": "/nl/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "fr": {
-          "path": "/fr/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
       "contentType": "instructions",
       "name": "Instructions",
       "createDate": "2024-09-20T23:10:25.3865255",
-      "updateDate": "2024-10-30T10:23:50.0147385",
+      "updateDate": "2024-11-12T20:22:58.7897352",
       "route": {
         "path": "/en/instructions/",
         "startItem": {
@@ -352,13 +307,6 @@
         }
       },
       "cultures": {
-        "en-US": {
-          "path": "/en/instructions/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
         "sv": {
           "path": "/sv/instruktioner/",
           "startItem": {
@@ -379,6 +327,13 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
+        },
+        "en": {
+          "path": "/en/instructions/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
         }
       }
     },
@@ -386,7 +341,7 @@
       "contentType": "faq",
       "name": "Faq",
       "createDate": "2024-09-21T12:49:10.894209",
-      "updateDate": "2024-10-30T10:23:55.1678457",
+      "updateDate": "2024-11-12T20:22:58.8291847",
       "route": {
         "path": "/en/faq/",
         "startItem": {
@@ -481,7 +436,7 @@
                 "id": "a43d3870-c1f1-4497-90a8-ad2aea954cb2",
                 "properties": {
                   "question": "Is Solvatten environmentally friendly?",
-                  "answer": "Yes, Solvatten is highly sustainable. It reduces the need for boiling water over firewood or other fossil fuels, helping to decrease deforestation and carbon emissions. Additionally, it doesn\u2019t require batteries or electricity, making it an eco-friendly solution."
+                  "answer": "Yes, Solvatten is highly sustainable. It reduces the need for boiling water over firewood or other fossil fuels, helping to decrease deforestation and carbon emissions. Additionally, it doesn’t require batteries or electricity, making it an eco-friendly solution."
                 }
               },
               "settings": null
@@ -545,13 +500,6 @@
         }
       },
       "cultures": {
-        "en-US": {
-          "path": "/en/faq/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
         "sv": {
           "path": "/sv/faq/",
           "startItem": {
@@ -565,6 +513,105 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
+        },
+        "en": {
+          "path": "/en/faq/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "tipsAndTricks",
+      "name": "Tips And Tricks",
+      "createDate": "2024-11-06T16:08:33.1975827",
+      "updateDate": "2024-11-12T20:22:58.8729969",
+      "route": {
+        "path": "/en/tips-and-tricks/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "d9a1d37e-efb4-4190-9164-64db8d648c6d",
+      "properties": {
+        "content": {
+          "items": [
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "057243a3-9da5-4940-b02f-4b9be252f68b",
+                "properties": {
+                  "title": "Tip and trick 1 title",
+                  "text": "Tip and trick 1 text"
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "sv": {
+          "path": "/sv/tips-och-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "en": {
+          "path": "/en/tips-and-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "app",
+      "name": "App",
+      "createDate": "2024-10-30T09:18:55.7292754",
+      "updateDate": "2024-11-19T11:04:52.979086",
+      "route": {
+        "path": "/en/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+      "properties": {},
+      "cultures": {
+        "sv": {
+          "path": "/sv/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "nl": {
+          "path": "/nl/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "en": {
+          "path": "/en/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
         }
       }
     },
@@ -572,7 +619,7 @@
       "contentType": "quizzes",
       "name": "Quizzes",
       "createDate": "2024-09-21T13:06:35.9796093",
-      "updateDate": "2024-11-11T21:01:25.6910996",
+      "updateDate": "2024-11-19T11:05:07.1990457",
       "route": {
         "path": "/en/quizzes/",
         "startItem": {
@@ -863,7 +910,8 @@
                         "settings": null
                       }
                     ]
-                  }
+                  },
+                  "icon": "sunny"
                 }
               },
               "settings": null
@@ -967,7 +1015,8 @@
                         "settings": null
                       }
                     ]
-                  }
+                  },
+                  "icon": "thermometer"
                 }
               },
               "settings": null
@@ -976,13 +1025,6 @@
         }
       },
       "cultures": {
-        "en-US": {
-          "path": "/en/quizzes/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
         "sv": {
           "path": "/sv/quizzes/",
           "startItem": {
@@ -996,49 +1038,16 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
-        }
-      }
-    },
-    {
-      "contentType": "tipsAndTricks",
-      "name": "Tips And Tricks",
-      "createDate": "2024-11-06T16:08:33.1975827",
-      "updateDate": "2024-11-06T16:11:58.074153",
-      "route": {
-        "path": "/en/tips-and-tricks/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "d9a1d37e-efb4-4190-9164-64db8d648c6d",
-      "properties": {
-        "content": {
-          "items": [
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "057243a3-9da5-4940-b02f-4b9be252f68b",
-                "properties": {
-                  "title": "Tip and trick 1 title",
-                  "text": "Tip and trick 1 text"
-                }
-              },
-              "settings": null
-            }
-          ]
-        }
-      },
-      "cultures": {
-        "en-US": {
-          "path": "/en/tips-and-tricks/",
+        },
+        "fr": {
+          "path": "/fr/quizzes/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
         },
-        "sv": {
-          "path": "/sv/tips-och-tricks/",
+        "en": {
+          "path": "/en/quizzes/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
