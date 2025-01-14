@@ -24,14 +24,14 @@
           }
         },
         "nl": {
-          "path": "/nl/",
+          "path": "/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
         },
         "fr": {
-          "path": "/fr/",
+          "path": "/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -47,10 +47,394 @@
       }
     },
     {
+      "contentType": "instructions",
+      "name": "Instructions",
+      "createDate": "2024-09-20T23:10:25.3865255",
+      "updateDate": "2025-01-14T10:21:53.8641486",
+      "route": {
+        "path": "/en/instructions/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "df76bb6f-4d5c-4a11-a263-d34bb44d252b",
+      "properties": {
+        "title": "Before you start...",
+        "block1": "Know your water source. Use the water that comes from your regular basis. If you have doubts about the quality of water, you should check with your local water advisor. Solvatten does not treat chemical contamination like arsenic or fluoride. Solvatten only treats water contaminated with micro-biological pathogens.",
+        "block2": "Now lets get into it! :)",
+        "chapters": {
+          "items": [
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "84d629ee-1876-4285-b929-e6aa71f0066c",
+                "properties": {
+                  "title": "Start early in the morning",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "image",
+                          "id": "b0c62762-4a53-42b3-90a8-d1dc47a9bd42",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "529a8be3-d9fc-4857-8f5c-36ff4e3224db",
+                                "name": "chapter1_1.png",
+                                "mediaType": "Image",
+                                "url": "/media/nranzzev/chapter1_1.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 179,
+                                "bytes": 51778,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 1_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "ffad43ff-2685-46ab-a0ad-1e5e11d99b17",
+                          "properties": {
+                            "value": "By starting as the sun comes up, you get the best chance of treating water successfully several times per day."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "image",
+                          "id": "e83dd8c8-39e4-40a9-8907-04b2d1c8c530",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "3af88a11-1c82-468d-a14c-b54d23304d28",
+                                "name": "chapter1_2.png",
+                                "mediaType": "Image",
+                                "url": "/media/tzal3dhl/chapter1_2.png",
+                                "extension": "png",
+                                "width": 342,
+                                "height": 189,
+                                "bytes": 76707,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 1_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "68d15000-9cd4-4272-ac85-8f12e44fad9a",
+                          "properties": {
+                            "value": "Make sure the indicator is RED with a sad smiley when you start. If it is not red, push she yellow Sun Button to reset it; read chapter 9."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "501916b0-1760-4921-b82e-0b405967b8c4",
+                "properties": {
+                  "title": "Fill solvatten",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "image",
+                          "id": "ace34eaa-9a28-4a36-ad5a-d6d082a1cbcd",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "7a1d9882-6395-426c-ab3a-03453ee81120",
+                                "name": "chapter2_1.png",
+                                "mediaType": "Image",
+                                "url": "/media/bvjfxth2/chapter2_1.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 115296,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "c56b6338-de9b-4eb0-9a76-a30a1f058014",
+                          "properties": {
+                            "value": "The water should be clear enough for you to see through a glassful (less than 40 NTU)."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "95c75e13-9667-47b8-8865-d5b610f15106",
+                          "properties": {
+                            "value": "If the water is very muddy, you should prefilter it first; read chapter 10."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "image",
+                          "id": "8ff18fc7-ec69-49f6-b107-8a2cff0d9225",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "974afb85-1bf9-43f0-83f5-3aeb69c9baab",
+                                "name": "chapter2_2.png",
+                                "mediaType": "Image",
+                                "url": "/media/biybyimq/chapter2_2.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 87733,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "7e481cd0-b5be-40f4-821f-6737096f6065",
+                          "properties": {
+                            "value": "Open ALL FOUR caps to make it easier to fill"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "image",
+                          "id": "a11a547e-e3bd-4c5e-b394-7666d79e36ae",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "9e4a2378-0d3a-44e1-879c-f6a942bdeb3a",
+                                "name": "chapter2_3.png",
+                                "mediaType": "Image",
+                                "url": "/media/45ubykct/chapter2_3.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 123532,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2_3"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "73fa7923-9d39-4876-a07a-5a72e2046b96",
+                          "properties": {
+                            "value": "Pour the water in through the openings with BLACK CAPS and filters. The filters make the water less muddy and remove more significant micro-organisms."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "image",
+                          "id": "221b43ed-b6f6-413f-94ca-4eb02376a573",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "84e93ca3-b83e-42fc-9277-fc7ebfe254d2",
+                                "name": "chapter2_4.png",
+                                "mediaType": "Image",
+                                "url": "/media/ft1k4msx/chapter2_4.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 87516,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2_4"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "20599264-6f2f-4c63-9022-75b6d8945087",
+                          "properties": {
+                            "value": "Pour in the water from a height. Fill Solvatten to the top so that the water surrounds the indicator. Otherwise, the indicator will not work"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "image",
+                          "id": "b89bd649-bb47-4edc-9af7-92048b841cb1",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "825a89f2-7769-4105-9a53-a83cea3ba805",
+                                "name": "chapter2_5.png",
+                                "mediaType": "Image",
+                                "url": "/media/pvbbynaa/chapter2_5.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 104980,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2_5"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "efbf4098-6197-433e-a1ed-be7dc5d3f047",
+                          "properties": {
+                            "value": "Tighten all four caps firmly but do not use force. Close the caps when Solvatten is upright."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "eb157a14-08b7-41a7-ac91-0c431835319f",
+                "properties": {
+                  "title": "Test 1",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "5006c043-57e3-4ab0-8b37-b86271e1e45b",
+                          "properties": {
+                            "value": "Text 1"
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "2be93b5b-ac88-4397-b51a-cf5104294de0",
+                "properties": {
+                  "title": "Test 2",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "da27acd5-ab2e-45d1-938e-5fa4a48cae08",
+                          "properties": {
+                            "value": "Text 2"
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "sv": {
+          "path": "/sv/instruktioner/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "nl": {
+          "path": "/instructions",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/instructions",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "en": {
+          "path": "/en/instructions/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
       "contentType": "faq",
       "name": "Faq",
       "createDate": "2024-09-21T12:49:10.894209",
-      "updateDate": "2024-11-12T20:22:58.8291847",
+      "updateDate": "2025-01-14T10:30:57.436388",
       "route": {
         "path": "/en/faq/",
         "startItem": {
@@ -204,6 +588,17 @@
                 }
               },
               "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "e68b18bc-f655-4d34-b6db-cf246bf971f3",
+                "properties": {
+                  "question": "Test 1",
+                  "answer": "Svar 1"
+                }
+              },
+              "settings": null
             }
           ]
         }
@@ -211,13 +606,6 @@
       "cultures": {
         "sv": {
           "path": "/sv/faq/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "nl": {
-          "path": "/nl/faq/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -650,14 +1038,14 @@
           }
         },
         "nl": {
-          "path": "/nl/quizzes/",
+          "path": "/quizzes",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
         },
         "fr": {
-          "path": "/fr/quizzes/",
+          "path": "/quizzes",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -712,366 +1100,6 @@
         },
         "en": {
           "path": "/en/tips-and-tricks/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
-      "contentType": "instructions",
-      "name": "Instructions",
-      "createDate": "2024-09-20T23:10:25.3865255",
-      "updateDate": "2025-01-14T10:20:17.4247719",
-      "route": {
-        "path": "/en/instructions/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "df76bb6f-4d5c-4a11-a263-d34bb44d252b",
-      "properties": {
-        "title": "Before you start...",
-        "block1": "Know your water source. Use the water that comes from your regular basis. If you have doubts about the quality of water, you should check with your local water advisor. Solvatten does not treat chemical contamination like arsenic or fluoride. Solvatten only treats water contaminated with micro-biological pathogens.",
-        "block2": "Now lets get into it! :)",
-        "chapters": {
-          "items": [
-            {
-              "content": {
-                "contentType": "chapter",
-                "id": "84d629ee-1876-4285-b929-e6aa71f0066c",
-                "properties": {
-                  "title": "Start early in the morning",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "image",
-                          "id": "b0c62762-4a53-42b3-90a8-d1dc47a9bd42",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "529a8be3-d9fc-4857-8f5c-36ff4e3224db",
-                                "name": "chapter1_1.png",
-                                "mediaType": "Image",
-                                "url": "/media/nranzzev/chapter1_1.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 179,
-                                "bytes": 51778,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 1_1"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "ffad43ff-2685-46ab-a0ad-1e5e11d99b17",
-                          "properties": {
-                            "value": "By starting as the sun comes up, you get the best chance of treating water successfully several times per day."
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "image",
-                          "id": "e83dd8c8-39e4-40a9-8907-04b2d1c8c530",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "3af88a11-1c82-468d-a14c-b54d23304d28",
-                                "name": "chapter1_2.png",
-                                "mediaType": "Image",
-                                "url": "/media/tzal3dhl/chapter1_2.png",
-                                "extension": "png",
-                                "width": 342,
-                                "height": 189,
-                                "bytes": 76707,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 1_2"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "68d15000-9cd4-4272-ac85-8f12e44fad9a",
-                          "properties": {
-                            "value": "Make sure the indicator is RED with a sad smiley when you start. If it is not red, push she yellow Sun Button to reset it; read chapter 9."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "chapter",
-                "id": "501916b0-1760-4921-b82e-0b405967b8c4",
-                "properties": {
-                  "title": "Fill solvatten",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "image",
-                          "id": "ace34eaa-9a28-4a36-ad5a-d6d082a1cbcd",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "7a1d9882-6395-426c-ab3a-03453ee81120",
-                                "name": "chapter2_1.png",
-                                "mediaType": "Image",
-                                "url": "/media/bvjfxth2/chapter2_1.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 188,
-                                "bytes": 115296,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 2_1"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "c56b6338-de9b-4eb0-9a76-a30a1f058014",
-                          "properties": {
-                            "value": "The water should be clear enough for you to see through a glassful (less than 40 NTU)."
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "95c75e13-9667-47b8-8865-d5b610f15106",
-                          "properties": {
-                            "value": "If the water is very muddy, you should prefilter it first; read chapter 10."
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "image",
-                          "id": "8ff18fc7-ec69-49f6-b107-8a2cff0d9225",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "974afb85-1bf9-43f0-83f5-3aeb69c9baab",
-                                "name": "chapter2_2.png",
-                                "mediaType": "Image",
-                                "url": "/media/biybyimq/chapter2_2.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 188,
-                                "bytes": 87733,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 2_2"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "7e481cd0-b5be-40f4-821f-6737096f6065",
-                          "properties": {
-                            "value": "Open ALL FOUR caps to make it easier to fill"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "image",
-                          "id": "a11a547e-e3bd-4c5e-b394-7666d79e36ae",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "9e4a2378-0d3a-44e1-879c-f6a942bdeb3a",
-                                "name": "chapter2_3.png",
-                                "mediaType": "Image",
-                                "url": "/media/45ubykct/chapter2_3.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 188,
-                                "bytes": 123532,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 2_3"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "73fa7923-9d39-4876-a07a-5a72e2046b96",
-                          "properties": {
-                            "value": "Pour the water in through the openings with BLACK CAPS and filters. The filters make the water less muddy and remove more significant micro-organisms."
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "image",
-                          "id": "221b43ed-b6f6-413f-94ca-4eb02376a573",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "84e93ca3-b83e-42fc-9277-fc7ebfe254d2",
-                                "name": "chapter2_4.png",
-                                "mediaType": "Image",
-                                "url": "/media/ft1k4msx/chapter2_4.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 188,
-                                "bytes": 87516,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 2_4"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "20599264-6f2f-4c63-9022-75b6d8945087",
-                          "properties": {
-                            "value": "Pour in the water from a height. Fill Solvatten to the top so that the water surrounds the indicator. Otherwise, the indicator will not work"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "image",
-                          "id": "b89bd649-bb47-4edc-9af7-92048b841cb1",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "825a89f2-7769-4105-9a53-a83cea3ba805",
-                                "name": "chapter2_5.png",
-                                "mediaType": "Image",
-                                "url": "/media/pvbbynaa/chapter2_5.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 188,
-                                "bytes": 104980,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 2_5"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "efbf4098-6197-433e-a1ed-be7dc5d3f047",
-                          "properties": {
-                            "value": "Tighten all four caps firmly but do not use force. Close the caps when Solvatten is upright."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "chapter",
-                "id": "eb157a14-08b7-41a7-ac91-0c431835319f",
-                "properties": {
-                  "title": "Test 1",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "5006c043-57e3-4ab0-8b37-b86271e1e45b",
-                          "properties": {
-                            "value": "Text 1"
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            }
-          ]
-        }
-      },
-      "cultures": {
-        "sv": {
-          "path": "/sv/instruktioner/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "nl": {
-          "path": "/nl/instructions/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "fr": {
-          "path": "/fr/instructions/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "en": {
-          "path": "/en/instructions/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
