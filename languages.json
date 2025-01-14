@@ -1,7 +1,5 @@
 [
 	{ "isoCode": "sv", "displayName": "Swedish" },
-	{ "isoCode": "nl", "displayName": "Dutch" },
-	{ "isoCode": "fr", "displayName": "French" },
 	{ "isoCode": "en", "displayName": "English" },
-	{ "isoCode": "hi", "displayName": "Hindi" }
+	{ "isoCode": "nl", "displayName": "Dutch" }
 ]
