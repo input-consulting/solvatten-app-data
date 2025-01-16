@@ -5,7 +5,7 @@
       "contentType": "app",
       "name": "App",
       "createDate": "2024-10-30T09:18:55.7292754",
-      "updateDate": "2024-11-19T11:04:52.979086",
+      "updateDate": "2024-11-21T12:33:55.4686658",
       "route": {
         "path": "/en/",
         "startItem": {
@@ -24,14 +24,14 @@
           }
         },
         "nl": {
-          "path": "/",
+          "path": "/nl/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
         },
         "fr": {
-          "path": "/",
+          "path": "/fr/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -43,6 +43,206 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
+        },
+        "hi": {
+          "path": "/hi/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "faq",
+      "name": "Faq",
+      "createDate": "2024-09-21T12:49:10.894209",
+      "updateDate": "2024-11-21T12:34:13.733513",
+      "route": {
+        "path": "/en/faq/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "a6ad7952-2eb1-4b21-ab5f-60588f03b761",
+      "properties": {
+        "content": {
+          "items": [
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "26e205fa-a0e4-4b7a-93b7-34990b2b17cc",
+                "properties": {
+                  "question": "What is Solvatten and how does it work?",
+                  "answer": "Solvatten is a portable water purifier that uses solar energy to make water safe for drinking, cooking, and hygiene. It combines heat and ultraviolet (UV) radiation from the sun to treat contaminated water in a simple, sustainable way. The water is purified by placing the Solvatten unit in direct sunlight for 2-6 hours, depending on the weather conditions."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "1e531645-d3ef-4164-8273-ad885cfa285a",
+                "properties": {
+                  "question": "How much water can Solvatten treat at once?",
+                  "answer": "Each Solvatten unit can treat up to 10 liters of water at a time. The process can be repeated multiple times a day depending on sunlight availability, allowing families to purify enough water for their daily needs."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "e8091fe7-26fb-4e88-8686-fd55adce4d01",
+                "properties": {
+                  "question": "Is Solvatten safe to use for children and the elderly?",
+                  "answer": "Yes, Solvatten is designed to be safe for people of all ages. It uses a natural process with no chemicals, ensuring that the water is safe for consumption, including by children and the elderly."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "00a47463-034c-4628-ab19-82445c073039",
+                "properties": {
+                  "question": "What kind of water can Solvatten purify?",
+                  "answer": "Solvatten can treat water from various sources, including rivers, lakes, and rainwater. However, it is important to avoid using water that contains heavy contamination such as chemicals or industrial waste, as Solvatten is not designed to remove such pollutants."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "f2eda415-a2ed-423c-b1ee-20ed4585927b",
+                "properties": {
+                  "question": "How long does the Solvatten unit last?",
+                  "answer": "Solvatten units are built to last for up to 7-10 years with proper use and care. The durable materials are resistant to weather conditions and wear and tear."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "9c73cb20-01c9-4619-9dd5-9acd3a3becd5",
+                "properties": {
+                  "question": "How can I tell if the water is safe to drink after using Solvatten?",
+                  "answer": "Solvatten includes a visual indicator on the unit that shows when the water has reached a safe temperature and UV exposure level. Once the indicator shows that the water is ready, it is safe for consumption."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "ee9457f0-7fac-47c1-a9a5-3846f9e28d72",
+                "properties": {
+                  "question": "Can Solvatten be used during cloudy days?",
+                  "answer": "Yes, Solvatten can still work on cloudy days, but the purification process will take longer. It may take up to 6 hours or more for the water to be fully treated depending on the weather conditions."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "a43d3870-c1f1-4497-90a8-ad2aea954cb2",
+                "properties": {
+                  "question": "Is Solvatten environmentally friendly?",
+                  "answer": "Yes, Solvatten is highly sustainable. It reduces the need for boiling water over firewood or other fossil fuels, helping to decrease deforestation and carbon emissions. Additionally, it doesn’t require batteries or electricity, making it an eco-friendly solution."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "8257f134-61a4-4034-acc8-2650c6bdf51c",
+                "properties": {
+                  "question": "Can Solvatten be used for purposes other than drinking water?",
+                  "answer": "Yes, Solvatten-treated water can also be used for cooking, washing, and hygiene purposes. The unit provides hot water, which is useful for various household needs."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "6e8a6441-8b1e-43db-8e1a-6df6627109f7",
+                "properties": {
+                  "question": "What maintenance is required for Solvatten?",
+                  "answer": "Solvatten requires minimal maintenance. After each use, it is recommended to rinse the unit and let it dry. The transparent panels should be kept clean to ensure maximum sunlight exposure. Occasionally check for any wear and tear on the seals and parts."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "da7100d9-91fd-4da5-a5d4-bc79879321a5",
+                "properties": {
+                  "question": "Where can I buy Solvatten?",
+                  "answer": "Solvatten is available for purchase through the official Solvatten website, as well as through partner organizations and distributors. You can also contact local NGOs or humanitarian organizations that work with water access to inquire about availability in your region."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "d8539abc-5cc4-42aa-af7a-c0b6633ea598",
+                "properties": {
+                  "question": "What are the benefits of using Solvatten in remote areas?",
+                  "answer": "In remote areas without reliable access to clean water or electricity, Solvatten provides a self-sustaining solution for safe drinking water. It reduces the need for firewood to boil water, saving time and resources while promoting better health and hygiene."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "31621149-36d6-4a25-8419-ce17d49abb12",
+                "properties": {
+                  "question": "Does Solvatten eliminate all harmful microorganisms from water?",
+                  "answer": "Yes, Solvatten is effective at killing bacteria, viruses, and parasites through a combination of solar UV radiation and heat. However, it is not designed to remove chemical pollutants or heavy metals from the water."
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "sv": {
+          "path": "/sv/faq/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "nl": {
+          "path": "/nl/faq/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "en": {
+          "path": "/en/faq/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "hi": {
+          "path": "/hi/faq/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
         }
       }
     },
@@ -50,7 +250,7 @@
       "contentType": "instructions",
       "name": "Instructions",
       "createDate": "2024-09-20T23:10:25.3865255",
-      "updateDate": "2025-01-14T10:21:53.8641486",
+      "updateDate": "2024-11-22T12:15:18.5590476",
       "route": {
         "path": "/en/instructions/",
         "startItem": {
@@ -347,54 +547,6 @@
                 }
               },
               "settings": null
-            },
-            {
-              "content": {
-                "contentType": "chapter",
-                "id": "eb157a14-08b7-41a7-ac91-0c431835319f",
-                "properties": {
-                  "title": "Test 1",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "5006c043-57e3-4ab0-8b37-b86271e1e45b",
-                          "properties": {
-                            "value": "Text 1"
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "chapter",
-                "id": "2be93b5b-ac88-4397-b51a-cf5104294de0",
-                "properties": {
-                  "title": "Test 2",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "da27acd5-ab2e-45d1-938e-5fa4a48cae08",
-                          "properties": {
-                            "value": "Text 2"
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
             }
           ]
         }
@@ -408,14 +560,14 @@
           }
         },
         "nl": {
-          "path": "/instructions",
+          "path": "/nl/instructions/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
         },
         "fr": {
-          "path": "/instructions",
+          "path": "/fr/instructions/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -427,192 +579,9 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
-        }
-      }
-    },
-    {
-      "contentType": "faq",
-      "name": "Faq",
-      "createDate": "2024-09-21T12:49:10.894209",
-      "updateDate": "2025-01-14T10:30:57.436388",
-      "route": {
-        "path": "/en/faq/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "a6ad7952-2eb1-4b21-ab5f-60588f03b761",
-      "properties": {
-        "content": {
-          "items": [
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "26e205fa-a0e4-4b7a-93b7-34990b2b17cc",
-                "properties": {
-                  "question": "What is Solvatten and how does it work?",
-                  "answer": "Solvatten is a portable water purifier that uses solar energy to make water safe for drinking, cooking, and hygiene. It combines heat and ultraviolet (UV) radiation from the sun to treat contaminated water in a simple, sustainable way. The water is purified by placing the Solvatten unit in direct sunlight for 2-6 hours, depending on the weather conditions."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "1e531645-d3ef-4164-8273-ad885cfa285a",
-                "properties": {
-                  "question": "How much water can Solvatten treat at once?",
-                  "answer": "Each Solvatten unit can treat up to 10 liters of water at a time. The process can be repeated multiple times a day depending on sunlight availability, allowing families to purify enough water for their daily needs."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "e8091fe7-26fb-4e88-8686-fd55adce4d01",
-                "properties": {
-                  "question": "Is Solvatten safe to use for children and the elderly?",
-                  "answer": "Yes, Solvatten is designed to be safe for people of all ages. It uses a natural process with no chemicals, ensuring that the water is safe for consumption, including by children and the elderly."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "00a47463-034c-4628-ab19-82445c073039",
-                "properties": {
-                  "question": "What kind of water can Solvatten purify?",
-                  "answer": "Solvatten can treat water from various sources, including rivers, lakes, and rainwater. However, it is important to avoid using water that contains heavy contamination such as chemicals or industrial waste, as Solvatten is not designed to remove such pollutants."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "f2eda415-a2ed-423c-b1ee-20ed4585927b",
-                "properties": {
-                  "question": "How long does the Solvatten unit last?",
-                  "answer": "Solvatten units are built to last for up to 7-10 years with proper use and care. The durable materials are resistant to weather conditions and wear and tear."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "9c73cb20-01c9-4619-9dd5-9acd3a3becd5",
-                "properties": {
-                  "question": "How can I tell if the water is safe to drink after using Solvatten?",
-                  "answer": "Solvatten includes a visual indicator on the unit that shows when the water has reached a safe temperature and UV exposure level. Once the indicator shows that the water is ready, it is safe for consumption."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "ee9457f0-7fac-47c1-a9a5-3846f9e28d72",
-                "properties": {
-                  "question": "Can Solvatten be used during cloudy days?",
-                  "answer": "Yes, Solvatten can still work on cloudy days, but the purification process will take longer. It may take up to 6 hours or more for the water to be fully treated depending on the weather conditions."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "a43d3870-c1f1-4497-90a8-ad2aea954cb2",
-                "properties": {
-                  "question": "Is Solvatten environmentally friendly?",
-                  "answer": "Yes, Solvatten is highly sustainable. It reduces the need for boiling water over firewood or other fossil fuels, helping to decrease deforestation and carbon emissions. Additionally, it doesn’t require batteries or electricity, making it an eco-friendly solution."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "8257f134-61a4-4034-acc8-2650c6bdf51c",
-                "properties": {
-                  "question": "Can Solvatten be used for purposes other than drinking water?",
-                  "answer": "Yes, Solvatten-treated water can also be used for cooking, washing, and hygiene purposes. The unit provides hot water, which is useful for various household needs."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "6e8a6441-8b1e-43db-8e1a-6df6627109f7",
-                "properties": {
-                  "question": "What maintenance is required for Solvatten?",
-                  "answer": "Solvatten requires minimal maintenance. After each use, it is recommended to rinse the unit and let it dry. The transparent panels should be kept clean to ensure maximum sunlight exposure. Occasionally check for any wear and tear on the seals and parts."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "da7100d9-91fd-4da5-a5d4-bc79879321a5",
-                "properties": {
-                  "question": "Where can I buy Solvatten?",
-                  "answer": "Solvatten is available for purchase through the official Solvatten website, as well as through partner organizations and distributors. You can also contact local NGOs or humanitarian organizations that work with water access to inquire about availability in your region."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "d8539abc-5cc4-42aa-af7a-c0b6633ea598",
-                "properties": {
-                  "question": "What are the benefits of using Solvatten in remote areas?",
-                  "answer": "In remote areas without reliable access to clean water or electricity, Solvatten provides a self-sustaining solution for safe drinking water. It reduces the need for firewood to boil water, saving time and resources while promoting better health and hygiene."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "31621149-36d6-4a25-8419-ce17d49abb12",
-                "properties": {
-                  "question": "Does Solvatten eliminate all harmful microorganisms from water?",
-                  "answer": "Yes, Solvatten is effective at killing bacteria, viruses, and parasites through a combination of solar UV radiation and heat. However, it is not designed to remove chemical pollutants or heavy metals from the water."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "e68b18bc-f655-4d34-b6db-cf246bf971f3",
-                "properties": {
-                  "question": "Test 1",
-                  "answer": "Svar 1"
-                }
-              },
-              "settings": null
-            }
-          ]
-        }
-      },
-      "cultures": {
-        "sv": {
-          "path": "/sv/faq/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
         },
-        "en": {
-          "path": "/en/faq/",
+        "hi": {
+          "path": "/hi/blablabla/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -624,7 +593,7 @@
       "contentType": "quizzes",
       "name": "Quizzes",
       "createDate": "2024-09-21T13:06:35.9796093",
-      "updateDate": "2024-11-19T11:05:07.1990457",
+      "updateDate": "2025-01-14T16:21:13.9514373",
       "route": {
         "path": "/en/quizzes/",
         "startItem": {
@@ -913,6 +882,92 @@
                           }
                         },
                         "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "7aa711fa-9ee6-4810-b242-b93cfccf285b",
+                          "properties": {
+                            "question": "aaa",
+                            "image": null,
+                            "type": "Single",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "9c27dc14-7cc9-4fd5-89cf-0030a3005c00",
+                                    "properties": {
+                                      "value": "aaa",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizMoreInfo",
+                                    "id": "dabc5126-48c8-4bd3-a1fd-2c4a5b768d65",
+                                    "properties": {
+                                      "severity": "None",
+                                      "heading": "abcd",
+                                      "details": "abcd"
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "27179682-a841-4f7a-82ff-feff9fca2938",
+                          "properties": {
+                            "question": "bbb",
+                            "image": null,
+                            "type": null,
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "d2b1622e-d5ec-419d-9463-16f8df620497",
+                                    "properties": {
+                                      "value": "bbb",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizMoreInfo",
+                                    "id": "6cf4edce-508e-44a0-8845-be0c4d2e022f",
+                                    "properties": {
+                                      "severity": "None",
+                                      "heading": "bbb",
+                                      "details": "bbb"
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "settings": null
                       }
                     ]
                   },
@@ -1038,14 +1093,14 @@
           }
         },
         "nl": {
-          "path": "/quizzes",
+          "path": "/nl/quizzes/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
         },
         "fr": {
-          "path": "/quizzes",
+          "path": "/fr/quizzes/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -1057,6 +1112,13 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
+        },
+        "hi": {
+          "path": "/hi/quizzes/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
         }
       }
     },
@@ -1064,7 +1126,7 @@
       "contentType": "tipsAndTricks",
       "name": "Tips And Tricks",
       "createDate": "2024-11-06T16:08:33.1975827",
-      "updateDate": "2024-11-12T20:22:58.8729969",
+      "updateDate": "2025-01-16T21:21:32.9788061",
       "route": {
         "path": "/en/tips-and-tricks/",
         "startItem": {
@@ -1082,7 +1144,45 @@
                 "id": "057243a3-9da5-4940-b02f-4b9be252f68b",
                 "properties": {
                   "title": "Tip and trick 1 title",
-                  "text": "Tip and trick 1 text"
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "a5277dab-60d0-402f-bced-4ddd5812742d",
+                          "properties": {
+                            "value": "This is a test"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "image",
+                          "id": "6112d19b-136a-41b2-bff1-ecac1a6c3025",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "529a8be3-d9fc-4857-8f5c-36ff4e3224db",
+                                "name": "chapter1_1.png",
+                                "mediaType": "Image",
+                                "url": "/media/nranzzev/chapter1_1.png",
+                                "extension": "png",
+                                "width": 343,
+                                "height": 179,
+                                "bytes": 51778,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Tips 1"
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
                 }
               },
               "settings": null
@@ -1100,6 +1200,27 @@
         },
         "en": {
           "path": "/en/tips-and-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "hi": {
+          "path": "/hi/tips-and-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "nl": {
+          "path": "/nl/tips-and-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/tips-and-tricks/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
