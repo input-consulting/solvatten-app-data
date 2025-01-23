@@ -2,44 +2,6 @@
   "total": 5,
   "items": [
     {
-      "contentType": "app",
-      "name": "App",
-      "createDate": "2024-10-30T09:18:55.7292754",
-      "updateDate": "2025-01-14T10:41:25.7535486",
-      "route": {
-        "path": "/en/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-      "properties": {},
-      "cultures": {
-        "sv": {
-          "path": "/sv/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "en": {
-          "path": "/en/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "fr": {
-          "path": "/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
       "contentType": "instructions",
       "name": "Instructions",
       "createDate": "2024-09-20T23:10:25.3865255",
@@ -1854,13 +1816,6 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
-        },
-        "fr": {
-          "path": "/instructions",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
         }
       }
     },
@@ -2047,13 +2002,6 @@
         },
         "en": {
           "path": "/en/faq/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "fr": {
-          "path": "/faq",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -3465,13 +3413,6 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
-        },
-        "fr": {
-          "path": "/quizzes",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
         }
       }
     },
@@ -4391,9 +4332,36 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
+        }
+      }
+    },
+    {
+      "contentType": "app",
+      "name": "App",
+      "createDate": "2024-10-30T09:18:55.7292754",
+      "updateDate": "2025-01-23T22:56:28.3840371",
+      "route": {
+        "path": "/en/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+      "properties": {
+        "videoUrl": "https://www.youtube.com/watch?v=wKJO0a4TrZQ",
+        "imageUrl": "https://i.ytimg.com/vi/-FBxin_x1yU/hqdefault.jpg"
+      },
+      "cultures": {
+        "sv": {
+          "path": "/sv/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
         },
-        "fr": {
-          "path": "/tips-and-tricks",
+        "en": {
+          "path": "/en/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
