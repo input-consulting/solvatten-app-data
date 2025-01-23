@@ -5,7 +5,7 @@
       "contentType": "instructions",
       "name": "Instruktioner",
       "createDate": "2024-09-20T23:10:25.3865255",
-      "updateDate": "2024-11-12T20:22:58.7897352",
+      "updateDate": "2025-01-15T16:23:49.1345228",
       "route": {
         "path": "/sv/instruktioner/",
         "startItem": {
@@ -42,20 +42,6 @@
             "path": "app"
           }
         },
-        "nl": {
-          "path": "/nl/instructions/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "fr": {
-          "path": "/fr/instructions/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
         "en": {
           "path": "/en/instructions/",
           "startItem": {
@@ -69,7 +55,7 @@
       "contentType": "faq",
       "name": "Faq",
       "createDate": "2024-09-21T12:49:10.894209",
-      "updateDate": "2024-11-12T20:22:58.8291847",
+      "updateDate": "2025-01-14T10:41:43.6852961",
       "route": {
         "path": "/sv/faq/",
         "startItem": {
@@ -223,6 +209,17 @@
                 }
               },
               "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "e68b18bc-f655-4d34-b6db-cf246bf971f3",
+                "properties": {
+                  "question": "Test 1",
+                  "answer": "Svar 1"
+                }
+              },
+              "settings": null
             }
           ]
         }
@@ -230,13 +227,6 @@
       "cultures": {
         "sv": {
           "path": "/sv/faq/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "nl": {
-          "path": "/nl/faq/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
@@ -252,102 +242,10 @@
       }
     },
     {
-      "contentType": "tipsAndTricks",
-      "name": "Tips Och Tricks",
-      "createDate": "2024-11-06T16:08:33.1975827",
-      "updateDate": "2024-11-12T20:22:58.8729969",
-      "route": {
-        "path": "/sv/tips-och-tricks/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "d9a1d37e-efb4-4190-9164-64db8d648c6d",
-      "properties": {
-        "content": {
-          "items": [
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "16d038fe-7d8a-45f7-b0c9-465d64887f24",
-                "properties": {
-                  "title": "Tips och trick 1 titel",
-                  "text": "Tips och trick 1 text"
-                }
-              },
-              "settings": null
-            }
-          ]
-        }
-      },
-      "cultures": {
-        "sv": {
-          "path": "/sv/tips-och-tricks/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "en": {
-          "path": "/en/tips-and-tricks/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
-      "contentType": "app",
-      "name": "App",
-      "createDate": "2024-10-30T09:18:55.7292754",
-      "updateDate": "2024-11-19T11:04:52.979086",
-      "route": {
-        "path": "/sv/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-      "properties": {},
-      "cultures": {
-        "sv": {
-          "path": "/sv/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "nl": {
-          "path": "/nl/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "fr": {
-          "path": "/fr/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "en": {
-          "path": "/en/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
       "contentType": "quizzes",
       "name": "Quizzes",
       "createDate": "2024-09-21T13:06:35.9796093",
-      "updateDate": "2024-11-19T11:05:07.1990457",
+      "updateDate": "2025-01-22T11:32:08.2277711",
       "route": {
         "path": "/sv/quizzes/",
         "startItem": {
@@ -372,22 +270,8 @@
                           "contentType": "quizQuestion",
                           "id": "1a92f52f-fe89-44d2-bc36-c9e1f6f591b1",
                           "properties": {
-                            "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                            "image": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
-                                "name": "quiz1.png",
-                                "mediaType": "Image",
-                                "url": "/media/u2abikuy/quiz1.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 188,
-                                "bytes": 87733,
-                                "properties": {}
-                              }
-                            ],
+                            "question": "Where do you pour in the water?",
+                            "image": null,
                             "type": "Multiple",
                             "answers": {
                               "items": [
@@ -396,7 +280,7 @@
                                     "contentType": "quizAnswer",
                                     "id": "b03102f0-f3f9-4466-84c7-b894a1b4ce7f",
                                     "properties": {
-                                      "value": "1. Lorem ipsum dolor sit amet *",
+                                      "value": "Through the openings with black caps and filters.",
                                       "correct": true
                                     }
                                   },
@@ -407,8 +291,8 @@
                                     "contentType": "quizAnswer",
                                     "id": "e670f983-2423-4204-a09e-7cd6e5df4378",
                                     "properties": {
-                                      "value": "2. Lorem ipsum dolor sit amet *",
-                                      "correct": true
+                                      "value": "Through any of the openings.",
+                                      "correct": false
                                     }
                                   },
                                   "settings": null
@@ -418,8 +302,8 @@
                                     "contentType": "quizAnswer",
                                     "id": "5d876df5-61d8-435d-83fa-0779a086a0ef",
                                     "properties": {
-                                      "value": "3. Lorem ipsum dolor sit amet *",
-                                      "correct": true
+                                      "value": "Through the narrow opening at the bottom of the container.",
+                                      "correct": false
                                     }
                                   },
                                   "settings": null
@@ -429,7 +313,7 @@
                                     "contentType": "quizAnswer",
                                     "id": "2e8eecb0-6d65-42a2-ad5d-69c1192539c7",
                                     "properties": {
-                                      "value": "4. Lorem ipsum dolor sit amet",
+                                      "value": "Through the large opening at the back of the container.",
                                       "correct": null
                                     }
                                   },
@@ -462,22 +346,8 @@
                           "contentType": "quizQuestion",
                           "id": "1cdbcc5d-9c59-4d3b-9f5d-bb2f254f29f5",
                           "properties": {
-                            "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                            "image": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
-                                "name": "quiz1.png",
-                                "mediaType": "Image",
-                                "url": "/media/u2abikuy/quiz1.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 188,
-                                "bytes": 87733,
-                                "properties": {}
-                              }
-                            ],
+                            "question": "Why should you always fill Solvatten all the way to the top?",
+                            "image": null,
                             "type": "Single",
                             "answers": {
                               "items": [
@@ -486,8 +356,8 @@
                                     "contentType": "quizAnswer",
                                     "id": "03fac060-6924-4cfd-b32f-cdb3a49063e4",
                                     "properties": {
-                                      "value": "1. Lorem ipsum dolor sit amet",
-                                      "correct": null
+                                      "value": "Because the indicator works properly when fully covered by water.",
+                                      "correct": true
                                     }
                                   },
                                   "settings": null
@@ -497,7 +367,7 @@
                                     "contentType": "quizAnswer",
                                     "id": "d4b3f8db-3a43-4992-8092-3e870da5fb3d",
                                     "properties": {
-                                      "value": "2. Lorem ipsum dolor sit amet",
+                                      "value": "Because leaving space lets the water expand.",
                                       "correct": null
                                     }
                                   },
@@ -508,8 +378,8 @@
                                     "contentType": "quizAnswer",
                                     "id": "66fcf67c-d32f-4a87-b0c3-56fd42cd7ea0",
                                     "properties": {
-                                      "value": "3. Lorem ipsum dolor sit amet *",
-                                      "correct": true
+                                      "value": "Because filling it halfway up leaves the water boiling.",
+                                      "correct": false
                                     }
                                   },
                                   "settings": null
@@ -519,7 +389,7 @@
                                     "contentType": "quizAnswer",
                                     "id": "cd4fb7de-ca27-4811-a721-33fba7d7f9d0",
                                     "properties": {
-                                      "value": "4. Lorem ipsum dolor sit amet",
+                                      "value": "Because overfilling can cause it to get dirty.",
                                       "correct": null
                                     }
                                   },
@@ -552,22 +422,8 @@
                           "contentType": "quizQuestion",
                           "id": "8b582f12-785b-46f2-89a7-c2ab64052ac8",
                           "properties": {
-                            "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                            "image": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
-                                "name": "quiz1.png",
-                                "mediaType": "Image",
-                                "url": "/media/u2abikuy/quiz1.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 188,
-                                "bytes": 87733,
-                                "properties": {}
-                              }
-                            ],
+                            "question": "How should the water look before you pour it into Solvatten?",
+                            "image": null,
                             "type": "Multiple",
                             "answers": {
                               "items": [
@@ -576,7 +432,7 @@
                                     "contentType": "quizAnswer",
                                     "id": "2542d4ba-35c1-4889-9bff-38835f2c86de",
                                     "properties": {
-                                      "value": "1. Lorem ipsum dolor sit amet",
+                                      "value": "It should be cloudy or dirty.",
                                       "correct": null
                                     }
                                   },
@@ -587,7 +443,7 @@
                                     "contentType": "quizAnswer",
                                     "id": "bd6077cc-0dd4-4b67-9f68-69df34750912",
                                     "properties": {
-                                      "value": "2. Lorem ipsum dolor sit amet",
+                                      "value": "It should have bits and pieces in it.",
                                       "correct": null
                                     }
                                   },
@@ -598,7 +454,7 @@
                                     "contentType": "quizAnswer",
                                     "id": "c70404b4-765e-4ee8-a09a-7503d33eb6ae",
                                     "properties": {
-                                      "value": "3. Lorem ipsum dolor sit amet *",
+                                      "value": "It should be clear enough to see through a glassful.",
                                       "correct": true
                                     }
                                   },
@@ -609,8 +465,8 @@
                                     "contentType": "quizAnswer",
                                     "id": "34a00939-e3e0-42b0-abc6-9e9ac0546686",
                                     "properties": {
-                                      "value": "4. Lorem ipsum dolor sit amet *",
-                                      "correct": true
+                                      "value": "It should be yellowish or brown.",
+                                      "correct": false
                                     }
                                   },
                                   "settings": null
@@ -636,6 +492,494 @@
                           }
                         },
                         "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "f101f7d3-a3c1-4d34-8989-74031e528769",
+                          "properties": {
+                            "question": "When should you push the Sun Button?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "7aea10ba-16a6-4eb2-891b-4ae7004074e7",
+                                    "properties": {
+                                      "value": "Press once the water starts to boil.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "5e3de4cc-606e-4eaf-b239-f4d3eab55762",
+                                    "properties": {
+                                      "value": "Press after Solvatten has been in the sun for an hour.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "d6e6e9f0-7726-4dc3-bb44-d38550cd0eea",
+                                    "properties": {
+                                      "value": "Press so it shows a red face when you start.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "0731f4a3-65e2-4780-a0ac-e18d24e3924d",
+                                    "properties": {
+                                      "value": "Press after Solvatten has been in the sun for five minutes.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "c833f1d4-3966-43cf-b4fa-594f16d542ab",
+                          "properties": {
+                            "question": "How do you place Solvatten when you start using it?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "28575306-28b1-4578-9a3a-0328353b6596",
+                                    "properties": {
+                                      "value": "Place Solvatten in a shaded area, out of direct sunlight.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "db50540d-0359-40da-803e-0b47f7e42790",
+                                    "properties": {
+                                      "value": "Place Solvatten at a 90°C angle facing the sun, preferably in a no-wind or shadow spot.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "3da0f289-7532-41f6-8a2b-c24e3337a200",
+                                    "properties": {
+                                      "value": "Place Solvatten in a shaded area with little sunlight.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "26fdb1e4-94ed-4db8-b4b8-6c63fd9dd806",
+                                    "properties": {
+                                      "value": "Place Solvatten in direct sunlight with wind to help it dry faster.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "516d8796-0e7e-43e1-b6c3-1704d3c15409",
+                          "properties": {
+                            "question": "When is the water safe to drink?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "969dba9e-6016-4787-a4ed-3eeeffa699f0",
+                                    "properties": {
+                                      "value": "When it has boiled for around 10 minutes.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "2ea5d03e-5478-4f3d-bc2d-9381959c2b72",
+                                    "properties": {
+                                      "value": "When the water is clear and cool.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "10a115b6-f627-424a-b66b-744cd4b8715b",
+                                    "properties": {
+                                      "value": "When the water steams and feels cool to touch.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "157c179f-0115-411f-b6a1-4de50e92b43b",
+                                    "properties": {
+                                      "value": "When the face on the indicator turns green and its within 24 hours.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "f5aadea8-0d3b-4b2c-8097-466867ddc178",
+                          "properties": {
+                            "question": "Where do you pour the water out?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "1c83a5af-74d8-4ec7-ab12-8cb10fd29f7b",
+                                    "properties": {
+                                      "value": "From the bottom of the container.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "5d5d6e38-2c1e-498f-b197-9780c403be9a",
+                                    "properties": {
+                                      "value": "From the openings with black caps and filters.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "633ff3b7-a248-4a7d-9821-116b53d2867f",
+                                    "properties": {
+                                      "value": "From the openings with the white caps.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "4acd472c-4abe-47f2-883d-4331fc05f227",
+                                    "properties": {
+                                      "value": "From the spout on the side of the container.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "ff3db9f3-865f-4a05-908f-4659d27eef3f",
+                          "properties": {
+                            "question": "How should you store the treated water?",
+                            "image": null,
+                            "type": null,
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "b48fd791-b50f-4dd5-b830-8cd94a2d9bcc",
+                                    "properties": {
+                                      "value": "Keep it in an open container.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "71a76be5-2c48-4ee8-b064-df1fa1a51e19",
+                                    "properties": {
+                                      "value": "Keep it in a clean, closed pot away from the ground.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "ab38df62-702c-414c-b256-62c7b4711bf7",
+                                    "properties": {
+                                      "value": "Keep it in a clear bottle.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "5da36f71-0c73-4a98-b660-8c2ed9590af2",
+                                    "properties": {
+                                      "value": "Keep it in the Solvatten kit.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "5fc01b65-24b1-4b3f-9d9a-5d964788ee38",
+                          "properties": {
+                            "question": "How might you use the hot water?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "097d36f5-5088-44ea-a733-9b94e536821f",
+                                    "properties": {
+                                      "value": "For personal hygiene, cooking food, or use it for tea or coffee.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "c7c46ca5-d52e-44b1-bbff-966b79b9f55f",
+                                    "properties": {
+                                      "value": "For cleaning the roof, washing your phone, and drying clothes.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "36f9aa21-6268-46d4-b83c-9e2dd0e48642",
+                                    "properties": {
+                                      "value": "For washing the dog, polishing furniture, and making ice cubes.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "0f24066d-2442-4058-a127-21d4885a7947",
+                                    "properties": {
+                                      "value": "For watering plants, cleaning shoes, and filling a swimming pool.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "081e6aa7-2c8e-45f9-8532-4c615e17f137",
+                          "properties": {
+                            "question": "Why should you never use sand when washing Solvatten?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "6be29d42-83a6-4258-b247-a837cd869667",
+                                    "properties": {
+                                      "value": "Sand helps clean the container faster.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "361983cd-cb2b-4c51-be00-70fcbdc5294d",
+                                    "properties": {
+                                      "value": "Sand scratches the plastic and reduces the effectiveness of Solvatten.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "e19fcadc-bc03-4da5-93a3-e7e8f71276d5",
+                                    "properties": {
+                                      "value": "Sand makes the container heat up too quickly.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "f6f83ed9-9174-4640-afbd-1521e4c4e14e",
+                                    "properties": {
+                                      "value": "Sand clears the filters faster.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "a353bd89-3090-4f72-9f02-2845526bc380",
+                          "properties": {
+                            "question": "What do you do when the weather is cloudy?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "0fddfdf2-000e-4640-a8d4-4fe783542384",
+                                    "properties": {
+                                      "value": "Nothing. You can still drink the water after a few hours.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "f266f848-6d4a-4212-927d-6c7f4a0409ce",
+                                    "properties": {
+                                      "value": "Boil the water to make it clean and hot by using the source of energy at hand.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "dbf23088-d602-4f12-b235-73a639ee55db",
+                                    "properties": {
+                                      "value": "Protect it with an umbrella.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "d220c7d9-b279-41f7-93e7-9291cd5a553e",
+                                    "properties": {
+                                      "value": "Hold it high.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
                       }
                     ]
                   },
@@ -657,22 +1001,8 @@
                           "contentType": "quizQuestion",
                           "id": "d3533f00-16d9-4b46-a001-2b331534bc9a",
                           "properties": {
-                            "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                            "image": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
-                                "name": "quiz1.png",
-                                "mediaType": "Image",
-                                "url": "/media/u2abikuy/quiz1.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 188,
-                                "bytes": 87733,
-                                "properties": {}
-                              }
-                            ],
+                            "question": "What is the main job of the clear plastic covers on the Solvatten kit?",
+                            "image": null,
                             "type": "Multiple",
                             "answers": {
                               "items": [
@@ -681,8 +1011,8 @@
                                     "contentType": "quizAnswer",
                                     "id": "0cc5f2d5-abb0-4bee-8cd8-9da008d3d90f",
                                     "properties": {
-                                      "value": "1. Lorem ipsum dolor sit amet *",
-                                      "correct": true
+                                      "value": "They reflect solar radiation to reduce exposure to the water.",
+                                      "correct": false
                                     }
                                   },
                                   "settings": null
@@ -692,7 +1022,7 @@
                                     "contentType": "quizAnswer",
                                     "id": "c89b0a87-2fcd-4943-9bf6-e8acbce5e3b1",
                                     "properties": {
-                                      "value": "2. Lorem ipsum dolor sit amet *",
+                                      "value": "They let 90°C of solar radiation through to heat the water.",
                                       "correct": true
                                     }
                                   },
@@ -703,8 +1033,8 @@
                                     "contentType": "quizAnswer",
                                     "id": "5e663984-52ae-4ba3-a414-d887dee80eea",
                                     "properties": {
-                                      "value": "3. Lorem ipsum dolor sit amet *",
-                                      "correct": true
+                                      "value": "They block UV radiation to protect the water.",
+                                      "correct": false
                                     }
                                   },
                                   "settings": null
@@ -714,7 +1044,7 @@
                                     "contentType": "quizAnswer",
                                     "id": "ded1007c-8327-4966-b592-09629786e64f",
                                     "properties": {
-                                      "value": "4. Lorem ipsum dolor sit amet",
+                                      "value": "They block heat to keep the water cooler.",
                                       "correct": null
                                     }
                                   },
@@ -741,6 +1071,555 @@
                           }
                         },
                         "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "fad650b2-973f-4196-8784-20513e6df145",
+                          "properties": {
+                            "question": "Why is UV radiation important for cleaning the water in the Solvatten kit?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "4072ac8e-1808-43f4-8bf2-17026e23fc3a",
+                                    "properties": {
+                                      "value": "Because it destroys harmful microorganisms by damaging their DNA.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "d5b82a76-0295-44dd-9ec7-efc94815e710",
+                                    "properties": {
+                                      "value": "Because it helps the water stay cold.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "85894d0f-b109-43c8-91a0-77ef3fd3e3b6",
+                                    "properties": {
+                                      "value": "Because it makes the water taste better.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "e976489e-a483-49ac-a394-f73e84b80131",
+                                    "properties": {
+                                      "value": "Because it makes the water look clearer.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "5ed0fcb0-73b5-4b51-becd-ea09c41a2291",
+                          "properties": {
+                            "question": "Why is heat important in cleaning the water in Solvatten?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "6aa4c09b-c124-4002-a256-920308ccdfae",
+                                    "properties": {
+                                      "value": "Because it helps filter out larger particles, making the water clearer.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "2a6a3533-20d5-4b6c-abf5-76d92835db3f",
+                                    "properties": {
+                                      "value": "Because it activates the UV radiation, helping it work better.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "f2d38c89-fc2f-4e5f-85bb-e7f5b0db885f",
+                                    "properties": {
+                                      "value": "Because it destroys microorganisms by raising the temperature to 50-60°C.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "cb74c10a-0f99-455c-a529-2f3ccace5c9d",
+                                    "properties": {
+                                      "value": "Because it speeds up the cleaning process, making the water safer.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "997a128f-a506-49d3-9da3-20213ffd51a6",
+                          "properties": {
+                            "question": "How does higher altitude affect the Solvatten kit?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "079821aa-4117-47b0-ad35-797ebca4ec0b",
+                                    "properties": {
+                                      "value": "The kit becomes less effective because the atmosphere absorbs more solar energy at higher altitudes.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "bb8d8cae-ed52-4678-950b-c3d5facc756a",
+                                    "properties": {
+                                      "value": "The kit becomes more effective because thinner air allows more solar energy reach it.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "bdbcee07-397f-43a5-9646-8eccbf652ce5",
+                                    "properties": {
+                                      "value": "The kit’s performance is the same at all altitudes, as solar radiation doesn’t change.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "2caf95b5-6af7-4b23-8546-c65f61acb895",
+                                    "properties": {
+                                      "value": "The kit works better at lower altitudes because the air keeps more heat.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "60d978f2-9e32-4cc4-87bb-f6b2b7beb158",
+                          "properties": {
+                            "question": "What is the best way to position Solvatten to get the most solar energy?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "e87f4658-4c80-467f-be34-d794596b5aa7",
+                                    "properties": {
+                                      "value": "Stand it up straight for consistent energy all year.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "6e20442a-42c7-481c-b371-880c970ea235",
+                                    "properties": {
+                                      "value": "Keep it at a fixed angle to keep heat in, no matter the time or season.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "fd186613-7ba3-4a1a-90a1-d3300664127f",
+                                    "properties": {
+                                      "value": "Place it parallel to the sun and adjust it in the morning and evening.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "c9983d37-9586-4634-9872-426768e37af4",
+                                    "properties": {
+                                      "value": "Tilt it at a 90°C angle such that the lid ring aligns with its shadow.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "e5203d01-86cf-4bc5-b4fe-568306ad515f",
+                          "properties": {
+                            "question": "What is one of the key long-term benefits of using Solvatten, particularly for women in households?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "21303a5f-8435-4753-93bf-bfa5dd0fff0b",
+                                    "properties": {
+                                      "value": "Women gain access to more expensive household products.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "56692bd7-437d-484f-a340-7f346514bdf9",
+                                    "properties": {
+                                      "value": "Women can exclusively switch to electric cooking methods, reducing their reliance on firewood.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "f9b81b08-b058-489a-8a4d-b23b3fc6bd8f",
+                                    "properties": {
+                                      "value": "Women can avoid the costs of cooking oil.",
+                                      "correct": false
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "49bf2b33-60c6-4ed5-bcfa-fa5ea8082923",
+                                    "properties": {
+                                      "value": "Women can reduce their daily time spent collecting water and firewood, allowing for more time for education and income-generating activities.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "4da4c882-a7e2-460e-8dde-de2c076d97b2",
+                          "properties": {
+                            "question": "How can someone save money by using Solvatten?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "21704918-930e-4295-a287-5f1010ede3e1",
+                                    "properties": {
+                                      "value": "By not owning one, as the Solvatten kit itself is an expense.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "89f009b6-aa61-4c6b-9498-2ed68e35af10",
+                                    "properties": {
+                                      "value": "By connecting it to the electricity grid.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "e4b6ec59-80dc-439e-ab91-589ccb6b89e2",
+                                    "properties": {
+                                      "value": "By using it to generate electricity for your home.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "3623e588-f3b1-4123-8536-210c3e8758ef",
+                                    "properties": {
+                                      "value": "By eliminating the need to buy fuel for boiling water, such as firewood or gas.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "73037502-0b51-4fc6-8ace-91e83dc04215",
+                          "properties": {
+                            "question": "How does Solvatten contribute to the preparation of food for small businesses?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "c34f970c-7f27-4b77-8bba-cad013ac64fb",
+                                    "properties": {
+                                      "value": "It provides warm water for baking and cooking, speeding up food prep.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "a6125516-5e39-4c47-b169-401d065ccf74",
+                                    "properties": {
+                                      "value": "It generates steam to cook food faster.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "6aa1b1d4-4036-4951-90ea-66af8d5d656a",
+                                    "properties": {
+                                      "value": "It helps keep food cool by cooling water.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "91d4baa6-b365-4b89-8177-c0f8b2574a2d",
+                                    "properties": {
+                                      "value": "It keeps the dishes fresh during preparation.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "11938834-a5e4-40bd-a574-d0d9a3fceedf",
+                          "properties": {
+                            "question": "Which of the following activities best demonstrates how Solvatten helps entrepreneurs increase their income?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "fa04ac61-0982-4c48-be04-bcef8faae601",
+                                    "properties": {
+                                      "value": "Solvatten is used to cool beverages for safe storage.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "b684123c-7e95-49b6-a0b8-8a78bb48bd8b",
+                                    "properties": {
+                                      "value": "Solvatten is used to make safe drinking water that can be sold as a product.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "40964d26-d4ec-4d55-9f8b-7873d70cb55e",
+                                    "properties": {
+                                      "value": "Solvatten has no impact on any sales.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "79c8d348-6f5a-42c3-992a-871eab1561b7",
+                                    "properties": {
+                                      "value": "Solvatten is used to filter food products before sale.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "d09ef2de-b4df-44cb-8bf8-39c5b7d8fab0",
+                          "properties": {
+                            "question": "How does Solvatten support communities in rural areas?",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "19bf7a46-99e3-47d7-9303-63e8dae54516",
+                                    "properties": {
+                                      "value": "By providing a reliable source of clean water.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "d6f03d28-d54d-4e57-90c4-a4aab11a3581",
+                                    "properties": {
+                                      "value": "By helping to create strong internet connections for remote communities.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "c7b50078-e26b-418b-ade5-8c8dbc7599fd",
+                                    "properties": {
+                                      "value": "By offering a substitute for rainwater harvesting systems.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "c921a594-834e-4a81-98f5-e0641afaf197",
+                                    "properties": {
+                                      "value": "By allowing people to instantly grow crops with purified water.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
                       }
                     ]
                   },
@@ -760,22 +1639,89 @@
             "path": "app"
           }
         },
-        "nl": {
-          "path": "/nl/quizzes/",
+        "en": {
+          "path": "/en/quizzes/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
-        },
-        "fr": {
-          "path": "/fr/quizzes/",
+        }
+      }
+    },
+    {
+      "contentType": "tipsAndTricks",
+      "name": "Tips Och Tricks",
+      "createDate": "2024-11-06T16:08:33.1975827",
+      "updateDate": "2025-01-22T10:48:19.6787385",
+      "route": {
+        "path": "/sv/tips-och-tricks/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "d9a1d37e-efb4-4190-9164-64db8d648c6d",
+      "properties": {
+        "content": {
+          "items": [
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "16d038fe-7d8a-45f7-b0c9-465d64887f24",
+                "properties": {
+                  "title": "Tips och trick 1 titel",
+                  "content": null
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "sv": {
+          "path": "/sv/tips-och-tricks/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
         },
         "en": {
-          "path": "/en/quizzes/",
+          "path": "/en/tips-and-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "app",
+      "name": "App",
+      "createDate": "2024-10-30T09:18:55.7292754",
+      "updateDate": "2025-01-23T22:59:47.9500511",
+      "route": {
+        "path": "/sv/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+      "properties": {
+        "videoUrl": "https://www.youtube.com/watch?v=wKJO0a4TrZQ",
+        "imageUrl": "https://i.ytimg.com/vi/-FBxin_x1yU/hqdefault.jpg"
+      },
+      "cultures": {
+        "sv": {
+          "path": "/sv/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "en": {
+          "path": "/en/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
