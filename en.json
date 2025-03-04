@@ -3409,7 +3409,7 @@
       "contentType": "tipsAndTricks",
       "name": "Tips And Tricks",
       "createDate": "2024-11-06T16:08:33.1975827",
-      "updateDate": "2025-03-03T15:28:47.7467101",
+      "updateDate": "2025-03-04T21:52:22.5684837",
       "route": {
         "path": "/en/tips-and-tricks/",
         "startItem": {
@@ -4222,14 +4222,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "83269143-9c01-460f-b023-4533bc691654",
-                                "name": "Skärmavbild 2025-01-20 kl. 11.27.44.png",
+                                "id": "045d3bac-090c-482f-96e8-a3bb7b9adb00",
+                                "name": "GIF-solvatten-350x350.gif",
                                 "mediaType": "Image",
-                                "url": "/media/zrnhanli/skaermavbild-2025-01-20-kl-112744.png",
-                                "extension": "png",
-                                "width": 915,
-                                "height": 641,
-                                "bytes": 801404,
+                                "url": "/media/epybxmtf/gif-solvatten-350x350.gif",
+                                "extension": "gif",
+                                "width": 350,
+                                "height": 350,
+                                "bytes": 3804772,
                                 "properties": {}
                               }
                             ],
