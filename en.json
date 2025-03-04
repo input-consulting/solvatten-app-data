@@ -2,44 +2,10 @@
   "total": 5,
   "items": [
     {
-      "contentType": "app",
-      "name": "App",
-      "createDate": "2024-10-30T09:18:55.7292754",
-      "updateDate": "2025-01-23T23:10:32.8348569",
-      "route": {
-        "path": "/en/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-      "properties": {
-        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
-        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
-      },
-      "cultures": {
-        "sv": {
-          "path": "/sv/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "en": {
-          "path": "/en/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
       "contentType": "instructions",
       "name": "Instructions",
       "createDate": "2024-09-20T23:10:25.3865255",
-      "updateDate": "2025-01-15T16:23:49.1345228",
+      "updateDate": "2025-02-26T10:55:37.6722344",
       "route": {
         "path": "/en/instructions/",
         "startItem": {
@@ -50,7 +16,7 @@
       "id": "df76bb6f-4d5c-4a11-a263-d34bb44d252b",
       "properties": {
         "title": "Before you start...",
-        "block1": "Know your water source. Use the water that comes from your regular basis. If you have doubts about the quality of water, you should check with your local water advisor. Solvatten does not treat chemical contamination like arsenic or fluoride. Solvatten only treats water contaminated with micro-biological pathogens.",
+        "block1": "Know your water source. Use the water that comes from your regular source. If you have doubts about the quality of water, you should check with your local water advisor. Please note that Solvatten only treats water contaminated with micro-biological pathogens. Solvatten does not remove chemical contamination or arsenic or fluoride. ",
         "block2": "Now lets get into it! :)",
         "chapters": {
           "items": [
@@ -71,14 +37,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "529a8be3-d9fc-4857-8f5c-36ff4e3224db",
-                                "name": "chapter1_1.png",
+                                "id": "48a76f15-02e7-43e7-8e6f-1a5798b4e8a0",
+                                "name": "_MG_0212 (kopia).jpg",
                                 "mediaType": "Image",
-                                "url": "/media/nranzzev/chapter1_1.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 179,
-                                "bytes": 51778,
+                                "url": "/media/tkspd5uo/_mg_0212-kopia.jpg",
+                                "extension": "jpg",
+                                "width": 5472,
+                                "height": 3648,
+                                "bytes": 9879984,
                                 "properties": {}
                               }
                             ],
@@ -92,7 +58,7 @@
                           "contentType": "text",
                           "id": "ffad43ff-2685-46ab-a0ad-1e5e11d99b17",
                           "properties": {
-                            "value": "By starting as the sun comes up, you get the best chance of treating water successfully several times per day."
+                            "value": "By starting as the sun comes up, you have the best chance of successfully treating water several times a day."
                           }
                         },
                         "settings": null
@@ -106,14 +72,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "3af88a11-1c82-468d-a14c-b54d23304d28",
-                                "name": "chapter1_2.png",
+                                "id": "50dff20b-4376-42de-b30f-10c877b85ebb",
+                                "name": "IMG_3631 copy.JPG",
                                 "mediaType": "Image",
-                                "url": "/media/tzal3dhl/chapter1_2.png",
-                                "extension": "png",
-                                "width": 342,
-                                "height": 189,
-                                "bytes": 76707,
+                                "url": "/media/qq2jtzq5/img_3631-copy.jpg",
+                                "extension": "jpg",
+                                "width": 2592,
+                                "height": 2706,
+                                "bytes": 815909,
                                 "properties": {}
                               }
                             ],
@@ -127,7 +93,7 @@
                           "contentType": "text",
                           "id": "68d15000-9cd4-4272-ac85-8f12e44fad9a",
                           "properties": {
-                            "value": "Make sure the indicator is RED with a sad smiley when you start. If it is not red, push she yellow Sun Button to reset it; read chapter 9."
+                            "value": "Make sure the indicator is RED with a sad smiley when you start. If the indicator is not red, push the yellow Sun Button to reset it."
                           }
                         },
                         "settings": null
@@ -155,14 +121,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "7a1d9882-6395-426c-ab3a-03453ee81120",
-                                "name": "chapter2_1.png",
+                                "id": "e5740dde-d0f3-4851-a651-2b170c95b708",
+                                "name": "P1000779 Copy.JPG",
                                 "mediaType": "Image",
-                                "url": "/media/bvjfxth2/chapter2_1.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 188,
-                                "bytes": 115296,
+                                "url": "/media/khddeu20/p1000779-copy.jpg",
+                                "extension": "jpg",
+                                "width": 552,
+                                "height": 552,
+                                "bytes": 76563,
                                 "properties": {}
                               }
                             ],
@@ -176,7 +142,7 @@
                           "contentType": "text",
                           "id": "c56b6338-de9b-4eb0-9a76-a30a1f058014",
                           "properties": {
-                            "value": "The water should be clear enough for you to see through a glassful (less than 40 NTU)."
+                            "value": "The water should be clear enough to see through when poured in a glass (less than 40 NTU)."
                           }
                         },
                         "settings": null
@@ -186,7 +152,7 @@
                           "contentType": "text",
                           "id": "95c75e13-9667-47b8-8865-d5b610f15106",
                           "properties": {
-                            "value": "If the water is very muddy, you should prefilter it first; read chapter 10."
+                            "value": "If the water is very muddy, pre-filter it first (see how in Chapter 10)."
                           }
                         },
                         "settings": null
@@ -221,7 +187,7 @@
                           "contentType": "text",
                           "id": "7e481cd0-b5be-40f4-821f-6737096f6065",
                           "properties": {
-                            "value": "Open ALL FOUR caps to make it easier to fill"
+                            "value": "Open ALL FOUR caps to make it easier to fill."
                           }
                         },
                         "settings": null
@@ -235,14 +201,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "9e4a2378-0d3a-44e1-879c-f6a942bdeb3a",
-                                "name": "chapter2_3.png",
+                                "id": "167a8b84-9bd4-45d6-aa26-ddadea29d262",
+                                "name": "DSC_0121.jpeg",
                                 "mediaType": "Image",
-                                "url": "/media/45ubykct/chapter2_3.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 188,
-                                "bytes": 123532,
+                                "url": "/media/bnadzif3/dsc_0121.jpeg",
+                                "extension": "jpeg",
+                                "width": 6016,
+                                "height": 4000,
+                                "bytes": 4079758,
                                 "properties": {}
                               }
                             ],
@@ -256,7 +222,7 @@
                           "contentType": "text",
                           "id": "73fa7923-9d39-4876-a07a-5a72e2046b96",
                           "properties": {
-                            "value": "Pour the water in through the openings with BLACK CAPS and filters. The filters make the water less muddy and remove more significant micro-organisms."
+                            "value": "Pour the water through the openings with BLACK CAPS and filters. The filters make the water less muddy and remove larger micro-organisms."
                           }
                         },
                         "settings": null
@@ -270,14 +236,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "84e93ca3-b83e-42fc-9277-fc7ebfe254d2",
-                                "name": "chapter2_4.png",
+                                "id": "4fce0035-1937-478c-807f-274be4e2d550",
+                                "name": "L'appareil du Solvatten signale vert après l'expérimentation du Solvatten à Kabeumb Ziguinchor.JPG",
                                 "mediaType": "Image",
-                                "url": "/media/ft1k4msx/chapter2_4.png",
-                                "extension": "png",
-                                "width": 343,
-                                "height": 188,
-                                "bytes": 87516,
+                                "url": "/media/xlfir4k4/lappareil-du-solvatten-signale-vert-après-lexpérimentation-du-solvatten-à-kabeumb-ziguinchor.jpg",
+                                "extension": "jpg",
+                                "width": 4608,
+                                "height": 3456,
+                                "bytes": 4260706,
                                 "properties": {}
                               }
                             ],
@@ -291,7 +257,7 @@
                           "contentType": "text",
                           "id": "20599264-6f2f-4c63-9022-75b6d8945087",
                           "properties": {
-                            "value": "Pour in the water from a height. Fill Solvatten to the top so that the water surrounds the indicator. Otherwise, the indicator will not work"
+                            "value": "Pour the water from a height. Fill Solvatten to the top so that the water surrounds the indicator. Otherwise, the indicator will not work."
                           }
                         },
                         "settings": null
@@ -375,7 +341,7 @@
                           "contentType": "text",
                           "id": "5006c043-57e3-4ab0-8b37-b86271e1e45b",
                           "properties": {
-                            "value": "If the indicator is GREEN and shows a happy\nsmiley you should reset the indicator by\npushing the yellow Sun Button. Do not push if\nit is already RED."
+                            "value": "If the indicator is GREEN and shows a happy smiley you should reset the indicator by pushing the yellow Sun Button. Do not push the button if it is already RED."
                           }
                         },
                         "settings": null
@@ -389,14 +355,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "fa39ed44-a015-4631-8eb4-5b17c96e9b72",
-                                "name": "Skärmavbild 2010-08-23 kl. 16.56.28.png (1)",
+                                "id": "e4d58287-85c1-4ece-9098-b2341a1b4fa1",
+                                "name": "IMG_8833.JPG",
                                 "mediaType": "Image",
-                                "url": "/media/zmth4td2/skaermavbild-2010-08-23-kl-165628.png",
-                                "extension": "png",
-                                "width": 437,
-                                "height": 264,
-                                "bytes": 122076,
+                                "url": "/media/bbejguvi/img_8833.jpg",
+                                "extension": "jpg",
+                                "width": 5472,
+                                "height": 3648,
+                                "bytes": 5536388,
                                 "properties": {}
                               }
                             ],
@@ -410,7 +376,7 @@
                           "contentType": "text",
                           "id": "a948594a-000b-4bb1-84d9-9d4c8780c4a4",
                           "properties": {
-                            "value": "IMPORTANT! The face on the indicator must\nbe RED, and a sad smiley should appear\nwhen you start."
+                            "value": "IMPORTANT: The face on the indicator must be RED and a sad smiley should appear when you start."
                           }
                         },
                         "settings": null
@@ -426,7 +392,7 @@
                 "contentType": "chapter",
                 "id": "2be93b5b-ac88-4397-b51a-cf5104294de0",
                 "properties": {
-                  "title": "Put Solvatten in a good place ",
+                  "title": "Place Solvatten in a good spot",
                   "content": {
                     "items": [
                       {
@@ -459,7 +425,7 @@
                           "contentType": "text",
                           "id": "da27acd5-ab2e-45d1-938e-5fa4a48cae08",
                           "properties": {
-                            "value": "Open up and place Solvatten facing the sun.\nPut Solvatten fully open with the transparent\nsurfaces facing directly towards the sun."
+                            "value": "Place Solvatten facing the sun. The kit should be fully open with the transparent surfaces facing directly towards the sun."
                           }
                         },
                         "settings": null
@@ -494,7 +460,7 @@
                           "contentType": "text",
                           "id": "4a705fb6-efe7-4a48-98a2-76cf283f6046",
                           "properties": {
-                            "value": "Adjust the position at 90° degrees to the sun.\nA ring in the center of the lid throws a shadow\nand helps you find the optimal angle towards the\nsun. IMPORTANT: If laid flat or at too steep an\nangle, Solvatten will work more slowly!"
+                            "value": "Adjust the position to a 90° angle to the sun. The ring in the center of the lid will cast a shadow and help you find the correct angle.\n\nIMPORTANT: If laid flat or at too steep an angle, Solvatten will work more slowly."
                           }
                         },
                         "settings": null
@@ -529,7 +495,7 @@
                           "contentType": "text",
                           "id": "4699d3f7-80f3-4bc4-bd45-6c296bad435c",
                           "properties": {
-                            "value": "Make sure Solvatten is sheltered from the\nwind. It should be in a place without a shadow\nthroughout the day. Leave Solvatten in the sunshine\nfor 2-6 hours."
+                            "value": "Make sure Solvatten is sheltered from the wind. It should be in a place where no shade can reach it. Leave Solvatten in the sun for 2-6 hours."
                           }
                         },
                         "settings": null
@@ -564,7 +530,7 @@
                           "contentType": "text",
                           "id": "62825e85-8b88-4ed9-904d-a05ec127378e",
                           "properties": {
-                            "value": "If you place Solvatten on a surface such as a\nbed of hay or similar will help it heat up faster."
+                            "value": "If you place Solvatten on an elevated surface, such as a bed of hay or something similar, this will help it heat up faster."
                           }
                         },
                         "settings": null
@@ -599,7 +565,7 @@
                           "contentType": "text",
                           "id": "6d6f4777-61fa-4ecd-b029-e0703c4dcaf8",
                           "properties": {
-                            "value": "Protect from wind chill. A large bag cut open\ncan be used to provide some shelter from wind\nand make Solvatten work faster."
+                            "value": "Protect Solvatten from the wind. A large bag cut open can be used to provide shelter and make Solvatten work faster."
                           }
                         },
                         "settings": null
@@ -634,7 +600,7 @@
                           "contentType": "text",
                           "id": "fcb1ced6-ce9a-414e-8dd0-a89c2b9fe134",
                           "properties": {
-                            "value": "If the weather is cold, use a pillow or blanket to\nprovide insulation and speed up the process."
+                            "value": "If the weather is cold, use a pillow or a blanket to provide insulation and speed up the process."
                           }
                         },
                         "settings": null
@@ -662,14 +628,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "b8bae480-daad-4039-8318-1d90b90a984b",
-                                "name": "DSC_5774.png",
+                                "id": "ae9a255b-3b3d-41ea-962e-96b1ef622646",
+                                "name": "DSC_2241.JPG",
                                 "mediaType": "Image",
-                                "url": "/media/b2xpydwe/dsc_5774.png",
-                                "extension": "png",
-                                "width": 2848,
-                                "height": 4288,
-                                "bytes": 16165389,
+                                "url": "/media/0txnygcu/dsc_2241.jpg",
+                                "extension": "jpg",
+                                "width": 3070,
+                                "height": 4191,
+                                "bytes": 1761238,
                                 "properties": {}
                               }
                             ],
@@ -718,7 +684,7 @@
                           "contentType": "text",
                           "id": "020a9a0e-4e88-402f-90b1-92f1a2de8fc8",
                           "properties": {
-                            "value": "When the temperature reaches 55 celsius, a\ngreen face shows, and the water will be safe\nfor drinking."
+                            "value": "When the temperature reaches 55°C, a green smiley appears and the water will be safe to drink."
                           }
                         },
                         "settings": null
@@ -734,7 +700,7 @@
                 "contentType": "chapter",
                 "id": "48539853-3af7-46d9-b815-e7fa7fee8434",
                 "properties": {
-                  "title": " Use the white caps when pouring water out ",
+                  "title": " Use the white caps when pouring out the water ",
                   "content": {
                     "items": [
                       {
@@ -746,14 +712,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "2d2da161-e6e6-452b-931e-8ae3e0e25fc8",
-                                "name": "Skärmbild 2025-01-15 160114.png",
+                                "id": "342c0ab1-40bf-4f9c-af55-3eeb44257ac0",
+                                "name": "TheTech-Solvatten-Kenya_072.jpg",
                                 "mediaType": "Image",
-                                "url": "/media/3zvhxg2p/skaermbild-2025-01-15-160114.png",
-                                "extension": "png",
-                                "width": 376,
-                                "height": 258,
-                                "bytes": 106638,
+                                "url": "/media/h1agvaww/thetech-solvatten-kenya_072.jpg",
+                                "extension": "jpg",
+                                "width": 5760,
+                                "height": 3840,
+                                "bytes": 766830,
                                 "properties": {}
                               }
                             ],
@@ -767,7 +733,7 @@
                           "contentType": "text",
                           "id": "c712123b-4562-497c-9c70-fdb82fd523a5",
                           "properties": {
-                            "value": "IMPORTANT! Pour out the treated water\nthrough the openings with WHITE CAPS"
+                            "value": "IMPORTANT: Pour the treated water through the openings with the WHITE CAPS."
                           }
                         },
                         "settings": null
@@ -802,7 +768,7 @@
                           "contentType": "text",
                           "id": "9459cd94-7ef5-431b-90d3-62ccdde49667",
                           "properties": {
-                            "value": "Be careful - the water can be very hot!"
+                            "value": "Be careful! The water can be very hot."
                           }
                         },
                         "settings": null
@@ -851,7 +817,7 @@
                           "contentType": "text",
                           "id": "f97cdc69-4ac2-432c-97fc-ff85ba49d70e",
                           "properties": {
-                            "value": "Use hot water for personal hygiene. Having\na bath in hot water feels good.\nIf too hot, you should let it cool first."
+                            "value": "Use hot water for personal hygiene and taking a bath. If it is too hot, you should let it cool first."
                           }
                         },
                         "settings": null
@@ -865,14 +831,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "11a0fafc-0ac4-46a0-99cd-1f2b15bd3e1e",
-                                "name": "Skärmbild 2025-01-15 160132.png",
+                                "id": "cab1741c-467e-4219-8603-20d80f8bd749",
+                                "name": "IMG_3058 Copy.jpeg",
                                 "mediaType": "Image",
-                                "url": "/media/omyonj3n/skaermbild-2025-01-15-160132.png",
-                                "extension": "png",
-                                "width": 375,
-                                "height": 240,
-                                "bytes": 175438,
+                                "url": "/media/so5po5ax/img_3058-copy.jpeg",
+                                "extension": "jpeg",
+                                "width": 1536,
+                                "height": 1466,
+                                "bytes": 284121,
                                 "properties": {}
                               }
                             ],
@@ -886,7 +852,7 @@
                           "contentType": "text",
                           "id": "f77af85f-7eb3-4c3c-9d55-7234c4c6a165",
                           "properties": {
-                            "value": "Fill water in a tippy tap stand. Always do handwashing\nwith soap and water from Solvatten\nafter visiting the toilet, before eating and\npreparing food. It will improve your and your\nfamily members’ health."
+                            "value": "Pour water into a tippy tap stand. Remember to wash your hands with soap and water from Solvatten after visiting the toilet, before eating, and preparing food. This will improve your and your family members’ health."
                           }
                         },
                         "settings": null
@@ -935,7 +901,7 @@
                           "contentType": "text",
                           "id": "87d9e477-097c-4ef6-a404-c47a1a871d54",
                           "properties": {
-                            "value": "Pre-heating water for cooking will save you\nmuch fuel. Solvatten can replace a lot of\nfirewood, coal, or gas."
+                            "value": "Pre-heating water for cooking will save you a lot of fuel. Solvatten can replace a lot of firewood, coal, and gas."
                           }
                         },
                         "settings": null
@@ -949,14 +915,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "10f99ba9-c7f3-4fb7-b1dd-b8d3260139d1",
-                                "name": "_MG_8351-2.png",
+                                "id": "970e2281-2161-41e8-b76d-c76ae7f079d8",
+                                "name": "f2yipi8p.png",
                                 "mediaType": "Image",
-                                "url": "/media/ezil5ju0/_mg_8351-2.png",
+                                "url": "/media/b1ueqiii/f2yipi8p.png",
                                 "extension": "png",
-                                "width": 2912,
-                                "height": 4368,
-                                "bytes": 12977847,
+                                "width": 262,
+                                "height": 229,
+                                "bytes": 118559,
                                 "properties": {}
                               }
                             ],
@@ -970,7 +936,7 @@
                           "contentType": "text",
                           "id": "253c2850-c333-46e5-b0ff-894c1fdcb29e",
                           "properties": {
-                            "value": "Use safe water when rinsing and preparing\nyour food."
+                            "value": "With Solvatten, you have safe water to prepare and rinse your food."
                           }
                         },
                         "settings": null
@@ -998,14 +964,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "90daa6a4-a4e2-49e0-a861-af6472eeed3d",
-                                "name": "safe storage2.png",
+                                "id": "901e618c-b5d6-4fc4-8833-e8b430a0e726",
+                                "name": "DSC_7515.JPG",
                                 "mediaType": "Image",
-                                "url": "/media/fnwjyjul/safe-storage2.png",
-                                "extension": "png",
-                                "width": 221,
-                                "height": 333,
-                                "bytes": 73562,
+                                "url": "/media/aovfqjv5/dsc_7515.jpg",
+                                "extension": "jpg",
+                                "width": 3264,
+                                "height": 4928,
+                                "bytes": 6347841,
                                 "properties": {}
                               }
                             ],
@@ -1019,7 +985,7 @@
                           "contentType": "text",
                           "id": "1844ddc3-b6fc-4f60-9443-61c4bd9bbc47",
                           "properties": {
-                            "value": "To make more batches of Solvatten, pour the\nwater into a clean container. Always use a lid\nand a tap to avoid re-contamination. Keep\nthe container away from the floor."
+                            "value": "To make more batches of water with Solvatten, pour the water into a clean container. Always use a lid and a tap to avoid re-contamination. Keep the container away from the floor."
                           }
                         },
                         "settings": null
@@ -1033,14 +999,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "6b73312c-62f0-4c09-8b2b-ea063fb1874f",
-                                "name": "safe storage.png",
+                                "id": "098f6b5f-58ca-40f0-b013-a191723aa9b3",
+                                "name": "_MG_0108 copy.jpg (1)",
                                 "mediaType": "Image",
-                                "url": "/media/up3dlxmz/safe-storage.png",
-                                "extension": "png",
-                                "width": 249,
-                                "height": 332,
-                                "bytes": 129474,
+                                "url": "/media/0cqntp3d/_mg_0108-copy.jpg",
+                                "extension": "jpg",
+                                "width": 2178,
+                                "height": 1455,
+                                "bytes": 460983,
                                 "properties": {}
                               }
                             ],
@@ -1054,7 +1020,7 @@
                           "contentType": "text",
                           "id": "229714e3-0c8a-4aab-aee4-f8f99793972f",
                           "properties": {
-                            "value": "To keep the water hot, you can pour it into a\nthermos."
+                            "value": "To keep the water hot, pour it into a thermos."
                           }
                         },
                         "settings": null
@@ -1128,7 +1094,7 @@
                           "contentType": "text",
                           "id": "4e915a2a-4522-46fc-b28d-e510e87efcc1",
                           "properties": {
-                            "value": "Place Solvatten in the shade to cool the water;\nit will soon be ready to drink."
+                            "value": "Place Solvatten in the shade to cool the water; it will soon be ready to drink."
                           }
                         },
                         "settings": null
@@ -1142,14 +1108,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "ee21d63a-e4ec-4f45-bf8a-a78c315667f3",
-                                "name": "Skärmbild 2025-01-15 160225.png",
+                                "id": "36d09341-a3c5-4432-8756-8e657eba9c0c",
+                                "name": "2022-Uganda-Mission 185.jpg",
                                 "mediaType": "Image",
-                                "url": "/media/wuogowef/skaermbild-2025-01-15-160225.png",
-                                "extension": "png",
-                                "width": 378,
-                                "height": 225,
-                                "bytes": 151982,
+                                "url": "/media/zzmjnafm/2022-uganda-mission-185.jpg",
+                                "extension": "jpg",
+                                "width": 3601,
+                                "height": 2216,
+                                "bytes": 1206855,
                                 "properties": {}
                               }
                             ],
@@ -1163,7 +1129,7 @@
                           "contentType": "text",
                           "id": "70340fc5-c3dc-4cf4-8ed5-a3d387e15dc5",
                           "properties": {
-                            "value": "Keep your treated water in Solvatten or in\nclean jars with lids to avoid re-contamination.\nWater treated through Solvatten can safely\nbe stored for 24 hours."
+                            "value": "Keep your treated water in Solvatten or in clean jars with lids to avoid re-contamination. Water treated through Solvatten can safely be stored for 24 hours."
                           }
                         },
                         "settings": null
@@ -1191,14 +1157,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "ba698c17-c519-45e1-a6f7-4e341569d0a3",
-                                "name": "Skärmbild 2025-01-15 160254.png",
+                                "id": "83eeb979-5790-4392-9f50-ae136184d100",
+                                "name": "DSC_7436 copy.JPG",
                                 "mediaType": "Image",
-                                "url": "/media/tbdc4ddq/skaermbild-2025-01-15-160254.png",
-                                "extension": "png",
-                                "width": 378,
-                                "height": 223,
-                                "bytes": 159008,
+                                "url": "/media/4zzlqnpz/dsc_7436-copy.jpg",
+                                "extension": "jpg",
+                                "width": 3264,
+                                "height": 2535,
+                                "bytes": 1586379,
                                 "properties": {}
                               }
                             ],
@@ -1212,7 +1178,7 @@
                           "contentType": "text",
                           "id": "8b34e8f6-5c7b-474b-86d2-60196ccbb9e1",
                           "properties": {
-                            "value": "Before using Solvatten, the water should be\nclear enough for you to see through a glassful\n(less than 40 NTU)."
+                            "value": "The water should be clear enough to see through when poured in a glass (less than 40 NTU)."
                           }
                         },
                         "settings": null
@@ -1247,7 +1213,7 @@
                           "contentType": "text",
                           "id": "3048fc7f-e84a-4ae5-994c-81ba63eb5708",
                           "properties": {
-                            "value": "If the water is very muddy, you should filter or\nsediment it (leave the water for a while to let\nthe particles settle to the bottom)."
+                            "value": "If the water is very muddy, you should filter or sediment it (leave the water for a while to allow the particles to sink to the bottom)."
                           }
                         },
                         "settings": null
@@ -1261,14 +1227,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "2297d1d8-7343-46b7-913d-9584ae3ed198",
-                                "name": "Skärmavbild 2010-08-23 kl. 16.02.32.png",
+                                "id": "25141e0b-c204-4384-aac0-e3294bd4df51",
+                                "name": "_MG_0951 copy.jpg (1)",
                                 "mediaType": "Image",
-                                "url": "/media/k2nndfbk/skaermavbild-2010-08-23-kl-160232.png",
-                                "extension": "png",
-                                "width": 296,
-                                "height": 398,
-                                "bytes": 250167,
+                                "url": "/media/qtkffe1n/_mg_0951-copy.jpg",
+                                "extension": "jpg",
+                                "width": 2104,
+                                "height": 2729,
+                                "bytes": 1003568,
                                 "properties": {}
                               }
                             ],
@@ -1282,7 +1248,7 @@
                           "contentType": "text",
                           "id": "b842cf1b-babf-460a-a6aa-127292b247a0",
                           "properties": {
-                            "value": "Another way is to build a sand and stone filter\nwith two buckets and a tap. Line a bucket\nwith a cloth, then fill it with sand and stones\nof different sizes. Let the water run through."
+                            "value": "Another option is to make a sand and stone filter using two buckets and a tap. Line one bucket with a cloth, then add layers of sand and stones of different sizes. Pour water in and let it filter through."
                           }
                         },
                         "settings": null
@@ -1296,14 +1262,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "faa008ec-cbe9-42c6-911d-ebd98f9bd833",
-                                "name": "Skärmavbild 2010-08-23 kl. 15.58.36.png",
+                                "id": "391bcc7b-fcff-4c58-a13e-6b2b591c8770",
+                                "name": "tq4g9fr8.png",
                                 "mediaType": "Image",
-                                "url": "/media/mpbomtea/skaermavbild-2010-08-23-kl-155836.png",
+                                "url": "/media/4qdf1d2w/tq4g9fr8.png",
                                 "extension": "png",
-                                "width": 402,
-                                "height": 274,
-                                "bytes": 200831,
+                                "width": 271,
+                                "height": 233,
+                                "bytes": 152758,
                                 "properties": {}
                               }
                             ],
@@ -1317,7 +1283,7 @@
                           "contentType": "text",
                           "id": "52bf019f-fdb9-4d0d-8b98-868505806db2",
                           "properties": {
-                            "value": "You can also make a simple sand filter. Use a\nplastic bottle, cut off the top, put some fabric\nin the bottom and fill it up with sand and\nstones. Let the water run through. Seeds from\nthe moringa can also help to reduce\nthe turbidity, (cloudiness) of the water."
+                            "value": "You can also make a simple sand filter using a plastic bottle. Cut off the top, place fabric at the bottom, and fill it with sand and stones. Pour water in and let it filter through. Moringa seeds can also help reduce the water’s turbidity (cloudiness)."
                           }
                         },
                         "settings": null
@@ -1331,14 +1297,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "13dfe6bb-e338-46bb-9af9-c9d0733a44aa",
-                                "name": "filtrering.png",
+                                "id": "4b99fc57-9189-456d-9953-1555965ad183",
+                                "name": "0ssgzaqb.png",
                                 "mediaType": "Image",
-                                "url": "/media/gqwjtjkr/filtrering.png",
+                                "url": "/media/1a1n55pa/0ssgzaqb.png",
                                 "extension": "png",
-                                "width": 1536,
-                                "height": 2048,
-                                "bytes": 6895791,
+                                "width": 300,
+                                "height": 318,
+                                "bytes": 250955,
                                 "properties": {}
                               }
                             ],
@@ -1391,7 +1357,7 @@
                           "contentType": "text",
                           "id": "eb4709d0-9ee3-4cbb-866a-658cf697fc8d",
                           "properties": {
-                            "value": "If the filters look dirty or clogged, you can take\nthem out and rinse them with water."
+                            "value": "If the filter looks dirty or clogged, take it out and rinse it with water."
                           }
                         },
                         "settings": null
@@ -1426,7 +1392,7 @@
                           "contentType": "text",
                           "id": "1019bc99-0597-4536-b7fe-9a976744a2fd",
                           "properties": {
-                            "value": "Rinse the filter with safe water, holding it\ngently between your fingers. You can also let\nthe filter boil for a few minutes."
+                            "value": "Rinse the filter with clean water, holding it gently between your fingers. You can also boil the filter in water for a few minutes."
                           }
                         },
                         "settings": null
@@ -1475,7 +1441,7 @@
                           "contentType": "text",
                           "id": "9920ef5f-eafa-4cef-9327-d9b130225e1f",
                           "properties": {
-                            "value": "If you have lost or damaged your filter, you can\nmake your own. Take a big piece of cloth and\nfold it into two or three layers. The new filter\nmust be big enough to cover the holes where\nyou pour in the water."
+                            "value": "If the filter is damaged or missing, you can make your own. Take a large piece of cloth and fold it into two or three layers. The new filter should be large enough to cover the opening where you pour in the water."
                           }
                         },
                         "settings": null
@@ -1510,7 +1476,7 @@
                           "contentType": "text",
                           "id": "7b255d35-01cc-4be6-84d3-bcf212907588",
                           "properties": {
-                            "value": "Place the folded cloth over the opening and\ncut around the edge. If the filter ring is gone,\nyou can tie a string around the opening to\nkeep the fabric in position."
+                            "value": "Place the folded cloth over the opening and cut around the edge. If the filter ring is gone, tie a string around the opening to keep the fabric in position."
                           }
                         },
                         "settings": null
@@ -1588,14 +1554,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "8488ac9a-ba51-478a-81e5-9dd540ec43b0",
-                                "name": "Skärmbild 2025-01-15 160344.png",
+                                "id": "b4b29fe3-2107-4831-9b7d-d434daad5478",
+                                "name": "DSC_7036 copy.JPG",
                                 "mediaType": "Image",
-                                "url": "/media/cvtm2mry/skaermbild-2025-01-15-160344.png",
-                                "extension": "png",
-                                "width": 375,
-                                "height": 243,
-                                "bytes": 194846,
+                                "url": "/media/nrkpiato/dsc_7036-copy.jpg",
+                                "extension": "jpg",
+                                "width": 4147,
+                                "height": 3029,
+                                "bytes": 1348967,
                                 "properties": {}
                               }
                             ],
@@ -1623,14 +1589,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "27f498ec-9c7b-4f4e-bc80-5e9ccad23854",
-                                "name": "Skärmbild 2025-01-15 160351.png",
+                                "id": "c896de6a-5806-4f2d-9a73-578036fd3065",
+                                "name": "2022-Uganda-Mission 018 copy.jpg",
                                 "mediaType": "Image",
-                                "url": "/media/mnjlfeis/skaermbild-2025-01-15-160351.png",
-                                "extension": "png",
-                                "width": 374,
-                                "height": 245,
-                                "bytes": 205316,
+                                "url": "/media/2ukna5tp/2022-uganda-mission-018-copy.jpg",
+                                "extension": "jpg",
+                                "width": 2092,
+                                "height": 1866,
+                                "bytes": 946888,
                                 "properties": {}
                               }
                             ],
@@ -1644,7 +1610,7 @@
                           "contentType": "text",
                           "id": "d4e576cc-e40a-4175-928d-20231c735b3b",
                           "properties": {
-                            "value": "IMPORTANT! Avoid scratching. Do not wipe or\nscrub the transparent surface with sand.\nTo get rid of dirt and dust on the outside,\nrinse the containers by pouring over some\nwater."
+                            "value": "IMPORTANT: Avoid scratching. Do not wipe or scrub the transparent surface with sand. To get rid of dirt and dust on the outside, rinse the container with water."
                           }
                         },
                         "settings": null
@@ -1693,7 +1659,7 @@
                           "contentType": "text",
                           "id": "9d858400-b197-4fb0-9f43-1cc973ce8aa0",
                           "properties": {
-                            "value": "Wash the inside with hot water using a soft\nplastic bottle brush."
+                            "value": "Clean the inside of Solvatten with hot water using a soft plastic bottle brush."
                           }
                         },
                         "settings": null
@@ -1707,14 +1673,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "c46caeaf-2400-4e12-abb8-08416a21a130",
-                                "name": "böj.png",
+                                "id": "cc237d81-0b20-45d3-a420-e041db8e5421",
+                                "name": "874ljpd4 copy.png",
                                 "mediaType": "Image",
-                                "url": "/media/ebscu2tj/boej.png",
+                                "url": "/media/b01hk4sj/874ljpd4-copy.png",
                                 "extension": "png",
-                                "width": 2848,
-                                "height": 4288,
-                                "bytes": 17545570,
+                                "width": 295,
+                                "height": 294,
+                                "bytes": 176681,
                                 "properties": {}
                               }
                             ],
@@ -1728,7 +1694,7 @@
                           "contentType": "text",
                           "id": "908b5cb2-1676-4c3c-9e69-e4479d41f280",
                           "properties": {
-                            "value": "You can make your brush with a fresh twig\nwrapped with a cloth"
+                            "value": "Make the plastic bottle bush by wrapping a fresh twig with a cloth."
                           }
                         },
                         "settings": null
@@ -1742,14 +1708,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "7c45e0b3-1211-4f75-a696-e9b807375768",
-                                "name": "shake 2.png",
+                                "id": "53ea067c-c913-49f2-8a6a-2d09833c2d3c",
+                                "name": "o24kz7k7.png",
                                 "mediaType": "Image",
-                                "url": "/media/hqvahsty/shake-2.png",
+                                "url": "/media/4pgkzzl0/o24kz7k7.png",
                                 "extension": "png",
-                                "width": 456,
+                                "width": 378,
                                 "height": 263,
-                                "bytes": 236613,
+                                "bytes": 215767,
                                 "properties": {}
                               }
                             ],
@@ -1763,7 +1729,7 @@
                           "contentType": "text",
                           "id": "d70f7136-1732-416e-b958-281210b4211c",
                           "properties": {
-                            "value": "Put a handful of dry beans, lentils, or woolen\nballs into Solvatten. Add a cupful of clean\nwater."
+                            "value": "Put a handful of dry beans, lentils, or woolen balls into Solvatten. Add a cupful of clean water."
                           }
                         },
                         "settings": null
@@ -1798,7 +1764,7 @@
                           "contentType": "text",
                           "id": "26bfc1ae-a5b1-4576-b80c-e701ca90235d",
                           "properties": {
-                            "value": "Shake and rinse out. That will help to clean\naway any mud inside the containers. You\ncan add juice from a lemon or lime to help\nclean the unit."
+                            "value": "Shake Solvatten and rinse out the water to remove any mud inside. You can also add lemon or lime juice to help clean the kit."
                           }
                         },
                         "settings": null
@@ -1822,7 +1788,7 @@
                           "contentType": "text",
                           "id": "69900a35-4d63-4096-8835-7c7efceef196",
                           "properties": {
-                            "value": "Do not put any sand into Solvatten or scrub it on the outside with sand. Do not place Solvatten\nempty and open with caps closed facing the sun. Avoid any rough handling and do not\nuse Solvatten to transport water that is far away from home. Do not fill with muddy water."
+                            "value": "Do not put sand into Solvatten or scrub it on the outside with sand.\n\nDo not leave Solvatten empty and open, with the caps closed, in direct sunlight.\n\nAvoid rough handling.\n\nDo not use Solvatten to transport water over long distances.\n\nDo not fill Solvatten with muddy water."
                           }
                         },
                         "settings": null
@@ -1857,7 +1823,7 @@
       "contentType": "faq",
       "name": "Faq",
       "createDate": "2024-09-21T12:49:10.894209",
-      "updateDate": "2025-01-14T10:41:43.6852961",
+      "updateDate": "2025-02-18T14:44:32.1969728",
       "route": {
         "path": "/en/faq/",
         "startItem": {
@@ -2008,17 +1974,6 @@
                 "properties": {
                   "question": "Does Solvatten eliminate all harmful microorganisms from water?",
                   "answer": "Yes, Solvatten is effective at killing bacteria, viruses, and parasites through a combination of solar UV radiation and heat. However, it is not designed to remove chemical pollutants or heavy metals from the water."
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "faqItem",
-                "id": "e68b18bc-f655-4d34-b6db-cf246bf971f3",
-                "properties": {
-                  "question": "Test 1",
-                  "answer": "Svar 1"
                 }
               },
               "settings": null
@@ -3454,7 +3409,7 @@
       "contentType": "tipsAndTricks",
       "name": "Tips And Tricks",
       "createDate": "2024-11-06T16:08:33.1975827",
-      "updateDate": "2025-01-22T10:48:19.6787385",
+      "updateDate": "2025-03-03T15:28:47.7467101",
       "route": {
         "path": "/en/tips-and-tricks/",
         "startItem": {
@@ -3483,14 +3438,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "025f3c28-717f-4c69-b3ef-645b1085f473",
-                                "name": "Screen Shot 2012-05-18 at 19.22.13.png",
+                                "id": "774b27cf-aa83-4fee-bff1-7c8c65236971",
+                                "name": "2022-Uganda-Mission 206.jpg (8)",
                                 "mediaType": "Image",
-                                "url": "/media/u51btnaw/screen-shot-2012-05-18-at-192213.png",
-                                "extension": "png",
-                                "width": 1124,
-                                "height": 735,
-                                "bytes": 1387856,
+                                "url": "/media/idwb1qpk/2022-uganda-mission-206.jpg",
+                                "extension": "jpg",
+                                "width": 3869,
+                                "height": 2565,
+                                "bytes": 1802078,
                                 "properties": {}
                               }
                             ],
@@ -3504,7 +3459,7 @@
                           "contentType": "text",
                           "id": "f3f81a37-bc1a-4b53-8cf8-9e5fe3846e78",
                           "properties": {
-                            "value": "When Solvatten is not in use, close it and store it indoors. Before you start using Solvatten again, rinse it with water. The plastics used in Solvatten are of exceptionally high quality, and the units are designed to last many years with daily use. Solvatten is robust but should be looked after and handled with care. You will know that a Solvatten needs to be\nreplaced when there is a hole in any part of the container or the transparent lid is too scratched to allow enough solar radiation through, and the indicator doesn´t switch to green. If the indicator gets broken, it is easy to replace. Talk to your local Solvatten representative."
+                            "value": "When not in use, close Solvatten and store it indoors to protect it. Before using it again, rinse the kit with water. \n\nSolvatten is made of high-quality plastic and designed for long-lasting durability with daily use. While it is robust, it should still be handled with care. If there is a hole in the container, the lid is too scratched, or the indicator doesn’t turn green, it’s time to replace the kit. \n\nIf the indicator is broken, it can easily be replaced. Contact your local Solvatten representative for assistance."
                           }
                         },
                         "settings": null
@@ -3532,14 +3487,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "f6b92a12-2e17-4556-84b4-6265903e3e42",
-                                "name": "1 - Mama Enock (a solvatten expert user demonstrating how Solvatten is used).png",
+                                "id": "e9692834-2591-4009-af7c-a08dbf034188",
+                                "name": "image copy.jpg (3)",
                                 "mediaType": "Image",
-                                "url": "/media/txqp4qd4/1-mama-enock-a-solvatten-expert-user-demonstrating-how-solvatten-is-used.png",
-                                "extension": "png",
-                                "width": 641,
-                                "height": 480,
-                                "bytes": 403024,
+                                "url": "/media/xprc4x5y/image-copy.jpg",
+                                "extension": "jpg",
+                                "width": 4299,
+                                "height": 3264,
+                                "bytes": 2603268,
                                 "properties": {}
                               }
                             ],
@@ -3553,7 +3508,56 @@
                           "contentType": "text",
                           "id": "3d70bf0b-108f-4616-8ff3-19412fd9db6a",
                           "properties": {
-                            "value": "If your Solvatten is usable, but you don’t need or want it any longer, please give it back to the provider or someone who wants it and will use it. If the Solvatten is damaged or leaks, you can use it as a storage case for beans or lentils, or other things. Solvatten units are made out of plastic that can be recycled. If you have a local recycling scheme, please take your unit there when it is no longer usable."
+                            "value": "If your Solvatten kit is still usable but you no longer need it, return it to the provider or someone who will use it. If damaged or leaking, repurpose it for storing beans, lentils, or other items. Solvatten kits are made of recyclable plastic, please recycle them at your local recycling facility when they are no longer usable."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "1dedc65c-e2df-4436-938a-4281208449e4",
+                "properties": {
+                  "title": "Sharing responsibility",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "f170a05b-410f-40f0-8bf8-6fafd25201c5",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "f6b92a12-2e17-4556-84b4-6265903e3e42",
+                                "name": "1 - Mama Enock (a solvatten expert user demonstrating how Solvatten is used).png",
+                                "mediaType": "Image",
+                                "url": "/media/txqp4qd4/1-mama-enock-a-solvatten-expert-user-demonstrating-how-solvatten-is-used.png",
+                                "extension": "png",
+                                "width": 641,
+                                "height": 480,
+                                "bytes": 403024,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Security"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "e17f969c-ecad-4544-a77e-b50856bfe2c2",
+                          "properties": {
+                            "value": "If neighbors take turns looking after each other's Solvatten kits, it helps prevent theft and keeps the kits safe"
                           }
                         },
                         "settings": null
@@ -3581,14 +3585,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "b5edef97-5083-4a46-a707-4592b34f0bfe",
-                                "name": "Skärmavbild 2025-01-20 kl. 11.25.15.png",
+                                "id": "8625c80e-a524-4f76-af28-c765fd15c400",
+                                "name": "Adjustments (76).jpeg",
                                 "mediaType": "Image",
-                                "url": "/media/daslwa5k/skaermavbild-2025-01-20-kl-112515.png",
-                                "extension": "png",
-                                "width": 1147,
-                                "height": 663,
-                                "bytes": 985046,
+                                "url": "/media/qebggmcn/adjustments-76.jpeg",
+                                "extension": "jpeg",
+                                "width": 3024,
+                                "height": 4032,
+                                "bytes": 3364774,
                                 "properties": {}
                               }
                             ],
@@ -3602,7 +3606,7 @@
                           "contentType": "text",
                           "id": "18ac2023-1012-4873-adec-f0844fb36995",
                           "properties": {
-                            "value": "Solvatten adds value for small businesses where water is an essential input into the sales of goods and services. It is a valuable tool for entrepreneurship and increases livelihoods."
+                            "value": "Solvatten adds value to small businesses that rely on water for their goods and services, supporting entrepreneurship and improving livelihoods"
                           }
                         },
                         "settings": null
@@ -3651,7 +3655,7 @@
                           "contentType": "text",
                           "id": "b909a453-3524-4675-850e-0131cc807ade",
                           "properties": {
-                            "value": "Washing the udder of a cow before milking, make the milk safe for consumption last longer."
+                            "value": "Washing a cow’s udder with clean water from Solvatten before milking makes the milk safer and extends its freshness."
                           }
                         },
                         "settings": null
@@ -3679,14 +3683,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "d1db7d1b-f266-41e2-b9bb-f4510268ae46",
-                                "name": "E-Sun-Bread-Rising.png",
+                                "id": "3d438d6d-6d9e-453c-9d2b-e4716b924fac",
+                                "name": "ileyltpw.png",
                                 "mediaType": "Image",
-                                "url": "/media/ss1j0zyp/e-sun-bread-rising.png",
+                                "url": "/media/2jdblc5x/ileyltpw.png",
                                 "extension": "png",
-                                "width": 3648,
-                                "height": 2736,
-                                "bytes": 14077810,
+                                "width": 349,
+                                "height": 285,
+                                "bytes": 251948,
                                 "properties": {}
                               }
                             ],
@@ -3700,7 +3704,7 @@
                           "contentType": "text",
                           "id": "2361d48d-c646-4cf0-9183-4ea686da2a09",
                           "properties": {
-                            "value": "Baking sun-buns with clean, warm water from Solvatten is easy and generates\nincome. Advice: Do not use chlorine water. It will stop wild yeast and fermentation."
+                            "value": "Baking sun-buns with clean, hot water from Solvatten is simple and helps generate income. \n\nTip: Avoid chlorine water, as it prevents wild yeast and fermentation."
                           }
                         },
                         "settings": null
@@ -3728,14 +3732,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "52f56591-0e5e-4097-b41c-2bce6f0e8aea",
-                                "name": "IMG_3088.png",
+                                "id": "0f4c2418-deb1-427e-8817-74e4319ab0c0",
+                                "name": "v8vayfz4.png",
                                 "mediaType": "Image",
-                                "url": "/media/d0xlhzbx/img_3088.png",
+                                "url": "/media/s5xavooy/v8vayfz4.png",
                                 "extension": "png",
                                 "width": 3024,
-                                "height": 4032,
-                                "bytes": 15416613,
+                                "height": 2606,
+                                "bytes": 11751465,
                                 "properties": {}
                               }
                             ],
@@ -3749,7 +3753,7 @@
                           "contentType": "text",
                           "id": "d2444732-28bb-40d5-bf48-9d57a1d66ca7",
                           "properties": {
-                            "value": "In +75°C water you can prepare rice without boiling. Insulate a wrapped pot. Soak\nthe rice in hot water and most rice will be ready to eat within 2 hours."
+                            "value": "With +75°C water, you can prepare rice without boiling. Wrap and insulate the pot, soak the rice, and it will be ready in about 2 hours."
                           }
                         },
                         "settings": null
@@ -3765,7 +3769,7 @@
                 "contentType": "tipsAndTricksItem",
                 "id": "b7aa3848-410e-4825-810a-78e0bec65426",
                 "properties": {
-                  "title": "Beauty extra income",
+                  "title": "Beauty as a source of extra income",
                   "content": {
                     "items": [
                       {
@@ -3777,14 +3781,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "bfdf55a0-f1f3-4a5a-b071-d0dafd2f1eeb",
-                                "name": "How I use Solvatten.009.png",
+                                "id": "9d942138-6842-4b2c-a39f-07e47cc91883",
+                                "name": "87sjrek9.png",
                                 "mediaType": "Image",
-                                "url": "/media/f4pjscm0/how-i-use-solvatten009.png",
+                                "url": "/media/w5vnekzl/87sjrek9.png",
                                 "extension": "png",
-                                "width": 1024,
-                                "height": 768,
-                                "bytes": 882140,
+                                "width": 622,
+                                "height": 709,
+                                "bytes": 925060,
                                 "properties": {}
                               }
                             ],
@@ -3798,7 +3802,7 @@
                           "contentType": "text",
                           "id": "08965d08-fafb-4f1c-a92e-d9086075a114",
                           "properties": {
-                            "value": "Hairdressers and beauty saloons have much clean and hot water when washing the shampoo from hair etc."
+                            "value": "Hairdressers and beauty salons can use Solvatten to get clean, hot water for washing shampoo from hair and other services."
                           }
                         },
                         "settings": null
@@ -3826,14 +3830,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "80ad8ff2-33cf-4156-b871-09a2ab5d09aa",
-                                "name": "DSC_6281.png",
+                                "id": "1d6b6ee7-b689-4bd2-812b-e79cc35b3806",
+                                "name": "9r77pgsx.png",
                                 "mediaType": "Image",
-                                "url": "/media/pvcpwnvg/dsc_6281.png",
+                                "url": "/media/ncsc1k5a/9r77pgsx.png",
                                 "extension": "png",
                                 "width": 2848,
-                                "height": 4288,
-                                "bytes": 12506980,
+                                "height": 3147,
+                                "bytes": 11356574,
                                 "properties": {}
                               }
                             ],
@@ -3847,7 +3851,7 @@
                           "contentType": "text",
                           "id": "5894e93d-cbcd-460a-a7a7-07fe0df63630",
                           "properties": {
-                            "value": "Detergents washout, and stains dissolve easier with warm water."
+                            "value": "Detergents work better, and stains dissolve more easily with hot water from Solvatten."
                           }
                         },
                         "settings": null
@@ -3863,7 +3867,7 @@
                 "contentType": "tipsAndTricksItem",
                 "id": "117e0491-1431-4386-9343-aaf152586267",
                 "properties": {
-                  "title": "Sell cold and clean water",
+                  "title": "Sell cold and safe water",
                   "content": {
                     "items": [
                       {
@@ -3875,14 +3879,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "35188c6d-7541-415c-a20e-edb04b384b39",
-                                "name": "Filling up a cup of tea with solvatten hot purified water-Note that this is made via the white capped opening-124.png",
+                                "id": "5b8276dd-0757-40ef-a899-23f1c363b6b8",
+                                "name": "j758zc63.png",
                                 "mediaType": "Image",
-                                "url": "/media/2jdf3azi/filling-up-a-cup-of-tea-with-solvatten-hot-purified-water-note-that-this-is-made-via-the-white-capped-opening-124.png",
+                                "url": "/media/kk4mj1j4/j758zc63.png",
                                 "extension": "png",
-                                "width": 3216,
-                                "height": 4288,
-                                "bytes": 14733145,
+                                "width": 3152,
+                                "height": 3736,
+                                "bytes": 17183292,
                                 "properties": {}
                               }
                             ],
@@ -3896,7 +3900,7 @@
                           "contentType": "text",
                           "id": "d47570a6-213d-404f-99cb-07e32752715f",
                           "properties": {
-                            "value": "Selling cool bottled safe water can help boost income."
+                            "value": "Selling cool, safe bottled water from Solvatten can help boost income."
                           }
                         },
                         "settings": null
@@ -3924,14 +3928,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "ff06c17d-586b-4d34-a067-e6b6c472d187",
-                                "name": "Skärmbild 2025-01-16 134136.png",
+                                "id": "8397253f-216c-4ec9-93d0-5b8c49bbf0cd",
+                                "name": "DSC_6696 copy.JPG",
                                 "mediaType": "Image",
-                                "url": "/media/4iffasic/skaermbild-2025-01-16-134136.png",
-                                "extension": "png",
-                                "width": 271,
-                                "height": 282,
-                                "bytes": 82035,
+                                "url": "/media/wdxncnif/dsc_6696-copy.jpg",
+                                "extension": "jpg",
+                                "width": 3963,
+                                "height": 3004,
+                                "bytes": 2063957,
                                 "properties": {}
                               }
                             ],
@@ -3945,7 +3949,7 @@
                           "contentType": "text",
                           "id": "e02c5a74-5c06-4318-9c9a-b8c7c2352aed",
                           "properties": {
-                            "value": "Earn extra income by selling and making fruit juice from clean, safe water. It is a mark of good quality and care for your customers."
+                            "value": "Earn extra income by making and selling fruit juice with clean, safe water from Solvatten. It ensures high quality and shows care for your customers."
                           }
                         },
                         "settings": null
@@ -3973,14 +3977,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "d7c68f7d-916b-45f9-9b62-47434dfe5bc2",
-                                "name": "24586.png",
+                                "id": "445852ec-3ef1-477d-83e4-95f5b7fceb21",
+                                "name": "e1vwsdem.png",
                                 "mediaType": "Image",
-                                "url": "/media/4jcjayic/24586.png",
+                                "url": "/media/momb32uy/e1vwsdem.png",
                                 "extension": "png",
                                 "width": 350,
-                                "height": 526,
-                                "bytes": 411594,
+                                "height": 331,
+                                "bytes": 308954,
                                 "properties": {}
                               }
                             ],
@@ -3994,7 +3998,7 @@
                           "contentType": "text",
                           "id": "ddba47d4-69b6-4913-a267-3246c4b7ddb4",
                           "properties": {
-                            "value": "Selling safe, clean, and rinsed vegetables is a mark of good quality and care for customers."
+                            "value": "Using Solvatten to wash vegetables ensures they are safe and clean."
                           }
                         },
                         "settings": null
@@ -4043,7 +4047,7 @@
                           "contentType": "text",
                           "id": "70f94004-a675-48f7-9a41-3435cdf4f1df",
                           "properties": {
-                            "value": "Restaurants and street-shop vendors use water from Solvatten to serve customers\nbut also when washing up. Hot water dissolves the grease."
+                            "value": "Restaurants and street vendors use water from Solvatten to serve customers and for washing up, as hot water helps dissolve grease."
                           }
                         },
                         "settings": null
@@ -4071,14 +4075,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "824b49ac-0395-4423-897a-c67795c85281",
-                                "name": "Screen Shot 2013-01-22 at 13.24.37.png",
+                                "id": "c84dad9f-7008-4411-aa33-fec0235be06b",
+                                "name": "_MG_0966.jpg",
                                 "mediaType": "Image",
-                                "url": "/media/eobb0nh2/screen-shot-2013-01-22-at-132437.png",
-                                "extension": "png",
-                                "width": 527,
-                                "height": 594,
-                                "bytes": 594864,
+                                "url": "/media/cbtbw5tb/_mg_0966.jpg",
+                                "extension": "jpg",
+                                "width": 5472,
+                                "height": 3648,
+                                "bytes": 3584227,
                                 "properties": {}
                               }
                             ],
@@ -4092,7 +4096,7 @@
                           "contentType": "text",
                           "id": "30c1329e-34d3-4051-b171-b92ce2748bdd",
                           "properties": {
-                            "value": "Offering clean, warm water handwashing before serving meals is welcoming."
+                            "value": "Offering clean, hot water for handwashing before serving meals with Solvatten is a welcoming gesture."
                           }
                         },
                         "settings": null
@@ -4120,14 +4124,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "3d9b86f0-add2-4161-a202-cfc8de6fb6ab",
-                                "name": "Espa Mlotshwa weaving bowl.png",
+                                "id": "fe70ee21-9651-4802-813a-af835c9292ed",
+                                "name": "3g7rzh4s.png (1)",
                                 "mediaType": "Image",
-                                "url": "/media/p3gn1c31/espa-mlotshwa-weaving-bowl.png",
+                                "url": "/media/vysdmsby/3g7rzh4s.png",
                                 "extension": "png",
                                 "width": 600,
-                                "height": 908,
-                                "bytes": 983657,
+                                "height": 671,
+                                "bytes": 938571,
                                 "properties": {}
                               }
                             ],
@@ -4141,7 +4145,7 @@
                           "contentType": "text",
                           "id": "1cba86eb-3aad-4312-bdd2-7b0b2ebf1d90",
                           "properties": {
-                            "value": "Hot water is helpful for both dyeing colors and bending twigs when making traditional baskets."
+                            "value": "Hot water from Solvatten is useful for dyeing colors and bending twigs when making traditional baskets."
                           }
                         },
                         "settings": null
@@ -4169,14 +4173,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "c4f1e793-6aff-46f6-b7a6-f7afbb47cd7c",
-                                "name": "Skärmavbild 2025-01-20 kl. 11.26.23.png",
+                                "id": "e759e924-0419-43b2-a48c-8c0cdf013af6",
+                                "name": "44fm8i9f.png",
                                 "mediaType": "Image",
-                                "url": "/media/dqwlo2uw/skaermavbild-2025-01-20-kl-112623.png",
+                                "url": "/media/vmrb4ulq/44fm8i9f.png",
                                 "extension": "png",
-                                "width": 495,
-                                "height": 841,
-                                "bytes": 534289,
+                                "width": 2486,
+                                "height": 3700,
+                                "bytes": 12818785,
                                 "properties": {}
                               }
                             ],
@@ -4190,7 +4194,7 @@
                           "contentType": "text",
                           "id": "031f3790-1c7e-4806-8998-4bad56ebc41a",
                           "properties": {
-                            "value": "The feathers of a chicken is easier plucked when using hot water in the process."
+                            "value": "Using hot water from Solvatten makes plucking chicken feathers easier."
                           }
                         },
                         "settings": null
@@ -4237,45 +4241,20 @@
                       {
                         "content": {
                           "contentType": "appImage",
-                          "id": "f8d59b2e-9afc-4866-a95c-5e0f03ae6a58",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "e29738a3-fc0e-4827-a8b7-627a1daf214a",
-                                "name": "Skärmavbild 2025-01-20 kl. 11.29.02.png",
-                                "mediaType": "Image",
-                                "url": "/media/ftzncvdh/skaermavbild-2025-01-20-kl-112902.png",
-                                "extension": "png",
-                                "width": 495,
-                                "height": 696,
-                                "bytes": 480420,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 16_2"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "appImage",
                           "id": "0553df10-6ae1-405c-868b-53a7a40b8956",
                           "properties": {
                             "value": [
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "758c6dd4-cf81-4945-8483-f3088aa45485",
-                                "name": "Skärmavbild 2025-01-20 kl. 11.32.31.png",
+                                "id": "54ab2a89-5b96-4a33-950e-cd34beeb92ae",
+                                "name": "h8t4ksxq.png",
                                 "mediaType": "Image",
-                                "url": "/media/lotnvq5i/skaermavbild-2025-01-20-kl-113231.png",
+                                "url": "/media/a1qo1yx5/h8t4ksxq.png",
                                 "extension": "png",
-                                "width": 561,
-                                "height": 736,
-                                "bytes": 610446,
+                                "width": 460,
+                                "height": 598,
+                                "bytes": 471403,
                                 "properties": {}
                               }
                             ],
@@ -4289,7 +4268,7 @@
                           "contentType": "text",
                           "id": "f87255b3-ba5f-4348-bc73-e6c98af3e85d",
                           "properties": {
-                            "value": "Selling eggs with clean, warm water from Solvatten is easy, generates income, and uses less energy."
+                            "value": "Selling eggs with clean, hot water from Solvatten is easy, helps generate income, and uses less energy."
                           }
                         },
                         "settings": null
@@ -4317,14 +4296,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "a934f28d-db25-4d8a-bc8d-cbfd1831c4c7",
-                                "name": "Screen Shot 2013-01-06 at 12.42.46.png",
+                                "id": "ae569482-4542-4830-be25-d7b694656046",
+                                "name": "mn46padz.png",
                                 "mediaType": "Image",
-                                "url": "/media/ai2heh0m/screen-shot-2013-01-06-at-124246.png",
+                                "url": "/media/bvpbagbl/mn46padz.png",
                                 "extension": "png",
-                                "width": 1075,
-                                "height": 751,
-                                "bytes": 1672196,
+                                "width": 1033,
+                                "height": 647,
+                                "bytes": 1705073,
                                 "properties": {}
                               }
                             ],
@@ -4362,6 +4341,40 @@
         },
         "en": {
           "path": "/en/tips-and-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "app",
+      "name": "App",
+      "createDate": "2024-10-30T09:18:55.7292754",
+      "updateDate": "2025-03-04T22:18:14.4660616",
+      "route": {
+        "path": "/en/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+      "properties": {
+        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
+        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
+      },
+      "cultures": {
+        "sv": {
+          "path": "/sv/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "en": {
+          "path": "/en/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
