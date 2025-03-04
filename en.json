@@ -3406,10 +3406,44 @@
       }
     },
     {
+      "contentType": "app",
+      "name": "App",
+      "createDate": "2024-10-30T09:18:55.7292754",
+      "updateDate": "2025-03-04T21:50:47.0075268",
+      "route": {
+        "path": "/en/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+      "properties": {
+        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
+        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
+      },
+      "cultures": {
+        "sv": {
+          "path": "/sv/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "en": {
+          "path": "/en/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
       "contentType": "tipsAndTricks",
       "name": "Tips And Tricks",
       "createDate": "2024-11-06T16:08:33.1975827",
-      "updateDate": "2025-03-04T21:52:22.5684837",
+      "updateDate": "2025-03-04T21:53:53.6918277",
       "route": {
         "path": "/en/tips-and-tricks/",
         "startItem": {
@@ -4240,31 +4274,6 @@
                       },
                       {
                         "content": {
-                          "contentType": "appImage",
-                          "id": "0553df10-6ae1-405c-868b-53a7a40b8956",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "54ab2a89-5b96-4a33-950e-cd34beeb92ae",
-                                "name": "h8t4ksxq.png",
-                                "mediaType": "Image",
-                                "url": "/media/a1qo1yx5/h8t4ksxq.png",
-                                "extension": "png",
-                                "width": 460,
-                                "height": 598,
-                                "bytes": 471403,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 16_3"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
                           "contentType": "text",
                           "id": "f87255b3-ba5f-4348-bc73-e6c98af3e85d",
                           "properties": {
@@ -4341,40 +4350,6 @@
         },
         "en": {
           "path": "/en/tips-and-tricks/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
-      "contentType": "app",
-      "name": "App",
-      "createDate": "2024-10-30T09:18:55.7292754",
-      "updateDate": "2025-03-04T21:50:47.0075268",
-      "route": {
-        "path": "/en/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-      "properties": {
-        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
-        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
-      },
-      "cultures": {
-        "sv": {
-          "path": "/sv/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "en": {
-          "path": "/en/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
