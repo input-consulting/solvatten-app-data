@@ -1,5 +1,5 @@
 {
-  "total": 5,
+  "total": 6,
   "items": [
     {
       "contentType": "quizzes",
@@ -4350,6 +4350,32 @@
         },
         "en": {
           "path": "/en/tips-and-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "moneyWise",
+      "name": "Money Wise",
+      "createDate": "2025-03-04T22:08:24.3320297",
+      "updateDate": "2025-03-04T22:08:28.0884444",
+      "route": {
+        "path": "/en/money-wise/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "11d45ad9-45b8-4ece-b48d-71d0e33e7a6d",
+      "properties": {
+        "content": null
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/money-wise/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
