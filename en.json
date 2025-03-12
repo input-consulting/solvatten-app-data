@@ -3844,7 +3844,7 @@
       "contentType": "moneyWise",
       "name": "Money Wise",
       "createDate": "2025-03-04T22:08:24.3320297",
-      "updateDate": "2025-03-12T14:32:23.1582126",
+      "updateDate": "2025-03-12T14:35:44.2258544",
       "route": {
         "path": "/en/money-wise/",
         "startItem": {
@@ -4079,7 +4079,7 @@
                                 },
                                 "crops": [],
                                 "id": "e806a20a-1413-4637-9c68-a3a1b9045045",
-                                "name": "Money_Wise_Chapter_5.webp (1)",
+                                "name": "Money_Wise_Chapter_5.webp",
                                 "mediaType": "Image",
                                 "url": "/media/qvueaxt0/qbhm8qyc.webp",
                                 "extension": "webp",
@@ -4123,7 +4123,24 @@
                           "contentType": "appImage",
                           "id": "33bef21d-7710-42fc-bbe6-95aa48fb6c09",
                           "properties": {
-                            "value": [],
+                            "value": [
+                              {
+                                "focalPoint": {
+                                  "left": 0.5308891476724554,
+                                  "top": 0.27290156097682855
+                                },
+                                "crops": [],
+                                "id": "52367867-a07b-432f-a227-d944ca839ed6",
+                                "name": "Money_Wise_Chapter_6.webp",
+                                "mediaType": "Image",
+                                "url": "/media/3czhbzas/b4oc912g.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 899,
+                                "bytes": 735528,
+                                "properties": {}
+                              }
+                            ],
                             "imageName": "Chapter 6"
                           }
                         },
