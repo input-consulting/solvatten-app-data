@@ -2613,7 +2613,7 @@
       "contentType": "instructions",
       "name": "Instructions",
       "createDate": "2024-09-20T23:10:25.3865255",
-      "updateDate": "2025-03-12T10:02:23.7155554",
+      "updateDate": "2025-03-12T10:04:38.4328957",
       "route": {
         "path": "/en/instructions/",
         "startItem": {
@@ -4292,18 +4292,18 @@
                             "value": [
                               {
                                 "focalPoint": {
-                                  "left": 0.6270791557386344,
-                                  "top": 0.8525884634723071
+                                  "left": 0.5415931337006961,
+                                  "top": 0.7564318682716353
                                 },
                                 "crops": [],
-                                "id": "eb9035fb-7cdd-46c4-aa4f-36d74a69fdf2",
+                                "id": "494d984e-f2f6-4549-af7a-c12e7160c658",
                                 "name": "Instructions_Chapter_15_2.webp",
                                 "mediaType": "Image",
-                                "url": "/media/ot5nmxnu/um83lhme.webp",
+                                "url": "/media/yfjax525/hj9bzaze.webp",
                                 "extension": "webp",
-                                "width": 800,
-                                "height": 1000,
-                                "bytes": 712152,
+                                "width": 716,
+                                "height": 774,
+                                "bytes": 479134,
                                 "properties": {}
                               }
                             ],
