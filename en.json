@@ -3844,7 +3844,7 @@
       "contentType": "moneyWise",
       "name": "Money Wise",
       "createDate": "2025-03-04T22:08:24.3320297",
-      "updateDate": "2025-03-12T13:43:37.4345445",
+      "updateDate": "2025-03-12T13:45:18.2575773",
       "route": {
         "path": "/en/money-wise/",
         "startItem": {
@@ -3871,7 +3871,10 @@
                           "properties": {
                             "value": [
                               {
-                                "focalPoint": null,
+                                "focalPoint": {
+                                  "left": 0.4306023675580535,
+                                  "top": 0.2536702419366942
+                                },
                                 "crops": [],
                                 "id": "c4bd138f-66a7-40ab-b90f-c89d31e2f606",
                                 "name": "Money_Wise_Chapter_1.webp",
