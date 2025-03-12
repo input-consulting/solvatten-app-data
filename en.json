@@ -2011,605 +2011,6 @@
       }
     },
     {
-      "contentType": "moneyWise",
-      "name": "Money Wise",
-      "createDate": "2025-03-04T22:08:24.3320297",
-      "updateDate": "2025-03-10T14:56:28.5589131",
-      "route": {
-        "path": "/en/money-wise/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "11d45ad9-45b8-4ece-b48d-71d0e33e7a6d",
-      "properties": {
-        "content": {
-          "items": [
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "bfd42a77-1061-4704-9339-0e0d2c9d7f92",
-                "properties": {
-                  "title": "Make money and reduce the workload with Solvatten",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "02ad7da0-e4e8-4572-9c23-ac374a45e54f",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "6562f996-e531-4a6b-8a17-da3d7d14c70a",
-                                "name": "Money_Wise_Chapter_1.webp",
-                                "mediaType": "Image",
-                                "url": "/media/dezdju0y/adjustments-76.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 1067,
-                                "bytes": 3364774,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 1"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "7f9bf2f3-f467-4627-a4f0-5257e86184ec",
-                          "properties": {
-                            "value": "Solvatten adds value to small businesses that rely on water for their goods and services, supporting entrepreneurship and improving livelihoods."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "fd3da700-638d-4b6c-ae79-39017b31f3e2",
-                "properties": {
-                  "title": "Milk for sale",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "aac32f9b-3058-4a35-a467-063ae2bab988",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": {
-                                  "left": 0.2754120611796104,
-                                  "top": 0.5833333193600833
-                                },
-                                "crops": [],
-                                "id": "46bda5ca-c512-4524-9e00-ce539535988d",
-                                "name": "Money_Wise_Chapter_2.webp",
-                                "mediaType": "Image",
-                                "url": "/media/ivxpx2d1/cow-milking-p1030626.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 600,
-                                "bytes": 752226,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 2"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "69018f66-1a51-414e-9ecc-d0fb3d95c60f",
-                          "properties": {
-                            "value": "Washing a cow’s udder with clean water from Solvatten before milking makes the milk safer and extends its freshness."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "e01321af-36a6-4bd6-b171-53f394d9b51b",
-                "properties": {
-                  "title": "Bread income",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "168b3de8-e574-441b-98a5-105e7bddc6e7",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "d1db7d1b-f266-41e2-b9bb-f4510268ae46",
-                                "name": "Money_Wise_Chapter_3.webp",
-                                "mediaType": "Image",
-                                "url": "/media/ss1j0zyp/e-sun-bread-rising.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 600,
-                                "bytes": 14077810,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 3"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "ded39edd-1c64-4cce-b24a-729698a275b7",
-                          "properties": {
-                            "value": "Baking sun-buns with clean, hot water from Solvatten is simple and helps generate income. \n\nTip: Avoid chlorine water, as it prevents wild yeast and fermentation."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "a5673339-b2f3-4c79-a111-d5a1124c806d",
-                "properties": {
-                  "title": "Sell hot meals",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "4e54c1d9-8d69-4d79-9518-a2458bcc4c36",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "49b73d98-ff81-45f1-8787-7e4812e78454",
-                                "name": "Money_Wise_Chapter_4.webp",
-                                "mediaType": "Image",
-                                "url": "/media/c51pd55i/v8vayfz4.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 689,
-                                "bytes": 11751465,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 4"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "3038d641-ced9-438a-95b2-a6d9ece0eb84",
-                          "properties": {
-                            "value": "With +75°C water, you can prepare rice without boiling. Wrap and insulate the pot, soak the rice, and it will be ready in about 2 hours."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "0a0a083f-8bfe-4c2d-b7b9-77238d570e2a",
-                "properties": {
-                  "title": "Beauty as a source of extra income",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "b0619a12-806c-4383-954c-870a7c6176d6",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "bfdf55a0-f1f3-4a5a-b071-d0dafd2f1eeb",
-                                "name": "Money_Wise_Chapter_5.webp",
-                                "mediaType": "Image",
-                                "url": "/media/f4pjscm0/how-i-use-solvatten009.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 600,
-                                "bytes": 882140,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 5"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "fd2c2de4-249d-41d9-9005-1a3d2c25271f",
-                          "properties": {
-                            "value": "Hairdressers and beauty salons can use Solvatten to get clean, hot water for washing clients' hair and other services."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "69913b8e-51b9-478b-9418-65437831582c",
-                "properties": {
-                  "title": "Sell cold and safe water",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "33bef21d-7710-42fc-bbe6-95aa48fb6c09",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "35188c6d-7541-415c-a20e-edb04b384b39",
-                                "name": "Money_Wise_Chapter_6.webp",
-                                "mediaType": "Image",
-                                "url": "/media/2jdf3azi/filling-up-a-cup-of-tea-with-solvatten-hot-purified-water-note-that-this-is-made-via-the-white-capped-opening-124.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 1067,
-                                "bytes": 14733145,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 6"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "d66e94cc-338b-42d2-863c-40560b00d547",
-                          "properties": {
-                            "value": "Selling cool, safe bottled water from Solvatten can help boost income."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "180cd064-5c23-4b96-b89e-5b3305d492d4",
-                "properties": {
-                  "title": "Sell safe juice",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "b14f2582-c8de-4e4d-bc50-a3a8adedefe8",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "91ce192f-784f-440c-bbd2-682632c8ac9b",
-                                "name": "Money_Wise_Chapter_7.webp",
-                                "mediaType": "Image",
-                                "url": "/media/udjjqjzg/dsc_6696-copy.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 606,
-                                "bytes": 2063957,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 7"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "4db6dc38-a891-4a95-bd22-9e7428a2ea69",
-                          "properties": {
-                            "value": "Earn extra income by making and selling fruit juice with clean, safe water from Solvatten. It ensures high quality and shows care for your customers."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "40f31128-3368-4f8b-9510-7883a8616a77",
-                "properties": {
-                  "title": "Fresh and safe vegetables",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "504e7a4d-d309-4c74-a86f-506e08d00ee1",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": {
-                                  "left": 0.43489882986688927,
-                                  "top": 0.8003891689347996
-                                },
-                                "crops": [],
-                                "id": "d2b83349-8d83-4648-9f36-449b7f898bd9",
-                                "name": "Money_Wise_Chapter_8.webp",
-                                "mediaType": "Image",
-                                "url": "/media/y12p2zhk/53zyupok.webp",
-                                "extension": "webp",
-                                "width": 350,
-                                "height": 488,
-                                "bytes": 271908,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 8"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "3d7cd767-c729-4149-8040-5f751a50ad2e",
-                          "properties": {
-                            "value": "Using Solvatten to wash vegetables ensures they are safe and clean."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "262878d7-e925-4d4b-9f0d-514426fd6ea6",
-                "properties": {
-                  "title": "Easy washing up",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "b2e151e5-2951-4745-bf29-5c1cf6122826",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "027821a4-d45e-4689-9179-1efe5a5cc396",
-                                "name": "Money_Wise_Chapter_9.webp",
-                                "mediaType": "Image",
-                                "url": "/media/fpvd3nbx/_mg_7921.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 400,
-                                "bytes": 112757,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 9"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "cec7ca5c-80c4-4868-951b-2dc4eefd4ea2",
-                          "properties": {
-                            "value": "Restaurants and street vendors use water from Solvatten to serve customers and for washing up, as hot water helps dissolve grease."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "437188b1-442b-4a3b-81d8-e5097cf7abaf",
-                "properties": {
-                  "title": "Baskets for sale",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "e06d772a-6755-461a-87a1-c3d8c664c723",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "3d9b86f0-add2-4161-a202-cfc8de6fb6ab",
-                                "name": "Money_Wise_Chapter_10.webp",
-                                "mediaType": "Image",
-                                "url": "/media/p3gn1c31/espa-mlotshwa-weaving-bowl.webp",
-                                "extension": "webp",
-                                "width": 600,
-                                "height": 908,
-                                "bytes": 983657,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 10"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "15a220b1-3865-47f8-bbfa-c43ba3e25191",
-                          "properties": {
-                            "value": "Hot water from Solvatten is useful for dyeing colors and bending twigs when making traditional baskets."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "339ddbc2-0f84-4f1b-8fe6-d2c77e8d8132",
-                "properties": {
-                  "title": "Egg Business",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "a01844f8-e796-44e2-b07e-a2879eeb9534",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "758c6dd4-cf81-4945-8483-f3088aa45485",
-                                "name": "Money_Wise_Chapter_11.webp",
-                                "mediaType": "Image",
-                                "url": "/media/lotnvq5i/skaermavbild-2025-01-20-kl-113231.webp",
-                                "extension": "webp",
-                                "width": 561,
-                                "height": 736,
-                                "bytes": 610446,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 11"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "a7a7faf5-ee9a-44f6-85bb-858a9c4d5e54",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "83269143-9c01-460f-b023-4533bc691654",
-                                "name": "Money_Wise_Chapter_11_2.webp",
-                                "mediaType": "Image",
-                                "url": "/media/zrnhanli/skaermavbild-2025-01-20-kl-112744.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 560,
-                                "bytes": 801404,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 11_2"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "efbcb22d-081e-4675-a9df-4e790968ceeb",
-                          "properties": {
-                            "value": "Selling eggs with clean, hot water from Solvatten is easy, helps generate income, and uses less energy."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            }
-          ]
-        }
-      },
-      "cultures": {
-        "en": {
-          "path": "/en/money-wise/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
       "contentType": "instructions",
       "name": "Instructions",
       "createDate": "2024-09-20T23:10:25.3865255",
@@ -4432,6 +3833,577 @@
         },
         "en": {
           "path": "/en/instructions/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "moneyWise",
+      "name": "Money Wise",
+      "createDate": "2025-03-04T22:08:24.3320297",
+      "updateDate": "2025-03-12T13:43:37.4345445",
+      "route": {
+        "path": "/en/money-wise/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "11d45ad9-45b8-4ece-b48d-71d0e33e7a6d",
+      "properties": {
+        "content": {
+          "items": [
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "bfd42a77-1061-4704-9339-0e0d2c9d7f92",
+                "properties": {
+                  "title": "Make money and reduce the workload with Solvatten",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "02ad7da0-e4e8-4572-9c23-ac374a45e54f",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "c4bd138f-66a7-40ab-b90f-c89d31e2f606",
+                                "name": "Money_Wise_Chapter_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/admpw2wo/2orjdelw.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 842,
+                                "bytes": 823926,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "7f9bf2f3-f467-4627-a4f0-5257e86184ec",
+                          "properties": {
+                            "value": "Solvatten adds value to small businesses that rely on water for their goods and services, supporting entrepreneurship and improving livelihoods."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "fd3da700-638d-4b6c-ae79-39017b31f3e2",
+                "properties": {
+                  "title": "Milk for sale",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "aac32f9b-3058-4a35-a467-063ae2bab988",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": {
+                                  "left": 0.2754120611796104,
+                                  "top": 0.5833333193600833
+                                },
+                                "crops": [],
+                                "id": "46bda5ca-c512-4524-9e00-ce539535988d",
+                                "name": "Money_Wise_Chapter_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/ivxpx2d1/cow-milking-p1030626.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 600,
+                                "bytes": 752226,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "69018f66-1a51-414e-9ecc-d0fb3d95c60f",
+                          "properties": {
+                            "value": "Washing a cow’s udder with clean water from Solvatten before milking makes the milk safer and extends its freshness."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "e01321af-36a6-4bd6-b171-53f394d9b51b",
+                "properties": {
+                  "title": "Bread income",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "168b3de8-e574-441b-98a5-105e7bddc6e7",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "d1db7d1b-f266-41e2-b9bb-f4510268ae46",
+                                "name": "Money_Wise_Chapter_3.webp",
+                                "mediaType": "Image",
+                                "url": "/media/ss1j0zyp/e-sun-bread-rising.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 600,
+                                "bytes": 14077810,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 3"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "ded39edd-1c64-4cce-b24a-729698a275b7",
+                          "properties": {
+                            "value": "Baking sun-buns with clean, hot water from Solvatten is simple and helps generate income. \n\nTip: Avoid chlorine water, as it prevents wild yeast and fermentation."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "a5673339-b2f3-4c79-a111-d5a1124c806d",
+                "properties": {
+                  "title": "Sell hot meals",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "4e54c1d9-8d69-4d79-9518-a2458bcc4c36",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "49b73d98-ff81-45f1-8787-7e4812e78454",
+                                "name": "Money_Wise_Chapter_4.webp",
+                                "mediaType": "Image",
+                                "url": "/media/c51pd55i/v8vayfz4.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 689,
+                                "bytes": 11751465,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 4"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "3038d641-ced9-438a-95b2-a6d9ece0eb84",
+                          "properties": {
+                            "value": "With +75°C water, you can prepare rice without boiling. Wrap and insulate the pot, soak the rice, and it will be ready in about 2 hours."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "0a0a083f-8bfe-4c2d-b7b9-77238d570e2a",
+                "properties": {
+                  "title": "Beauty as a source of extra income",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "b0619a12-806c-4383-954c-870a7c6176d6",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "badd0149-0090-4302-9383-1fd427b03f19",
+                                "name": "Money_Wise_Chapter_5.webp",
+                                "mediaType": "Image",
+                                "url": "/media/y1fjwdhz/u2pg662r.webp",
+                                "extension": "webp",
+                                "width": 476,
+                                "height": 502,
+                                "bytes": 265578,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 5"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "fd2c2de4-249d-41d9-9005-1a3d2c25271f",
+                          "properties": {
+                            "value": "Hairdressers and beauty salons can use Solvatten to get clean, hot water for washing clients' hair and other services."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "69913b8e-51b9-478b-9418-65437831582c",
+                "properties": {
+                  "title": "Sell cold and safe water",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "33bef21d-7710-42fc-bbe6-95aa48fb6c09",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "62e1e10c-7879-4f2c-bcff-f3e133722478",
+                                "name": "Money_Wise_Chapter_6.webp",
+                                "mediaType": "Image",
+                                "url": "/media/qmvlpvaq/uto76s51.webp",
+                                "extension": "webp",
+                                "width": 729,
+                                "height": 928,
+                                "bytes": 689800,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 6"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "d66e94cc-338b-42d2-863c-40560b00d547",
+                          "properties": {
+                            "value": "Selling cool, safe bottled water from Solvatten can help boost income."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "180cd064-5c23-4b96-b89e-5b3305d492d4",
+                "properties": {
+                  "title": "Sell safe juice",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "b14f2582-c8de-4e4d-bc50-a3a8adedefe8",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "91ce192f-784f-440c-bbd2-682632c8ac9b",
+                                "name": "Money_Wise_Chapter_7.webp",
+                                "mediaType": "Image",
+                                "url": "/media/udjjqjzg/dsc_6696-copy.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 606,
+                                "bytes": 2063957,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 7"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "4db6dc38-a891-4a95-bd22-9e7428a2ea69",
+                          "properties": {
+                            "value": "Earn extra income by making and selling fruit juice with clean, safe water from Solvatten. It ensures high quality and shows care for your customers."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "40f31128-3368-4f8b-9510-7883a8616a77",
+                "properties": {
+                  "title": "Fresh and safe vegetables",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "504e7a4d-d309-4c74-a86f-506e08d00ee1",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "ba3a7ebd-1e42-4fec-8dd0-f352a119be57",
+                                "name": "Money_Wise_Chapter_8.webp",
+                                "mediaType": "Image",
+                                "url": "/media/gk0hydbl/gyt10zh3.webp",
+                                "extension": "webp",
+                                "width": 350,
+                                "height": 293,
+                                "bytes": 170088,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 8"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "3d7cd767-c729-4149-8040-5f751a50ad2e",
+                          "properties": {
+                            "value": "Using Solvatten to wash vegetables ensures they are safe and clean."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "262878d7-e925-4d4b-9f0d-514426fd6ea6",
+                "properties": {
+                  "title": "Easy washing up",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "b2e151e5-2951-4745-bf29-5c1cf6122826",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "027821a4-d45e-4689-9179-1efe5a5cc396",
+                                "name": "Money_Wise_Chapter_9.webp",
+                                "mediaType": "Image",
+                                "url": "/media/fpvd3nbx/_mg_7921.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 400,
+                                "bytes": 112757,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 9"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "cec7ca5c-80c4-4868-951b-2dc4eefd4ea2",
+                          "properties": {
+                            "value": "Restaurants and street vendors use water from Solvatten to serve customers and for washing up, as hot water helps dissolve grease."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "437188b1-442b-4a3b-81d8-e5097cf7abaf",
+                "properties": {
+                  "title": "Baskets for sale",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "e06d772a-6755-461a-87a1-c3d8c664c723",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "3d9b86f0-add2-4161-a202-cfc8de6fb6ab",
+                                "name": "Money_Wise_Chapter_10.webp",
+                                "mediaType": "Image",
+                                "url": "/media/p3gn1c31/espa-mlotshwa-weaving-bowl.webp",
+                                "extension": "webp",
+                                "width": 600,
+                                "height": 908,
+                                "bytes": 983657,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 10"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "15a220b1-3865-47f8-bbfa-c43ba3e25191",
+                          "properties": {
+                            "value": "Hot water from Solvatten is useful for dyeing colors and bending twigs when making traditional baskets."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "339ddbc2-0f84-4f1b-8fe6-d2c77e8d8132",
+                "properties": {
+                  "title": "Egg Business",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "a7a7faf5-ee9a-44f6-85bb-858a9c4d5e54",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "83269143-9c01-460f-b023-4533bc691654",
+                                "name": "Money_Wise_Chapter_11_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/zrnhanli/skaermavbild-2025-01-20-kl-112744.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 560,
+                                "bytes": 801404,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 11"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "efbcb22d-081e-4675-a9df-4e790968ceeb",
+                          "properties": {
+                            "value": "Selling eggs with clean, hot water from Solvatten is easy, helps generate income, and uses less energy."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/money-wise/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
