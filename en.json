@@ -3844,7 +3844,7 @@
       "contentType": "moneyWise",
       "name": "Money Wise",
       "createDate": "2025-03-04T22:08:24.3320297",
-      "updateDate": "2025-03-12T13:45:18.2575773",
+      "updateDate": "2025-03-12T13:49:39.8694203",
       "route": {
         "path": "/en/money-wise/",
         "startItem": {
@@ -3872,18 +3872,18 @@
                             "value": [
                               {
                                 "focalPoint": {
-                                  "left": 0.4306023675580535,
-                                  "top": 0.2536702419366942
+                                  "left": 0.26015989340439705,
+                                  "top": 0.33334284938867936
                                 },
                                 "crops": [],
-                                "id": "c4bd138f-66a7-40ab-b90f-c89d31e2f606",
+                                "id": "99645c6d-714b-4128-8a11-dc2f746bf742",
                                 "name": "Money_Wise_Chapter_1.webp",
                                 "mediaType": "Image",
-                                "url": "/media/admpw2wo/2orjdelw.webp",
+                                "url": "/media/2klcelzc/g6veig13.webp",
                                 "extension": "webp",
                                 "width": 800,
-                                "height": 842,
-                                "bytes": 823926,
+                                "height": 776,
+                                "bytes": 744900,
                                 "properties": {}
                               }
                             ],
@@ -4071,21 +4071,7 @@
                           "contentType": "appImage",
                           "id": "b0619a12-806c-4383-954c-870a7c6176d6",
                           "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "badd0149-0090-4302-9383-1fd427b03f19",
-                                "name": "Money_Wise_Chapter_5.webp",
-                                "mediaType": "Image",
-                                "url": "/media/y1fjwdhz/u2pg662r.webp",
-                                "extension": "webp",
-                                "width": 476,
-                                "height": 502,
-                                "bytes": 265578,
-                                "properties": {}
-                              }
-                            ],
+                            "value": [],
                             "imageName": "Chapter 5"
                           }
                         },
@@ -4120,21 +4106,7 @@
                           "contentType": "appImage",
                           "id": "33bef21d-7710-42fc-bbe6-95aa48fb6c09",
                           "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "62e1e10c-7879-4f2c-bcff-f3e133722478",
-                                "name": "Money_Wise_Chapter_6.webp",
-                                "mediaType": "Image",
-                                "url": "/media/qmvlpvaq/uto76s51.webp",
-                                "extension": "webp",
-                                "width": 729,
-                                "height": 928,
-                                "bytes": 689800,
-                                "properties": {}
-                              }
-                            ],
+                            "value": [],
                             "imageName": "Chapter 6"
                           }
                         },
