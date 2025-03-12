@@ -3844,7 +3844,7 @@
       "contentType": "moneyWise",
       "name": "Money Wise",
       "createDate": "2025-03-04T22:08:24.3320297",
-      "updateDate": "2025-03-12T14:00:02.5000416",
+      "updateDate": "2025-03-12T14:32:23.1582126",
       "route": {
         "path": "/en/money-wise/",
         "startItem": {
@@ -4074,18 +4074,18 @@
                             "value": [
                               {
                                 "focalPoint": {
-                                  "left": 0.41244297970351196,
-                                  "top": 0.1465243215702313
+                                  "left": 0.352,
+                                  "top": 0.2507832257836504
                                 },
                                 "crops": [],
-                                "id": "fb1bf017-c795-4952-93c5-0d52d9102bc2",
-                                "name": "Money_Wise_Chapter_5.webp",
+                                "id": "e806a20a-1413-4637-9c68-a3a1b9045045",
+                                "name": "Money_Wise_Chapter_5.webp (1)",
                                 "mediaType": "Image",
-                                "url": "/media/ta3f0tp2/1uxc7sho.webp",
+                                "url": "/media/qvueaxt0/qbhm8qyc.webp",
                                 "extension": "webp",
                                 "width": 520,
-                                "height": 425,
-                                "bytes": 252436,
+                                "height": 370,
+                                "bytes": 220096,
                                 "properties": {}
                               }
                             ],
