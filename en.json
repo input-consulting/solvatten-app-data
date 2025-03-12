@@ -2613,7 +2613,7 @@
       "contentType": "instructions",
       "name": "Instructions",
       "createDate": "2024-09-20T23:10:25.3865255",
-      "updateDate": "2025-03-10T15:03:54.3898632",
+      "updateDate": "2025-03-12T09:58:41.4989447",
       "route": {
         "path": "/en/instructions/",
         "startItem": {
@@ -2727,16 +2727,19 @@
                           "properties": {
                             "value": [
                               {
-                                "focalPoint": null,
+                                "focalPoint": {
+                                  "left": 0.7589928057553957,
+                                  "top": 0.7069799050255755
+                                },
                                 "crops": [],
-                                "id": "e5740dde-d0f3-4851-a651-2b170c95b708",
+                                "id": "64bb50ec-047e-48d3-b73b-181bed941385",
                                 "name": "Instructions_Chapter_2_1.webp",
                                 "mediaType": "Image",
-                                "url": "/media/khddeu20/p1000779-copy.webp",
+                                "url": "/media/monp1uqx/hf7ahp3u.webp",
                                 "extension": "webp",
                                 "width": 552,
-                                "height": 552,
-                                "bytes": 57822,
+                                "height": 413,
+                                "bytes": 225426,
                                 "properties": {}
                               }
                             ],
@@ -3437,16 +3440,19 @@
                           "properties": {
                             "value": [
                               {
-                                "focalPoint": null,
+                                "focalPoint": {
+                                  "left": 0.576,
+                                  "top": 0.6758447752990941
+                                },
                                 "crops": [],
-                                "id": "cab1741c-467e-4219-8603-20d80f8bd749",
+                                "id": "fa4acfb0-7371-467e-8775-b692b2f6c11c",
                                 "name": "Instructions_Chapter_7_2.webp",
                                 "mediaType": "Image",
-                                "url": "/media/so5po5ax/img_3058-copy.webp",
+                                "url": "/media/h2cbytay/tdrr6b7a.webp",
                                 "extension": "webp",
-                                "width": 800,
-                                "height": 764,
-                                "bytes": 284121,
+                                "width": 725,
+                                "height": 514,
+                                "bytes": 226960,
                                 "properties": {}
                               }
                             ],
@@ -3521,16 +3527,19 @@
                           "properties": {
                             "value": [
                               {
-                                "focalPoint": null,
+                                "focalPoint": {
+                                  "left": 0.666,
+                                  "top": 0.6559947138247283
+                                },
                                 "crops": [],
-                                "id": "970e2281-2161-41e8-b76d-c76ae7f079d8",
+                                "id": "4f4fd3f1-9e98-4734-945b-37ff57b0fb7d",
                                 "name": "Instructions_Chapter_8_2.webp",
                                 "mediaType": "Image",
-                                "url": "/media/b1ueqiii/f2yipi8p.webp",
+                                "url": "/media/pymbt4pr/_mg_0060_copy.webp",
                                 "extension": "webp",
-                                "width": 262,
-                                "height": 229,
-                                "bytes": 118559,
+                                "width": 800,
+                                "height": 506,
+                                "bytes": 116326,
                                 "properties": {}
                               }
                             ],
@@ -3572,14 +3581,14 @@
                               {
                                 "focalPoint": null,
                                 "crops": [],
-                                "id": "901e618c-b5d6-4fc4-8833-e8b430a0e726",
+                                "id": "b8e8c101-002a-495e-915b-b569c14601a1",
                                 "name": "Instructions_Chapter_9_1.webp",
                                 "mediaType": "Image",
-                                "url": "/media/aovfqjv5/dsc_7515.webp",
+                                "url": "/media/ryfl2dsd/tplznrtg.webp",
                                 "extension": "webp",
-                                "width": 800,
-                                "height": 530,
-                                "bytes": 6347841,
+                                "width": 530,
+                                "height": 722,
+                                "bytes": 328008,
                                 "properties": {}
                               }
                             ],
@@ -3903,16 +3912,19 @@
                           "properties": {
                             "value": [
                               {
-                                "focalPoint": null,
+                                "focalPoint": {
+                                  "left": 0.5819814074210227,
+                                  "top": 0.6328019601564858
+                                },
                                 "crops": [],
-                                "id": "13dfe6bb-e338-46bb-9af9-c9d0733a44aa",
+                                "id": "a13e2888-fdb3-4765-83f1-85ef9877f610",
                                 "name": "Instructions_Chapter_11_5.webp",
                                 "mediaType": "Image",
-                                "url": "/media/gqwjtjkr/filtrering.webp",
+                                "url": "/media/a5rhqf40/sty46s7p.webp",
                                 "extension": "webp",
                                 "width": 800,
-                                "height": 1067,
-                                "bytes": 6895791,
+                                "height": 884,
+                                "bytes": 972746,
                                 "properties": {}
                               }
                             ],
@@ -4279,16 +4291,19 @@
                           "properties": {
                             "value": [
                               {
-                                "focalPoint": null,
+                                "focalPoint": {
+                                  "left": 0.6373814265266285,
+                                  "top": 0.7152218988999188
+                                },
                                 "crops": [],
-                                "id": "c46caeaf-2400-4e12-abb8-08416a21a130",
+                                "id": "eb9035fb-7cdd-46c4-aa4f-36d74a69fdf2",
                                 "name": "Instructions_Chapter_15_2.webp",
                                 "mediaType": "Image",
-                                "url": "/media/ebscu2tj/boej.webp",
+                                "url": "/media/ot5nmxnu/um83lhme.webp",
                                 "extension": "webp",
                                 "width": 800,
-                                "height": 1204,
-                                "bytes": 17545570,
+                                "height": 1000,
+                                "bytes": 712152,
                                 "properties": {}
                               }
                             ],
