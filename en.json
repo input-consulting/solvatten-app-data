@@ -3844,7 +3844,7 @@
       "contentType": "moneyWise",
       "name": "Money Wise",
       "createDate": "2025-03-04T22:08:24.3320297",
-      "updateDate": "2025-03-12T13:55:29.1834639",
+      "updateDate": "2025-03-12T14:00:02.5000416",
       "route": {
         "path": "/en/money-wise/",
         "startItem": {
@@ -3877,7 +3877,7 @@
                                 },
                                 "crops": [],
                                 "id": "93c3bf10-74b7-4eaa-8d15-88ebb81d5cab",
-                                "name": "Money_Wise_Chapter_1.webp (1)",
+                                "name": "Money_Wise_Chapter_1.webp",
                                 "mediaType": "Image",
                                 "url": "/media/t30jkjo4/9z3r0pwn.webp",
                                 "extension": "webp",
@@ -4071,7 +4071,24 @@
                           "contentType": "appImage",
                           "id": "b0619a12-806c-4383-954c-870a7c6176d6",
                           "properties": {
-                            "value": [],
+                            "value": [
+                              {
+                                "focalPoint": {
+                                  "left": 0.41244297970351196,
+                                  "top": 0.1465243215702313
+                                },
+                                "crops": [],
+                                "id": "fb1bf017-c795-4952-93c5-0d52d9102bc2",
+                                "name": "Money_Wise_Chapter_5.webp",
+                                "mediaType": "Image",
+                                "url": "/media/ta3f0tp2/1uxc7sho.webp",
+                                "extension": "webp",
+                                "width": 520,
+                                "height": 425,
+                                "bytes": 252436,
+                                "properties": {}
+                              }
+                            ],
                             "imageName": "Chapter 5"
                           }
                         },
@@ -4342,13 +4359,13 @@
                                 "focalPoint": null,
                                 "crops": [],
                                 "id": "83269143-9c01-460f-b023-4533bc691654",
-                                "name": "Money_Wise_Chapter_11_2.webp",
+                                "name": "Money_Wise_Chapter_11.webp",
                                 "mediaType": "Image",
                                 "url": "/media/zrnhanli/skaermavbild-2025-01-20-kl-112744.webp",
                                 "extension": "webp",
                                 "width": 800,
                                 "height": 560,
-                                "bytes": 801404,
+                                "bytes": 416042,
                                 "properties": {}
                               }
                             ],
