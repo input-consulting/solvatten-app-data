@@ -2613,7 +2613,7 @@
       "contentType": "instructions",
       "name": "Instructions",
       "createDate": "2024-09-20T23:10:25.3865255",
-      "updateDate": "2025-03-12T09:58:41.4989447",
+      "updateDate": "2025-03-12T10:02:23.7155554",
       "route": {
         "path": "/en/instructions/",
         "startItem": {
@@ -4292,8 +4292,8 @@
                             "value": [
                               {
                                 "focalPoint": {
-                                  "left": 0.6373814265266285,
-                                  "top": 0.7152218988999188
+                                  "left": 0.6270791557386344,
+                                  "top": 0.8525884634723071
                                 },
                                 "crops": [],
                                 "id": "eb9035fb-7cdd-46c4-aa4f-36d74a69fdf2",
