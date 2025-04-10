@@ -4448,7 +4448,7 @@
       "contentType": "popup",
       "name": "Popup",
       "createDate": "2025-04-10T22:02:39.9475761",
-      "updateDate": "2025-04-10T23:09:52.856986",
+      "updateDate": "2025-04-10T23:14:39.2450699",
       "route": {
         "path": "/en/popup/",
         "startItem": {
@@ -4458,6 +4458,7 @@
       },
       "id": "bbe87fa0-b352-4d3f-a88a-70e9a12f17be",
       "properties": {
+        "title": "Welcome!",
         "text": "Are you in Kenya, Uganda, Zambia, Mozambique, or Morocco?\nStay connected – get tips, support, and news from your local Solvatten network.\n \nTap below to join your country's WhatsApp group.\nWe'll link your phone number to the right community.\n \n(You can opt out at any time)",
         "countries": {
           "items": [
