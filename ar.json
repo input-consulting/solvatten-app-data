@@ -1,0 +1,2136 @@
+{
+  "total": 4,
+  "items": [
+    {
+      "contentType": "app",
+      "name": "App",
+      "createDate": "2024-10-30T09:18:55.7292754",
+      "updateDate": "2025-04-28T13:27:17.8155003",
+      "route": {
+        "path": "/ar/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+      "properties": {
+        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
+        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "instructions",
+      "name": "التعليمات",
+      "createDate": "2024-09-20T23:10:25.3865255",
+      "updateDate": "2025-04-28T14:10:26.0852008",
+      "route": {
+        "path": "/ar/التعليمات/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "df76bb6f-4d5c-4a11-a263-d34bb44d252b",
+      "properties": {
+        "title": "قبل أن تبدأ...",
+        "block1": "اعرف مصدر المياه الخاص بك. استخدم المياه التي تأتي من مصدر المياه المعتاد لديك. إذا كان لديك شكوك حول جودة المياه، يجب عليك استشارة مستشار المياه المحلي. يرجى ملاحظة أن Solvatten يعالج المياه الملوثة بالعوامل الميكروبيولوجية فقط. Solvatten لا يزيل التلوث الكيميائي أو الزرنيخ أو الفلورايد.",
+        "block2": "الآن لنبدأ! :)",
+        "chapters": {
+          "items": [
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "b88bf76b-5019-45b3-9a3a-999f02c226b2",
+                "properties": {
+                  "title": "ابدأ في الصباح الباكر",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "50db8c26-8fb8-43e8-93bc-e61f743b744d",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "48a76f15-02e7-43e7-8e6f-1a5798b4e8a0",
+                                "name": "Instructions_Chapter_1_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/tkspd5uo/_mg_0212-kopia.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 533,
+                                "bytes": 39774,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 1_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "50b4027e-2111-4bb4-a638-b23984f4ba1a",
+                          "properties": {
+                            "value": "من خلال البدء عند شروق الشمس، لديك أفضل فرصة لمعالجة المياه بنجاح عدة مرات في اليوم."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "5c8d9b5e-7181-4baf-bcb3-84d4aff619a5",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "7f5df411-7fe0-4519-9323-a567a3c3b4d3",
+                                "name": "Instructions_Chapter_1_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/ty5bxsmj/img_3631.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 1200,
+                                "bytes": 115674,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 1_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "eacce180-30f9-4dc8-96c3-10dee0c0ee29",
+                          "properties": {
+                            "value": "تأكد من أن المؤشر أحمر مع وجه حزين عند البدء. إذا لم يكن المؤشر أحمر، اضغط على زر الشمس الأصفر لإعادة ضبطه."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "3f9dd9ed-ba5e-494a-be47-54ef392070e0",
+                "properties": {
+                  "title": "املأ سولفاتن",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "1d9ebdcc-700d-4fb5-b46f-c814c6c9f9ce",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": {
+                                  "left": 0.7589928057553957,
+                                  "top": 0.7069799050255755
+                                },
+                                "crops": [],
+                                "id": "64bb50ec-047e-48d3-b73b-181bed941385",
+                                "name": "Instructions_Chapter_2_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/monp1uqx/hf7ahp3u.webp",
+                                "extension": "webp",
+                                "width": 552,
+                                "height": 413,
+                                "bytes": 225426,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "da7a7100-fabe-45b0-9420-8c6c5670d38f",
+                          "properties": {
+                            "value": "يجب أن تكون المياه صافية بما يكفي للرؤية من خلالها عند صبها في كوب (أقل من 40 وحدة NTU)."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "dc5cd545-1d76-4f44-8581-79536af22300",
+                          "properties": {
+                            "value": "إذا كانت المياه موحلة جدًا، قم بترشيحها مسبقًا أولاً (انظر الطريقة في الفصل 10)."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "26693bb0-49a9-4ca0-b41a-0a6b2c821078",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "9c52ca28-66f1-4789-a9d4-810e3b3a8457",
+                                "name": "Instructions_Chapter_2_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/u2abikuy/quiz1.webp",
+                                "extension": "webp",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 87733,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "ae60433d-ef78-4cfa-8f32-e6a99f801a4f",
+                          "properties": {
+                            "value": "افتح جميع الأغطية الأربعة لتسهيل عملية الملء."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "96102697-3454-4b5d-9af4-4cafd86b90f6",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "167a8b84-9bd4-45d6-aa26-ddadea29d262",
+                                "name": "Instructions_Chapter_2_3.webp",
+                                "mediaType": "Image",
+                                "url": "/media/bnadzif3/dsc_0121.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 532,
+                                "bytes": 60430,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2_3"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "14de0050-f64e-439b-aeba-8e32a22aaa66",
+                          "properties": {
+                            "value": "صب الماء من خلال الفتحات ذات الأغطية السوداء والفلاتر. تعمل الفلاتر على تقليل العكارة وإزالة الكائنات الحية الدقيقة الأكبر حجمًا."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "da5fbbeb-0d60-4d26-af2f-b392e340ae74",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "4fce0035-1937-478c-807f-274be4e2d550",
+                                "name": "Instructions_Chapter_2_4.webp",
+                                "mediaType": "Image",
+                                "url": "/media/xlfir4k4/lappareil-du-solvatten-signale-vert-après-lexpérimentation-du-solvatten-à-kabeumb-ziguinchor.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 600,
+                                "bytes": 4260706,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2_4"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "ae36fc33-3fe4-4a5a-b386-f508cd19f2c7",
+                          "properties": {
+                            "value": "صب الماء من ارتفاع. املأ سولفاتن حتى النهاية بحيث تحيط المياه بالمؤشر. وإلا، لن يعمل المؤشر."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "d539f6a8-00ff-4128-bbce-8302034225f6",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "825a89f2-7769-4105-9a53-a83cea3ba805",
+                                "name": "Instructions_Chapter_2_5.webp",
+                                "mediaType": "Image",
+                                "url": "/media/pvbbynaa/chapter2_5.webp",
+                                "extension": "webp",
+                                "width": 343,
+                                "height": 188,
+                                "bytes": 104980,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2_5"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "b140e52a-74f3-49c9-bfb3-372fe72b1b9f",
+                          "properties": {
+                            "value": "شد الأغطية الأربعة بإحكام ولكن دون استخدام قوة. أغلق الأغطية عندما يكون سولفاتن في وضع مستقيم."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "24f716eb-8caf-4c03-bffd-64ca0320b5f7",
+                "properties": {
+                  "title": "اضغط على زر الشمس",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "dfb63c36-98ff-4223-9641-d816979a8191",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "709b47dd-6aee-48c1-8db2-0ed3725ff196",
+                                "name": "Instructions_Chapter_3_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/kkgn1ruh/skaermbild-2025-01-15-155841.webp",
+                                "extension": "webp",
+                                "width": 401,
+                                "height": 243,
+                                "bytes": 114741,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 3_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "0ccef99e-49f0-4986-a7fd-6c9145ecfcaa",
+                          "properties": {
+                            "value": "إذا كان المؤشر أخضر ويعرض وجهًا سعيدًا، يجب عليك إعادة ضبط المؤشر بالضغط على زر الشمس الأصفر. لا تضغط على الزر إذا كان المؤشر بالفعل أحمر."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "f3c9f838-3d5e-4746-9f70-f47b6d271789",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "e4d58287-85c1-4ece-9098-b2341a1b4fa1",
+                                "name": "Instructions_Chapter_3_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/bbejguvi/img_8833.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 533,
+                                "bytes": 5536388,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 3_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "104be5f7-e9e0-4bdf-99e2-f79fa6975727",
+                          "properties": {
+                            "value": "مهم: يجب أن يكون الوجه على المؤشر أحمر ويظهر وجه حزين عند البدء."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "e9585bd4-185e-4e9a-841b-eb177cde5e67",
+                "properties": {
+                  "title": "ضع سولفاتن في مكان مناسب",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "ba763554-aae2-451d-aa84-60be3d35d36c",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "f1464d8c-5298-48bd-ab89-19cd355b2e24",
+                                "name": "Instructions_Chapter_4_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/aodbar5r/d9f8c42a-e90e-4156-89b0-42008d727234_1_105_c.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 532,
+                                "bytes": 1306490,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 4_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "a892415b-7ee7-4f6f-a3b7-bd43d32227d3",
+                          "properties": {
+                            "value": "ضع سولفاتن مواجهًا للشمس. يجب أن يكون الطقم مفتوحًا بالكامل مع الأسطح الشفافة موجهة مباشرة نحو الشمس."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "f8ae129d-df06-4d98-8126-2946de063c1c",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "60dbc27a-4aa2-41c2-8dc1-99a9d770ab81",
+                                "name": "Instructions_Chapter_4_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/4uej1vwl/2n7bmydw.webp",
+                                "extension": "webp",
+                                "width": 328,
+                                "height": 213,
+                                "bytes": 163232,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 4_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "9ea19782-11a3-4bc5-814b-a0e4bf28e8a7",
+                          "properties": {
+                            "value": "اضبط الوضعية بزاوية 90° تجاه الشمس. ستلقي الحلقة في وسط الغطاء ظلًا يساعدك في العثور على الزاوية الصحيحة.\n\nمهم: إذا تم وضع سولفاتن بشكل مسطح أو بزاوية حادة جدًا، سيعمل بشكل أبطأ."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "de9f7cff-365e-4e65-8066-b2e71bb4281f",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "5ff62e91-6b3a-4cdc-868f-b9e31b06a00f",
+                                "name": "Instructions_Chapter_4_3.webp",
+                                "mediaType": "Image",
+                                "url": "/media/d1slb0kt/img_2569.webp",
+                                "extension": "webp",
+                                "width": 1024,
+                                "height": 576,
+                                "bytes": 867072,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 4_3"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "86255f45-e6fc-4391-ba9e-372444742a73",
+                          "properties": {
+                            "value": "تأكد من أن سولفاتن محمي من الرياح. يجب أن يكون في مكان لا يصل إليه الظل. اترك سولفاتن في الشمس لمدة 2-6 ساعات."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "e5a2b989-f29c-4de5-b082-59b41935518f",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "3b73b678-bba6-49ac-bcb9-7abc15f3389a",
+                                "name": "Instructions_Chapter_4_4.webp",
+                                "mediaType": "Image",
+                                "url": "/media/434dldop/_mg_8146.webp",
+                                "extension": "webp",
+                                "width": 1024,
+                                "height": 683,
+                                "bytes": 1138404,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 4_4"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "69f27cbb-367a-439c-881f-4526249d766f",
+                          "properties": {
+                            "value": "إذا وضعت سولفاتن على سطح مرتفع، مثل سرير من القش أو شيء مشابه، فإن ذلك سيساعده على التسخين بشكل أسرع."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "739116c3-9306-4a4f-a2aa-61a442680f69",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "e1aed418-dc03-4c76-b515-c27d7ac0f6b4",
+                                "name": "Instructions_Chapter_4_5.webp",
+                                "mediaType": "Image",
+                                "url": "/media/s2poqv1k/bag.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 531,
+                                "bytes": 631672,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 4_5"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "f4b88a9e-0649-4a92-939a-7b1c7678de7e",
+                          "properties": {
+                            "value": "حمي سولفاتن من الرياح. يمكن استخدام حقيبة كبيرة مقطوعة لتوفير الحماية وجعل سولفاتن يعمل بشكل أسرع."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "480aae18-5f81-464b-ae37-c70e67b175cf",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "9ad5a9c0-b699-49d6-82ae-8aac5ef60345",
+                                "name": "Instructions_Chapter_4_6.webp",
+                                "mediaType": "Image",
+                                "url": "/media/j3rjglhq/kudde.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 447,
+                                "bytes": 508378,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 4_6"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "a5551927-78f3-411a-9072-71fec370844b",
+                          "properties": {
+                            "value": "إذا كان الطقس باردًا، استخدم وسادة أو بطانية لتوفير العزل وتسريع العملية."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "c02478d6-421b-4f0e-af54-47f9a9c9ff5d",
+                "properties": {
+                  "title": "الوجه يتحول إلى اللون الأخضر وسعيد",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "511f1f20-f979-43a0-8988-084bf28c89b1",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "ae9a255b-3b3d-41ea-962e-96b1ef622646",
+                                "name": "Instructions_Chapter_5_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/0txnygcu/dsc_2241.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 1092,
+                                "bytes": 1761238,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 5_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "6952f564-5322-468b-85db-9404a2a2c33b",
+                          "properties": {
+                            "value": "ستصبح المياه ساخنة جدًا بعد فترة."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "648ee8bb-1696-46de-9418-089eeddb3afc",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "922f9e02-f165-4948-97bc-51d7d55677a2",
+                                "name": "Instructions_Chapter_5_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/rvkgsjam/p1020148.webp",
+                                "extension": "webp",
+                                "width": 640,
+                                "height": 480,
+                                "bytes": 380550,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 5_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "2b45d9ff-8b1a-4f48-b2fc-856963510c16",
+                          "properties": {
+                            "value": "عند وصول درجة الحرارة إلى 55°C، سيظهر وجه مبتسم أخضر وستكون المياه آمنة للشرب."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "db6453ff-8691-4124-b006-c621fed4921d",
+                "properties": {
+                  "title": "استخدم الأغطية البيضاء عند سكب المياه",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "18f9fc87-8e42-489e-a10e-fdc1cb7f5b60",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "342c0ab1-40bf-4f9c-af55-3eeb44257ac0",
+                                "name": "Instructions_Chapter_6_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/h1agvaww/thetech-solvatten-kenya_072.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 533,
+                                "bytes": 766830,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 6_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "4fe3f720-fce0-46bf-88ec-7e9687327729",
+                          "properties": {
+                            "value": "مهم: صب المياه المعالجة من خلال الفتحات ذات الأغطية البيضاء."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "3ef6a675-7ac8-4c6f-9dc6-ffeb230de609",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "7b48bd35-fcb4-46f3-8890-d2f3a394f6ea",
+                                "name": "Instructions_Chapter_6_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/xj1b3to3/_mg_8048.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 533,
+                                "bytes": 355020,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 6_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "1fbb8d3a-2fe4-486d-871c-306bcd53067f",
+                          "properties": {
+                            "value": "كن حذرًا! قد تكون المياه ساخنة جدًا."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "b8d92678-8d4f-47a9-bd35-15eb9caa58ec",
+                "properties": {
+                  "title": "استخدم الماء الساخن",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "aa632857-1639-4590-b731-f2677d3fcc46",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "da1d417d-ff30-4052-a0aa-3c174cca99da",
+                                "name": "Instructions_Chapter_7_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/4kffw1cz/warm-water-for-sanitation.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 488,
+                                "bytes": 6248177,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 7_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "4935e805-56ea-4e08-a5dd-8ea9d3c27d71",
+                          "properties": {
+                            "value": "استخدم المياه الساخنة للنظافة الشخصية وأخذ حمام. إذا كانت ساخنة جدًا، يجب أن تدعها تبرد أولاً."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "eefc36fc-bbb0-445b-a8bf-d9a891feef0f",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": {
+                                  "left": 0.576,
+                                  "top": 0.6758447752990941
+                                },
+                                "crops": [],
+                                "id": "fa4acfb0-7371-467e-8775-b692b2f6c11c",
+                                "name": "Instructions_Chapter_7_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/h2cbytay/tdrr6b7a.webp",
+                                "extension": "webp",
+                                "width": 725,
+                                "height": 514,
+                                "bytes": 226960,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 7_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "f8dab30b-169b-4aa1-8a0a-c9c53846a798",
+                          "properties": {
+                            "value": "صب الماء في حامل التبي تاب. تذكر أن تغسل يديك بالصابون والماء من سولفاتن بعد استخدام الحمام، قبل تناول الطعام، وقبل تحضير الطعام. سيُحسن ذلك صحتك وصحة أفراد عائلتك."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "f7f58dcc-6fb8-4628-8cc9-e8bb51f02075",
+                "properties": {
+                  "title": "تسريع الطهي",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "efea4535-c6d3-4ebf-ba10-d8582d5fcb64",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "41fec726-7e56-4719-89d7-cecc807cd4d2",
+                                "name": "Instructions_Chapter_8_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/veglr3z5/img_3617.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 533,
+                                "bytes": 13721323,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 8_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "aaafb73c-3cdf-46b2-a9f1-5e1bca4d4b15",
+                          "properties": {
+                            "value": "تسخين المياه مسبقًا للطهي سيوفر لك الكثير من الوقود. يمكن لسولفاتن أن يحل محل الكثير من الحطب والفحم والغاز."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "96b99dc2-8173-429b-98ed-330d0e33b873",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": {
+                                  "left": 0.666,
+                                  "top": 0.6559947138247283
+                                },
+                                "crops": [],
+                                "id": "4f4fd3f1-9e98-4734-945b-37ff57b0fb7d",
+                                "name": "Instructions_Chapter_8_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/pymbt4pr/_mg_0060_copy.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 506,
+                                "bytes": 116326,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 8_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "58dfb5ab-5eff-4b04-bf3e-edf7f7dabfaa",
+                          "properties": {
+                            "value": "مع سولفاتن، لديك مياه آمنة لتحضير وطهي الطعام وغسله."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "5a7fec1e-39c5-4ade-83a5-ac02cecdc103",
+                "properties": {
+                  "title": "نصائح التخزين",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "6713383f-8e8c-4fb6-ac68-54470b830a3b",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "b8e8c101-002a-495e-915b-b569c14601a1",
+                                "name": "Instructions_Chapter_9_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/ryfl2dsd/tplznrtg.webp",
+                                "extension": "webp",
+                                "width": 530,
+                                "height": 722,
+                                "bytes": 328008,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 9_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "52f996e3-e25b-4165-aee1-950b1c31c0ae",
+                          "properties": {
+                            "value": "لإعداد المزيد من الدفعات من المياه باستخدام سولفاتن، صب الماء في وعاء نظيف. استخدم دائمًا غطاء وصنبور لتجنب التلوث مرة أخرى. احتفظ بالوعاء بعيدًا عن الأرض."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "43ffd0f7-10d0-4082-b556-f2e91652b56f",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "098f6b5f-58ca-40f0-b013-a191723aa9b3",
+                                "name": "Instructions_Chapter_9_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/0cqntp3d/_mg_0108-copy.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 534,
+                                "bytes": 460983,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 9_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "e807a136-4f4b-4370-8af0-096741393e5e",
+                          "properties": {
+                            "value": "Hämtar data. Vänta några sekunder och försök sedan klippa ut eller kopiera igen."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "e3e1711c-d074-4254-b288-45c56b119c78",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "1c61702c-72a3-4744-8100-c3801624a6b5",
+                                "name": "Instructions_Chapter_9_3.webp",
+                                "mediaType": "Image",
+                                "url": "/media/uo3cpkwk/save-heat-in-thermos.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 1067,
+                                "bytes": 12157894,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 9_3"
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "13b5e22c-16d9-4745-895b-5c527499dc58",
+                "properties": {
+                  "title": "مياه الشرب الباردة",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "0a3e668a-eb16-4bd9-81fc-24723352874c",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "52795d59-3867-49c8-9bb0-b65b385018ed",
+                                "name": "Instructions_Chapter_10_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/00ld5zao/to-cool-2.webp",
+                                "extension": "webp",
+                                "width": 564,
+                                "height": 336,
+                                "bytes": 279743,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 10_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "be30ef08-e00f-4ae1-b043-227f4566d65e",
+                          "properties": {
+                            "value": "ضع سولفاتن في الظل لتبريد المياه؛ ستصبح جاهزة للشرب قريبًا."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "7c4918a3-a8bb-4322-9a24-f001234dab51",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "36d09341-a3c5-4432-8756-8e657eba9c0c",
+                                "name": "Instructions_Chapter_10_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/zzmjnafm/2022-uganda-mission-185.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 492,
+                                "bytes": 1206855,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 10_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "30a5ea06-f9ba-4d63-a17a-802d66558bc2",
+                          "properties": {
+                            "value": "احتفظ بمياهك المعالجة في سولفاتن أو في أوعية نظيفة مع أغطية لتجنب التلوث مرة أخرى. يمكن تخزين المياه المعالجة من خلال سولفاتن بأمان لمدة 24 ساعة."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "36f57cbb-99fa-4051-b2c8-65c7131a06b2",
+                "properties": {
+                  "title": "عندما تكون المياه ملوثة جدًا بالطين",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "64093f1a-e1fe-41b5-9a42-b1ef5b8b3e1d",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "83eeb979-5790-4392-9f50-ae136184d100",
+                                "name": "Instructions_Chapter_11_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/4zzlqnpz/dsc_7436-copy.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 621,
+                                "bytes": 1586379,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 11_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "a37de8e2-d76d-44a6-8533-fab133ab65d8",
+                          "properties": {
+                            "value": "يجب أن تكون المياه صافية بما يكفي للرؤية من خلالها عند صبها في كوب (أقل من 40 وحدة NTU)."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "f032d8ba-9e17-46f2-a2fd-a1bd3fd0a11e",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "bf1da129-3304-487a-88ba-28606515b359",
+                                "name": "Instructions_Chapter_11_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/uzvfwcln/dscf7183_1_2.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 570,
+                                "bytes": 4367481,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 11_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "1db5b555-0143-4bde-bd57-7aa6c350e0d8",
+                          "properties": {
+                            "value": "إذا كانت المياه موحلة جدًا، يجب عليك تصفيتها أو تركها لترسب (اترك الماء لفترة من الوقت لتمكين الجسيمات من الترسب في القاع)."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "464c2ad4-46be-4b11-8b0f-a9a5c461242f",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "25141e0b-c204-4384-aac0-e3294bd4df51",
+                                "name": "Instructions_Chapter_11_3.webp",
+                                "mediaType": "Image",
+                                "url": "/media/qtkffe1n/_mg_0951-copy.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 1038,
+                                "bytes": 1003568,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 11_3"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "8b79639c-36da-4267-839b-ecf23d79e29b",
+                          "properties": {
+                            "value": "خيار آخر هو صنع فلتر من الرمل والحصى باستخدام دلوين وصنبور. ضع قطعة قماش في أسفل أحد الدلاء، ثم أضف طبقات من الرمل والحصى بأحجام مختلفة. صب الماء واتركه يمر عبر الفلتر."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "f0cee704-f06a-408e-8d21-878763cc743e",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "faa008ec-cbe9-42c6-911d-ebd98f9bd833",
+                                "name": "Instructions_Chapter_11_4.webp",
+                                "mediaType": "Image",
+                                "url": "/media/mpbomtea/skaermavbild-2010-08-23-kl-155836.webp",
+                                "extension": "webp",
+                                "width": 402,
+                                "height": 274,
+                                "bytes": 200831,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 11_4"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "013fd766-ada0-40e2-98b3-2d6de72c85ac",
+                          "properties": {
+                            "value": "يمكنك أيضًا صنع فلتر رمل بسيط باستخدام زجاجة بلاستيكية. قطع الجزء العلوي منها، وضع قطعة قماش في الأسفل، واملأها بالرمل والحصى. صب الماء واتركه يمر عبر الفلتر. يمكن أيضًا لبذور المورينغا أن تساعد في تقليل عكارة المياه (الغباش)."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "df128c9d-3fc1-44f0-940b-0126f1eb3704",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": {
+                                  "left": 0.5819814074210227,
+                                  "top": 0.6328019601564858
+                                },
+                                "crops": [],
+                                "id": "a13e2888-fdb3-4765-83f1-85ef9877f610",
+                                "name": "Instructions_Chapter_11_5.webp",
+                                "mediaType": "Image",
+                                "url": "/media/a5rhqf40/sty46s7p.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 884,
+                                "bytes": 972746,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 11_5"
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "bfb1e62d-e64e-4892-bd64-f70eea47aee2",
+                "properties": {
+                  "title": "تنظيف الفلاتر",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "366abe00-195d-49ad-9154-fde5ca472074",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "1dda7cdc-d163-421e-82ec-5ee205978639",
+                                "name": "Instructions_Chapter_12_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/ko1jzkyk/_mg_8333.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 533,
+                                "bytes": 12495125,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 12_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "640bbe8d-a171-4d8a-82e6-b8e7dd8605e9",
+                          "properties": {
+                            "value": "إذا بدا الفلتر متسخًا أو مسدودًا، قم بإخراجه واغسله بالماء."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "d372839a-094f-4960-abcf-1d32bfb46be1",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "de656a05-5c97-421c-9882-713cf31c985f",
+                                "name": "Instructions_Chapter_12_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/rkqcg0h4/clean2.webp",
+                                "extension": "webp",
+                                "width": 562,
+                                "height": 326,
+                                "bytes": 344283,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 12_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "fc7da8af-f32e-459e-b2ff-b5a6623f21a4",
+                          "properties": {
+                            "value": "اشطف الفلتر بالماء النظيف، مع حمله بلطف بين أصابعك. يمكنك أيضًا غلي الفلتر في الماء لبضع دقائق."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "d448f70b-0b62-4c51-95c8-da2107c92d6b",
+                "properties": {
+                  "title": "استبدال الفلاتر",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "26c3eca4-532d-480c-b128-168ac861a45f",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "b5db95e6-6e3e-49c7-8f54-239dea5ab5ff",
+                                "name": "Instructions_Chapter_13_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/nfpj0a0x/_dsc4605.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 500,
+                                "bytes": 6845548,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 13_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "b84dcc6c-6924-4e12-968f-ee5dcb90ac31",
+                          "properties": {
+                            "value": "إذا كان الفلتر تالفًا أو مفقودًا، يمكنك صنع فلتر خاص بك. خذ قطعة كبيرة من القماش واطوِها إلى طبقتين أو ثلاث. يجب أن يكون الفلتر الجديد كبيرًا بما يكفي لتغطية الفتحة التي تصب فيها الماء."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "be9e9ea2-7f93-472b-9a9d-d21e1e03eb55",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "c96f675f-f304-443a-b27e-dcdb03cd91e9",
+                                "name": "Instructions_Chapter_13_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/0cwds51n/klippa.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 531,
+                                "bytes": 14922663,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 13_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "007f34e7-8ce8-465d-8d84-7d8bd6f4fd80",
+                          "properties": {
+                            "value": "ضع القماش المطوي فوق الفتحة وقطع حول الحافة. إذا كان حلقة الفلتر مفقودة، اربط خيطًا حول الفتحة للحفاظ على القماش في مكانه."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "d6630787-458e-4448-9443-cbf8d0e74561",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "c6f4119f-4c9f-407d-ba7b-6d57b2c88aa5",
+                                "name": "Instructions_Chapter_13_3.webp",
+                                "mediaType": "Image",
+                                "url": "/media/cdnle2hw/skaermbild-2025-01-15-160316.webp",
+                                "extension": "webp",
+                                "width": 374,
+                                "height": 200,
+                                "bytes": 137277,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 13_3"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "48f5b5e1-36ce-404e-bbb7-c11dbf18dae5",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "84365aa6-58d6-4295-b904-fde2cf59f718",
+                                "name": "Instructions_Chapter_13_4.webp",
+                                "mediaType": "Image",
+                                "url": "/media/fgihamv5/skaermbild-2025-01-15-160324.webp",
+                                "extension": "webp",
+                                "width": 375,
+                                "height": 203,
+                                "bytes": 137139,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 13_4"
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "57f7c978-32c4-4587-bf67-80a533265133",
+                "properties": {
+                  "title": "غسل الجزء الخارجي",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "140b2781-3891-45cb-a24a-8ed0ffed233d",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "46da4cdc-b154-4fab-8291-96bcaa6cbe84",
+                                "name": "Instructions_Chapter_14_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/kodjz2b3/dsc_7036.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 530,
+                                "bytes": 5956130,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 14_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "5b9e07a7-5fce-4714-8f47-49df323e1006",
+                          "properties": {
+                            "value": "اشطف سولفاتن بالماء عندما يبدو متسخًا."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "aa16f685-f151-4b64-ada0-dec0ef58e844",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "c896de6a-5806-4f2d-9a73-578036fd3065",
+                                "name": "Instructions_Chapter_14_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/2ukna5tp/2022-uganda-mission-018-copy.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 714,
+                                "bytes": 946888,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 14_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "ee352935-d701-4608-a6e1-d2cac764cc23",
+                          "properties": {
+                            "value": "مهم: تجنب الخدش. لا تمسح أو تفرك السطح الشفاف بالرمل. للتخلص من الأوساخ والغبار على الخارج، اشطف الوعاء بالماء."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "86ca9f13-b7ce-4293-8e6d-91cf2372df8c",
+                "properties": {
+                  "title": "غسل الجزء الداخلي",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "8d916e9b-0756-4a89-bb19-76f0a5c0ac86",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "6eaefd95-c45f-4870-9e81-ba2feb07ab1b",
+                                "name": "Instructions_Chapter_15_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/di1prwbw/borste.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 531,
+                                "bytes": 14988147,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 15_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "36c03c1c-98cc-4935-b002-e0eefef73e0c",
+                          "properties": {
+                            "value": "نظف داخل سولفاتن بالماء الساخن باستخدام فرشاة بلاستيكية ناعمة."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "2a464ba2-b954-4f59-90b3-21870026e5e2",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "378dc02e-1833-48fb-a44e-3d4ebd57fb20",
+                                "name": "Instructions_Chapter_15_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/uefmxak0/a2bnp36l.webp",
+                                "extension": "webp",
+                                "width": 716,
+                                "height": 459,
+                                "bytes": 297256,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 15_2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "e31e034e-cff6-4401-a8f9-332558c1ed93",
+                          "properties": {
+                            "value": "اصنع فرشاة الزجاجة البلاستيكية عن طريق لف غصن طازج بقماش."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "0d30837a-2f2b-4d4c-8498-b6803d6ff4a5",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "53ea067c-c913-49f2-8a6a-2d09833c2d3c",
+                                "name": "Instructions_Chapter_15_3.webp",
+                                "mediaType": "Image",
+                                "url": "/media/4pgkzzl0/o24kz7k7.webp",
+                                "extension": "webp",
+                                "width": 378,
+                                "height": 263,
+                                "bytes": 215767,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 15_3"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "ce92ef17-81df-46be-b276-1c92fe8ba09d",
+                          "properties": {
+                            "value": "ضع حفنة من الفاصوليا الجافة أو العدس أو الكرات الصوفية في سولفاتن. أضف كوبًا من الماء النظيف."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "cc0f2c9e-fb40-48e7-998c-822657f9d0ef",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "ed515c12-4b86-47ee-a0d7-0b16e4a29b13",
+                                "name": "Instructions_Chapter_15_4.webp",
+                                "mediaType": "Image",
+                                "url": "/media/twlbow5p/shake1.webp",
+                                "extension": "webp",
+                                "width": 374,
+                                "height": 263,
+                                "bytes": 154683,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 15_4"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "724ce1b3-a82c-4e3a-a5e6-d28c4fbb0734",
+                          "properties": {
+                            "value": "رج سولفاتن وافرغ الماء لإزالة أي طين داخلها. يمكنك أيضًا إضافة عصير الليمون أو الليمون الأخضر للمساعدة في تنظيف الطقم."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "chapter",
+                "id": "766807d2-1567-455c-a394-ecc23ec80aa8",
+                "properties": {
+                  "title": "لا تفعل هذا",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "a1187abe-a50a-4989-af10-042c6da435a8",
+                          "properties": {
+                            "value": "لا تضع الرمل في سولفاتن ولا تفركه على الخارج باستخدام الرمل.\n\nلا تترك سولفاتن فارغًا ومفتوحًا مع الأغطية مغلقة في ضوء الشمس المباشر.\n\nتجنب المعاملة الخشنة.\n\nلا تستخدم سولفاتن لنقل المياه لمسافات طويلة.\n\nلا تملأ سولفاتن بالماء الموحل."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/instructions/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/instructions/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/التعليمات/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "faq",
+      "name": "الأسئلة الشائعة",
+      "createDate": "2024-09-21T12:49:10.894209",
+      "updateDate": "2025-04-28T14:13:47.4156782",
+      "route": {
+        "path": "/ar/الأسئلة-الشائعة/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "a6ad7952-2eb1-4b21-ab5f-60588f03b761",
+      "properties": {
+        "content": {
+          "items": [
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "9bf64ea5-ad2f-4f4c-8e6a-93cd61b7b46f",
+                "properties": {
+                  "question": "ما هو سولفاتن وكيف يعمل؟",
+                  "answer": "سولفاتن هو جهاز تنقية مياه محمول يستخدم الطاقة الشمسية لجعل المياه آمنة للشرب والطهي والنظافة. يجمع بين الحرارة والأشعة فوق البنفسجية (UV) من الشمس لمعالجة المياه الملوثة بطريقة بسيطة ومستدامة. يتم تنقية المياه عن طريق وضع الطقم تحت أشعة الشمس المباشرة لمدة 2-6 ساعات، حسب ظروف الطقس."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "fd72c68c-2ab2-4c9c-ace9-d8ac80b91848",
+                "properties": {
+                  "question": "كمية المياه التي يمكن أن يعالجها سولفاتن في وقت واحد؟",
+                  "answer": "يمكن لكل طقم سولفاتن معالجة ما يصل إلى 10 لترات من المياه في المرة الواحدة. يمكن تكرار العملية عدة مرات في اليوم حسب توفر أشعة الشمس، مما يسمح للأسر بتنقية ما يكفي من المياه لتلبية احتياجاتهم اليومية."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "d3c017c8-a7df-484c-9865-302910e2d8ea",
+                "properties": {
+                  "question": "هل سولفاتن آمن للاستخدام للأطفال وكبار السن؟",
+                  "answer": "نعم، تم تصميم سولفاتن ليكون آمنًا للأشخاص من جميع الأعمار. يستخدم عملية طبيعية بدون مواد كيميائية، مما يضمن أن المياه آمنة للاستهلاك، بما في ذلك للأطفال وكبار السن."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "47d2921f-0db2-48da-ac78-bfdfd580830a",
+                "properties": {
+                  "question": "ما نوع المياه التي يمكن لسولفاتن تنقيتها؟",
+                  "answer": "يمكن لسولفاتن معالجة المياه من مصادر مختلفة، بما في ذلك الأنهار والبحيرات ومياه الأمطار. ومع ذلك، من المهم تجنب استخدام المياه التي تحتوي على تلوث ثقيل مثل المواد الكيميائية أو النفايات الصناعية، حيث أن سولفاتن غير مصمم لإزالة مثل هذه الملوثات."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "ce5a5a05-594e-4dff-8d41-9023881800ce",
+                "properties": {
+                  "question": "كم مدة صلاحية طقم سولفاتن؟",
+                  "answer": "تم تصميم أطقم سولفاتن لتدوم من 7 إلى 10 سنوات مع الاستخدام والعناية الصحيحين. المواد المتينة مقاومة للظروف الجوية والتلف الناتج عن الاستخدام."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "134823a7-ed88-42d1-bbf9-f6b7d8b77f80",
+                "properties": {
+                  "question": "كيف يمكنني التأكد من أن المياه آمنة للشرب بعد استخدام سولفاتن؟",
+                  "answer": "يتضمن سولفاتن مؤشرًا مرئيًا في الطقم يظهر عندما تصل المياه إلى درجة حرارة آمنة ومستوى تعرض للأشعة فوق البنفسجية مناسب. بمجرد أن يظهر المؤشر أن المياه جاهزة، تصبح آمنة للاستهلاك."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "f96ec9e7-3ac2-4d26-8421-120fe7a1f313",
+                "properties": {
+                  "question": "هل يمكن استخدام سولفاتن في الأيام الغائمة؟",
+                  "answer": "نعم، يمكن لسولفاتن أن يعمل في الأيام الغائمة، ولكن عملية التنقية ستستغرق وقتًا أطول. قد يستغرق الأمر حتى 6 ساعات أو أكثر لتنقية المياه بالكامل حسب ظروف الطقس."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "e7d52007-4c4b-4d34-9a5e-0c60e2f4f357",
+                "properties": {
+                  "question": "هل سولفاتن صديق للبيئة؟",
+                  "answer": "نعم، سولفاتن مستدام للغاية. فهو يقلل من الحاجة إلى غلي المياه باستخدام الحطب والوقود الأحفوري الآخر، مما يساعد على تقليل إزالة الغابات وانبعاثات الكربون. بالإضافة إلى ذلك، لا يحتاج إلى بطاريات أو كهرباء، مما يجعله حلاً صديقًا للبيئة."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "372a1e4e-c887-4138-828d-c87a2265725e",
+                "properties": {
+                  "question": "هل يمكن استخدام سولفاتن لأغراض أخرى غير مياه الشرب؟",
+                  "answer": "نعم، يمكن استخدام المياه المعالجة بواسطة سولفاتن أيضًا للطهي والغسيل وأغراض النظافة. يوفر الطقم مياهًا ساخنة، وهو مفيد لاحتياجات الأسرة المختلفة."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "9b3b2535-003e-4518-a18b-c27b9fd962cf",
+                "properties": {
+                  "question": "ما الصيانة المطلوبة لسولفاتن؟",
+                  "answer": "سولفاتن يتطلب صيانة بسيطة. بعد كل استخدام، يُنصح بشطف الوحدة وتركها لتجف. يجب الحفاظ على الألواح الشفافة نظيفة لضمان تعريضها لأقصى قدر من أشعة الشمس. قم بالتحقق من أي تلف أو تآكل في الأختام والأجزاء الأخرى بين الحين والآخر."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "35a00bcd-518c-45c6-806b-bbbfe22e374f",
+                "properties": {
+                  "question": "أين يمكنني شراء سولفاتن؟",
+                  "answer": "يتوفر سولفاتن للشراء من خلال الموقع الرسمي لسولفاتن، وكذلك من خلال المنظمات الشريكة والموزعين. يمكنك أيضًا الاتصال بالمنظمات غير الحكومية المحلية أو المنظمات الإنسانية التي تعمل في مجال الحصول على المياه للاستفسار عن توفره في منطقتك."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "c7f21034-a791-494e-8d01-4f4fc30e9606",
+                "properties": {
+                  "question": "ما هي فوائد استخدام سولفاتن في المناطق النائية؟",
+                  "answer": "في المناطق النائية التي لا تتوفر فيها مياه نظيفة أو كهرباء موثوقة، توفر سولفاتن حلاً ذاتي الاكتفاء للحصول على مياه شرب آمنة. فهو يقلل من الحاجة إلى الحطب لغلي المياه، مما يوفر الوقت والموارد ويعزز الصحة والنظافة الصحية."
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "faqItem",
+                "id": "726fa181-e984-462b-8168-6407e2cd05a6",
+                "properties": {
+                  "question": "هل يقضي سولفاتن على جميع الكائنات الدقيقة الضارة في المياه؟",
+                  "answer": "نعم، سولفاتن فعّال في قتل البكتيريا والفيروسات والطفيليات من خلال مزيج من الأشعة فوق البنفسجية الشمسية والحرارة. ومع ذلك، فهو غير مصمم لإزالة الملوثات الكيميائية أو المعادن الثقيلة من المياه."
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/faq/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/faq/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/الأسئلة-الشائعة/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "quizzes",
+      "name": "الاختبارات",
+      "createDate": "2024-09-21T13:06:35.9796093",
+      "updateDate": "2025-04-28T14:14:59.6045526",
+      "route": {
+        "path": "/ar/الاختبارات/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "ba5d6a77-7a1c-4a14-8711-91ea108f9123",
+      "properties": {
+        "quiz": {
+          "items": [
+            {
+              "content": {
+                "contentType": "quiz",
+                "id": "2000f08a-7e21-46a3-84e1-4fa51dc8bc98",
+                "properties": {
+                  "title": "سهل",
+                  "items": null,
+                  "icon": "sunny"
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "quiz",
+                "id": "8c224501-7b25-44a2-a6d4-e434e9daad14",
+                "properties": {
+                  "title": "صعب",
+                  "items": null,
+                  "icon": "thermometer"
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/quizzes/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/quizzes/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/الاختبارات/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    }
+  ]
+}
