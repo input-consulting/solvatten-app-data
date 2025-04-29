@@ -2,5 +2,6 @@
 	{ "isoCode": "en", "displayName": "English" },
 	{ "isoCode": "sw-KE", "displayName": "Kiswahili (Kenya)" },
 	{ "isoCode": "pt", "displayName": "Portuguese" },
-	{ "isoCode": "ar", "displayName": "Arabic" }
+	{ "isoCode": "ar", "displayName": "Arabic" },
+	{ "isoCode": "fr", "displayName": "French" }
 ]
