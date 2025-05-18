@@ -1,52 +1,11 @@
 {
-  "total": 4,
+  "total": 8,
   "items": [
-    {
-      "contentType": "app",
-      "name": "App",
-      "createDate": "2024-10-30T09:18:55.7292754",
-      "updateDate": "2025-04-28T13:27:17.8155003",
-      "route": {
-        "path": "/ar/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-      "properties": {
-        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
-        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
-      },
-      "cultures": {
-        "en": {
-          "path": "/en/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "pt": {
-          "path": "/p/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "ar": {
-          "path": "/ar/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
     {
       "contentType": "instructions",
       "name": "التعليمات",
       "createDate": "2024-09-20T23:10:25.3865255",
-      "updateDate": "2025-04-28T14:10:26.0852008",
+      "updateDate": "2025-05-13T08:06:08.320809",
       "route": {
         "path": "/ar/التعليمات/",
         "startItem": {
@@ -1863,6 +1822,13 @@
             "path": "app"
           }
         },
+        "sw-KE": {
+          "path": "/sw-ke/maagizo/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
         "pt": {
           "path": "/p/instructions/",
           "startItem": {
@@ -1876,6 +1842,13 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
+        },
+        "fr": {
+          "path": "/fr/instructions/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
         }
       }
     },
@@ -1883,7 +1856,7 @@
       "contentType": "faq",
       "name": "الأسئلة الشائعة",
       "createDate": "2024-09-21T12:49:10.894209",
-      "updateDate": "2025-04-28T14:13:47.4156782",
+      "updateDate": "2025-04-29T08:40:25.5104571",
       "route": {
         "path": "/ar/الأسئلة-الشائعة/",
         "startItem": {
@@ -2049,6 +2022,13 @@
             "path": "app"
           }
         },
+        "sw-KE": {
+          "path": "/sw-ke/maswali-yanayoulizwa-mara-kwa-mara/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
         "pt": {
           "path": "/p/faq/",
           "startItem": {
@@ -2062,6 +2042,13 @@
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
+        },
+        "fr": {
+          "path": "/fr/faq/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
         }
       }
     },
@@ -2069,7 +2056,7 @@
       "contentType": "quizzes",
       "name": "الاختبارات",
       "createDate": "2024-09-21T13:06:35.9796093",
-      "updateDate": "2025-04-28T14:14:59.6045526",
+      "updateDate": "2025-04-29T08:58:11.9973252",
       "route": {
         "path": "/ar/الاختبارات/",
         "startItem": {
@@ -2087,7 +2074,696 @@
                 "id": "2000f08a-7e21-46a3-84e1-4fa51dc8bc98",
                 "properties": {
                   "title": "سهل",
-                  "items": null,
+                  "items": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "f8efa756-60ce-4d85-8041-0017503a1f5d",
+                          "properties": {
+                            "question": "أين تصب المياه؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "89a91f74-e9b1-49c0-8c08-2c5b66499a52",
+                                    "properties": {
+                                      "value": "من خلال الفتحات المزودة بغطاء أسود ومرشحات.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "e45abce1-1c0b-46d5-a0c5-cc8276896b67",
+                                    "properties": {
+                                      "value": "من خلال أي من الفتحات.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "976897a7-94a7-4524-a964-07bf0389b30d",
+                                    "properties": {
+                                      "value": "من خلال الفتحة الضيقة في أسفل الوعاء.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "4391b0ca-5edf-48b2-9764-6b345420d611",
+                                    "properties": {
+                                      "value": "من خلال الفتحة الكبيرة في خلف الوعاء.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizMoreInfo",
+                                    "id": "f4eab175-d4ea-43b0-b617-4590cd860ec0",
+                                    "properties": {
+                                      "severity": "Warning",
+                                      "heading": "تجنب خدش السطح",
+                                      "details": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            }
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "e32c8dba-fbb6-4bb3-833f-eb139a05864b",
+                          "properties": {
+                            "question": "لماذا يجب عليك دائمًا ملء سولفاتن حتى النهاية؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "4b8afe23-ce6c-4924-8aa3-d9bd44f85188",
+                                    "properties": {
+                                      "value": "لأن المؤشر يعمل بشكل صحيح عندما يكون مغطى بالكامل بالماء.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "4a9dcd83-9050-4cf7-ac6d-69933968614e",
+                                    "properties": {
+                                      "value": "لأن ترك مساحة يسمح للماء بالتوسع.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "96ed8e45-283b-491a-b63a-d2c44b69e988",
+                                    "properties": {
+                                      "value": "لأن ملئه إلى منتصفه يترك الماء يغلي.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "adb286b9-fdbe-41ff-a697-930b3b49b8fe",
+                                    "properties": {
+                                      "value": "لأن الإفراط في ملئه قد يسبب في اتساخه.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "5d8144f5-7925-47d7-9880-cba1b3bc5d69",
+                          "properties": {
+                            "question": "كيف يجب أن تبدو المياه قبل صبها في سولفاتن؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "f1f613c1-738b-4d27-88eb-096aaca9f175",
+                                    "properties": {
+                                      "value": "يجب أن يكون غائمًا أو متسخًا.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "ae44709c-53c6-45a4-be3a-9b706e811ed6",
+                                    "properties": {
+                                      "value": "يجب أن يحتوي على قطع وأجزاء فيه.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "82a7253c-4924-49f1-b36e-9e608e7180f2",
+                                    "properties": {
+                                      "value": "يجب أن يكون صافياً بما يكفي لرؤية ما في الكوب.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "d59adab2-610d-43ce-9f30-fb0708ce3a9a",
+                                    "properties": {
+                                      "value": "يجب أن يكون مائلًا إلى الأصفر أو البني.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "f5319264-fe12-4bf2-9153-849cd1081073",
+                          "properties": {
+                            "question": "كيف يؤثر الارتفاع العالي على طقم سولفاتن؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "1886b498-b439-456d-a847-d62a00474346",
+                                    "properties": {
+                                      "value": "اضغط بمجرد أن يبدأ الماء في الغليان.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "ab60712a-9afc-49f6-8bc6-2e775d112433",
+                                    "properties": {
+                                      "value": "اضغط بعد أن تكون سولفاتن تحت الشمس لمدة ساعة.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "b0d488fc-1861-40ae-a819-837d56d9f6f9",
+                                    "properties": {
+                                      "value": "اضغط ليظهر وجه أحمر عندما تبدأ.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "df6b5101-9b50-4b37-b8c6-b7994590a013",
+                                    "properties": {
+                                      "value": "اضغط بعد أن تكون سولفاتن تحت الشمس لمدة خمس دقائق.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "3f7ebb44-53ff-4b1d-8802-bc8dafb0bb81",
+                          "properties": {
+                            "question": "كيف تضع سولفاتن عند البدء في استخدامه؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "3b92daee-19a0-4d7c-a74d-9f9394144c88",
+                                    "properties": {
+                                      "value": "ضع سولفاتن في منطقة مظللة، بعيدًا عن أشعة الشمس المباشرة.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "16df20f7-689f-4251-b834-532086bc2157",
+                                    "properties": {
+                                      "value": "ضع سولفاتن بزاوية 90 درجة موجهة نحو الشمس، ويفضل في مكان خالي من الرياح أو الظل.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "7ef36f37-5463-48e7-bb3c-efbe13ee4453",
+                                    "properties": {
+                                      "value": "ضع سولفاتن في منطقة مظللة بها القليل من ضوء الشمس.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "e1e645a6-e7b5-49df-bc43-59ee6931f53e",
+                                    "properties": {
+                                      "value": "ضع سولفاتن في أشعة الشمس المباشرة مع الرياح لمساعدته على الجفاف بشكل أسرع.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "5ddd4cd4-5e30-4ace-a758-68a043f844f1",
+                          "properties": {
+                            "question": "متى تكون المياه آمنة للشرب؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "23e2f3e6-cd1c-44bc-b15e-3efb86703522",
+                                    "properties": {
+                                      "value": "عندما يغلي لمدة حوالي 10 دقائق.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "69e3ebc6-5949-450d-8b49-c391c2bb3060",
+                                    "properties": {
+                                      "value": "عندما يكون الماء صافياً وبارداً.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "6d99a997-db75-4295-be58-4aeb71d691d2",
+                                    "properties": {
+                                      "value": "عندما يتصاعد البخار من الماء ويشعر بالبرودة عند اللمس.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "fad28d30-9e84-4af1-b262-dacbec70adce",
+                                    "properties": {
+                                      "value": "عندما يتحول وجه المؤشر إلى اللون الأخضر ويكون ضمن 24 ساعة.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "cb715ea9-5731-4b89-9dc1-67d4f47bc710",
+                          "properties": {
+                            "question": "أين تصب المياه؟ ",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "1a7e0542-fb0d-4804-b23b-3074bf878f42",
+                                    "properties": {
+                                      "value": "من أسفل الوعاء.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "6fe26f0c-ae8b-4259-9208-e776f8290ffc",
+                                    "properties": {
+                                      "value": "من الفتحات المزودة بأغطية سوداء ومرشحات.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "bb9dc924-3a8c-45bc-9416-c07fa0c542f8",
+                                    "properties": {
+                                      "value": "من الفتحات المزودة بأغطية بيضاء.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "0f05af4d-c8ff-4aa7-be5b-b04b3cd207de",
+                                    "properties": {
+                                      "value": "من الصنبور على جانب الوعاء.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "285d5c6d-ad07-4de4-b0ee-3358a08330d7",
+                          "properties": {
+                            "question": "كيف يجب تخزين المياه المعالجة؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "62007f3e-9022-47e5-a575-6052e5dc7479",
+                                    "properties": {
+                                      "value": "احتفظ به في وعاء مفتوح.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "0203120e-3356-4caa-81fa-e51fbc4377be",
+                                    "properties": {
+                                      "value": "احتفظ به في وعاء نظيف ومغلق بعيدًا عن الأرض.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "15b17525-b42c-4e3d-a19d-2a6471727315",
+                                    "properties": {
+                                      "value": "احتفظ به في زجاجة شفافة.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "f47d08f9-d4ba-4962-b8cc-837ac33bcfed",
+                                    "properties": {
+                                      "value": "احتفظ به في مجموعة سولفاتن.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "fcf5b589-fed1-4315-900c-97fe57375950",
+                          "properties": {
+                            "question": "كيف يمكن استخدام المياه الساخنة؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "9d90e1b3-293a-45af-82c0-2e70d1b741a5",
+                                    "properties": {
+                                      "value": "للنظافة الشخصية، وطهي الطعام، أو استخدامه للشاي أو القهوة.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "64cedf3f-df87-4018-9b3d-95efb360bc07",
+                                    "properties": {
+                                      "value": "لتنظيف السقف، وغسل هاتفك، وتجفيف الملابس.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "8ce7a63c-0d54-4f35-a4d7-a3ed277913d0",
+                                    "properties": {
+                                      "value": "لغسل الكلب، وتلميع الأثاث، وصنع مكعبات الثلج.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "bfeb48a9-0bcb-4820-9f04-e5831d23d084",
+                                    "properties": {
+                                      "value": "لري النباتات، وتنظيف الأحذية، وملء حوض السباحة.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "744589e8-3d0a-491e-9404-862209791cb5",
+                          "properties": {
+                            "question": "لماذا يجب عليك عدم استخدام الرمال عند غسل سولفاتن؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "08b5d59a-ff76-4775-a2cc-cd6ee2b500d3",
+                                    "properties": {
+                                      "value": "الرمل يساعد في تنظيف الوعاء بشكل أسرع.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "342c0496-ede4-4375-96a1-da08b084d3b5",
+                                    "properties": {
+                                      "value": "الرمل يخدش البلاستيك ويقلل من فعالية سولفاتن.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "78cac4cf-9f11-4fd7-968d-ab3f2c100bd9",
+                                    "properties": {
+                                      "value": "الرمل يجعل الوعاء يسخن بسرعة كبيرة.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "18f3bf16-91cd-463e-8961-c7f3ef7f8b66",
+                                    "properties": {
+                                      "value": "الرمل ينظف الفلاتر بشكل أسرع.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "8ed658e3-ed1c-40b4-9574-8faa008886dd",
+                          "properties": {
+                            "question": "ماذا تفعل عندما يكون الطقس غائمًا؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "f90c75e4-daf5-4e3b-a241-e15749d39f9c",
+                                    "properties": {
+                                      "value": "لا شيء. يمكنك شرب الماء بعد بضع ساعات.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "b92d42ec-5eee-4b26-b5b3-e9d0002c3b9b",
+                                    "properties": {
+                                      "value": "غلي الماء لجعله نظيفًا وساخنًا باستخدام مصدر الطاقة المتاح.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "5cff5356-12eb-464c-bd01-de694d7101c5",
+                                    "properties": {
+                                      "value": "حماه بالمظلة.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "20f72103-4df7-4e2a-8d47-ea5d4d723f7d",
+                                    "properties": {
+                                      "value": "ارفعه عاليًا.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  },
                   "icon": "sunny"
                 }
               },
@@ -2099,7 +2775,620 @@
                 "id": "8c224501-7b25-44a2-a6d4-e434e9daad14",
                 "properties": {
                   "title": "صعب",
-                  "items": null,
+                  "items": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "f889692b-205e-4072-ace2-400dbc0edfb3",
+                          "properties": {
+                            "question": "ما هو الدور الرئيسي للأغطية البلاستيكية الشفافة في طقم سولفاتن؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "adc87d75-bb6b-4c94-b78f-51a56f772a5b",
+                                    "properties": {
+                                      "value": "إنهم يعكسون الإشعاع الشمسي لتقليل التعرض للماء.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "6d7685df-6c5f-4318-a594-a47834ebee63",
+                                    "properties": {
+                                      "value": "إنهم يسمحون بمرور 90 درجة مئوية من الإشعاع الشمسي لتسخين الماء.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "a2f0a9a1-3c91-4726-a60e-9c37e1226121",
+                                    "properties": {
+                                      "value": "إنهم يحجبون الأشعة فوق البنفسجية لحماية الماء.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "7634e3b4-3ff2-430b-8100-16c57c3a8fc8",
+                                    "properties": {
+                                      "value": "إنهم يحجبون الحرارة للحفاظ على برودة الماء.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "0412088a-468c-41d5-984d-88b90a83651c",
+                          "properties": {
+                            "question": "لماذا يعتبر الإشعاع فوق البنفسجي مهمًا لتنقية المياه في طقم سولفاتن؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "531800da-4418-47a9-90f0-ed658707a1c5",
+                                    "properties": {
+                                      "value": "لأنه يدمر الكائنات الدقيقة الضارة عن طريق إتلاف حمضها النووي.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "c89e58dd-2375-4281-9413-d0e78d1fa03f",
+                                    "properties": {
+                                      "value": "لأنه يساعد الماء على البقاء باردًا.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "d213e932-9be3-402a-8c8b-cb7cd6418c42",
+                                    "properties": {
+                                      "value": "لأنه يجعل طعم الماء أفضل.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "66ce3478-2a99-4d02-b2f3-b92c3cfea4b6",
+                                    "properties": {
+                                      "value": "لأنه يجعل الماء يبدو أكثر وضوحًا.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "c2529c8d-3f6a-49cd-8adb-16a076ff6d43",
+                          "properties": {
+                            "question": "لماذا يعتبر الحرارة مهمًا في تنظيف المياه في سولفاتن؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "a4791e5c-8b33-49ec-a989-21b6f28c17d3",
+                                    "properties": {
+                                      "value": "لأنه يساعد في تصفية الجسيمات الأكبر، مما يجعل الماء أكثر صفاءً.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "53dd268c-641e-4325-aff8-3986b063b3c0",
+                                    "properties": {
+                                      "value": "لأنه يُفعل الأشعة فوق البنفسجية، مما يساعدها على العمل بشكل أفضل.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "ca08543d-9810-407e-874a-0c67f0517f0c",
+                                    "properties": {
+                                      "value": "لأنه يدمر الكائنات الدقيقة عن طريق رفع درجة الحرارة إلى 50-60 درجة مئوية.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "2a8f4fdc-7701-4315-a9fd-7e8ce1146f55",
+                                    "properties": {
+                                      "value": "لأنه يسرع عملية التنظيف، مما يجعل الماء أكثر أمانًا.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "7aa3b394-7094-4736-a99b-21b342af7f6a",
+                          "properties": {
+                            "question": "كيف يؤثر الارتفاع العالي على طقم سولفاتن؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "5f3131a0-e29e-46b5-91eb-c6ffe1e9c0b1",
+                                    "properties": {
+                                      "value": "يصبح الأداء أقل فعالية لأن الغلاف الجوي يمتص المزيد من الطاقة الشمسية عند الارتفاعات العالية.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "f9b75d3f-ac17-423a-95d6-854c833469d4",
+                                    "properties": {
+                                      "value": "يصبح الأداء أكثر فعالية لأن الهواء الرقيق يسمح بمرور المزيد من الطاقة الشمسية للوصول إليه.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "1eb09803-c82a-4bb0-a8ae-0850a388c893",
+                                    "properties": {
+                                      "value": "أداء الطقم هو نفسه عند جميع الارتفاعات، حيث أن الإشعاع الشمسي لا يتغير.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "bfd5e0ab-0fac-428c-8182-97de091d2798",
+                                    "properties": {
+                                      "value": "يعمل الطقم بشكل أفضل عند الارتفاعات المنخفضة لأن الهواء يحتفظ بالمزيد من الحرارة.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "5bbe90cd-5705-4d19-96eb-58e775f40278",
+                          "properties": {
+                            "question": "ما هو أفضل طريقة لوضع سولفاتن للحصول على أكبر قدر من الطاقة الشمسية؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "fe94bfcd-a145-499c-8896-820152902653",
+                                    "properties": {
+                                      "value": "اجعلها قائمة بشكل مستقيم للحصول على طاقة ثابتة طوال العام.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "23c6052b-e962-4038-9135-96bf013edc6e",
+                                    "properties": {
+                                      "value": "احتفظ بها بزاوية ثابتة للحفاظ على الحرارة، بغض النظر عن الوقت أو الموسم.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "4e4c071e-f965-4900-bd3e-d37025527cfe",
+                                    "properties": {
+                                      "value": "ضعها موازية للشمس وضبطها في الصباح والمساء.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "c51e3e8d-396a-4bc5-b534-3b8936743b0e",
+                                    "properties": {
+                                      "value": "امِلها بزاوية 90 درجة بحيث يتماشى حلقة الغطاء مع ظلالها.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "ce318fe3-8ead-4cbd-ba50-cb760c3f3845",
+                          "properties": {
+                            "question": "ما هي إحدى الفوائد الرئيسية على المدى الطويل لاستخدام سولفاتن، وخاصة بالنسبة للنساء في الأسر؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "6f917cbb-61a1-4ff0-9b49-6ed200b50857",
+                                    "properties": {
+                                      "value": "النساء يحصلن على منتجات منزلية أكثر تكلفة.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "a10a1bf2-cb04-48ea-a43b-568b7be09505",
+                                    "properties": {
+                                      "value": "يمكن للنساء التحول بشكل حصري إلى طرق الطهي الكهربائية، مما يقلل من اعتمادهن على الحطب.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "ade75fc8-48e1-4429-9990-8e4277bb1b53",
+                                    "properties": {
+                                      "value": "يمكن للنساء تجنب تكاليف زيت الطهي.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "85eacc74-a567-4508-a50d-19ddfbeab42f",
+                                    "properties": {
+                                      "value": "يمكن للنساء تقليل الوقت اليومي الذي يقضينه في جمع المياه والحطب، مما يتيح المزيد من الوقت للتعليم والأنشطة المدرة للدخل.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "96bb7039-f836-4bb0-b23f-2305a04b712c",
+                          "properties": {
+                            "question": "كيف يمكن لشخص أن يوفر المال باستخدام سولفاتن؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "ac5551dd-9785-4b22-8aa6-20a4f49cfb00",
+                                    "properties": {
+                                      "value": "بعدم امتلاك واحد، حيث أن طقم سولفاتن نفسه يعتبر مصروفًا.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "5a32a634-4015-46d1-b712-81312a17fbd8",
+                                    "properties": {
+                                      "value": "عن طريق ربطه بشبكة الكهرباء.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "f518d627-f25e-4744-8c91-22bb44ef60a1",
+                                    "properties": {
+                                      "value": "عن طريق استخدامه لتوليد الكهرباء لمنزلك.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "bb7af3b5-5e52-432a-b2f9-de9c3608407c",
+                                    "properties": {
+                                      "value": "عن طريق القضاء على الحاجة لشراء الوقود لغلي الماء، مثل الحطب أو الغاز.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "0b2749df-69f9-4068-83ec-fe4dca017da8",
+                          "properties": {
+                            "question": "كيف يساهم سولفاتن في تحضير الطعام للمشاريع الصغيرة؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "2bafea68-be92-4644-90ad-16827a20d16f",
+                                    "properties": {
+                                      "value": "يوفر ماءً دافئًا للخبز والطهي، مما يسرع من تحضير الطعام.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "01385a43-9992-4b79-ac57-f814023b76ba",
+                                    "properties": {
+                                      "value": "ينتج بخارًا لطهي الطعام بشكل أسرع.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "d67aa68c-895c-4d4a-b4d8-5627febecffb",
+                                    "properties": {
+                                      "value": "يساعد في الحفاظ على الطعام باردًا عن طريق تبريد الماء.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "c621bb2b-bb8d-457b-a737-fe004fc2c41e",
+                                    "properties": {
+                                      "value": "يحافظ على الأطباق طازجة أثناء التحضير.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "ff829e85-4af5-45d2-a34d-b0f1fdf2d2f9",
+                          "properties": {
+                            "question": "أي من الأنشطة التالية يظهر بشكل أفضل كيف يساعد سولفاتن رواد الأعمال في زيادة دخلهم؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "1cc7a298-ccbc-4515-85ab-f7bbe75caf40",
+                                    "properties": {
+                                      "value": "يتم استخدام سولفاتن لتبريد المشروبات من أجل تخزينها بأمان.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "e6ce293c-ae3f-46a7-8fb6-d54a83b905cf",
+                                    "properties": {
+                                      "value": "يتم استخدام سولفاتن لصنع ماء شرب آمن يمكن بيعه كمنتج.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "fcfd005f-a181-45d4-a9b9-ee2c1f45b903",
+                                    "properties": {
+                                      "value": "ليس لسولفاتن أي تأثير على أي مبيعات.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "0ccd9bf6-1ffb-4074-89f7-76950f1b050d",
+                                    "properties": {
+                                      "value": "يتم استخدام سولفاتن لتصفية المنتجات الغذائية قبل البيع.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "quizQuestion",
+                          "id": "6371b0fe-987c-470b-b7b5-9b8b558f53ef",
+                          "properties": {
+                            "question": "كيف يدعم سولفاتن المجتمعات في المناطق الريفية؟",
+                            "image": null,
+                            "type": "Multiple",
+                            "answers": {
+                              "items": [
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "7806d03b-9294-4869-a475-3fde566d70d2",
+                                    "properties": {
+                                      "value": "من خلال توفير مصدر موثوق للمياه النظيفة.",
+                                      "correct": true
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "1ae75f3e-4153-4f3a-b428-cc8d6f5218c5",
+                                    "properties": {
+                                      "value": "من خلال المساعدة في إنشاء اتصالات إنترنت قوية للمجتمعات النائية.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "2aefd841-d3ad-41c7-a18a-a57cbb243f23",
+                                    "properties": {
+                                      "value": "من خلال تقديم بديل لأنظمة جمع مياه الأمطار.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                },
+                                {
+                                  "content": {
+                                    "contentType": "quizAnswer",
+                                    "id": "f2b39ef1-0861-4e8e-a54a-c2ca156487c7",
+                                    "properties": {
+                                      "value": "من خلال تمكين الناس من زراعة المحاصيل على الفور باستخدام المياه المنقاة.",
+                                      "correct": null
+                                    }
+                                  },
+                                  "settings": null
+                                }
+                              ]
+                            },
+                            "additionalInfo": null
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  },
                   "icon": "thermometer"
                 }
               },
@@ -2116,6 +3405,13 @@
             "path": "app"
           }
         },
+        "sw-KE": {
+          "path": "/sw-ke/maswali-ya-kujitathmini/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
         "pt": {
           "path": "/p/quizzes/",
           "startItem": {
@@ -2125,6 +3421,1252 @@
         },
         "ar": {
           "path": "/ar/الاختبارات/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/quiz/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "tipsAndTricks",
+      "name": "نصائح وحيل",
+      "createDate": "2024-11-06T16:08:33.1975827",
+      "updateDate": "2025-04-29T09:02:58.9657163",
+      "route": {
+        "path": "/ar/نصائح-وحيل/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "d9a1d37e-efb4-4190-9164-64db8d648c6d",
+      "properties": {
+        "content": {
+          "items": [
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "7807e773-988c-4ade-a1a8-5c5b64971b07",
+                "properties": {
+                  "title": "العناية بسولفاتن",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "f692d3c5-6fa0-446f-9e28-abc688749230",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "045d3bac-090c-482f-96e8-a3bb7b9adb00",
+                                "name": "GIF-solvatten-350x350.gif",
+                                "mediaType": "Image",
+                                "url": "/media/epybxmtf/gif-solvatten-350x350.gif",
+                                "extension": "gif",
+                                "width": 350,
+                                "height": 350,
+                                "bytes": 3804772,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Solvatten Kit"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "8ca7212f-2653-4a2c-9ae9-adb7a115d49e",
+                          "properties": {
+                            "value": "عند عدم الاستخدام، اغلق سولفاتن واحتفظ به في الداخل لحمايته. قبل استخدامه مرة أخرى، اشطف الطقم بالماء.\n\nتم تصنيع سولفاتن من بلاستيك عالي الجودة ومصمم ليكون طويل الأمد مع الاستخدام اليومي. وعلى الرغم من قوته، يجب التعامل معه بحذر. إذا كان هناك ثقب في الوعاء، أو كان الغطاء مخدوشًا جدًا، أو لم يتحول المؤشر إلى اللون الأخضر، فقد حان الوقت لاستبدال الطقم."
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "2e1ca175-5418-48d2-937f-160aaa85b352",
+                          "properties": {
+                            "value": "إذا كان المؤشر مكسورًا، يمكن استبداله بسهولة. اتصل بممثل سولفاتن المحلي للحصول على المساعدة."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "35eec208-f896-4abd-921d-5aa7cefa1bc4",
+                "properties": {
+                  "title": "إعادة التدوير",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "1b291aa0-1a08-45c7-89da-b90118b0d8ad",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "e9692834-2591-4009-af7c-a08dbf034188",
+                                "name": "Tips_and_Tricks_Chapter_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/xprc4x5y/image-copy.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 607,
+                                "bytes": 123540,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "ae25baf6-e7c4-46e2-b422-2a6c85a3f1b6",
+                          "properties": {
+                            "value": "ذا كان طقم سولفاتن لا يزال قابلًا للاستخدام ولكنك لم تعد بحاجة إليه، فإرجعه إلى المزود أو إلى شخص آخر سيستخدمه. إذا كان تالفًا أو يتسرب، يمكن إعادة استخدامه لتخزين الفاصوليا أو العدس أو أي أشياء أخرى. طقم سولفاتن مصنوع من بلاستيك قابل لإعادة التدوير، يرجى إعادة تدويره في مرفق إعادة التدوير المحلي عندما يصبح غير قابل للاستخدام."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "e71a7712-9375-4ec8-8e8e-4bbd743c405a",
+                "properties": {
+                  "title": "مشاركة المسؤولية",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "20c6b095-836a-435f-bae1-47b472b7a326",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "f6b92a12-2e17-4556-84b4-6265903e3e42",
+                                "name": "Tips_and_Tricks_Chapter_3.webp",
+                                "mediaType": "Image",
+                                "url": "/media/txqp4qd4/1-mama-enock-a-solvatten-expert-user-demonstrating-how-solvatten-is-used.webp",
+                                "extension": "webp",
+                                "width": 641,
+                                "height": 480,
+                                "bytes": 403024,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 3"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "f64790d5-171f-4bf2-8afc-94cdb32e0104",
+                          "properties": {
+                            "value": "إذا تبادل الجيران العناية بأطقم سولفاتن الخاصة ببعضهم البعض، فإن ذلك يساعد في منع السرقة ويحافظ على الأطراب بأمان."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "7fe8304c-41a6-4b66-91e7-812ef2a02101",
+                "properties": {
+                  "title": "غسل الملابس",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "96099a1f-5e29-4bdc-8e27-53b2a4204c31",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "1d6b6ee7-b689-4bd2-812b-e79cc35b3806",
+                                "name": "Tips_and_Tricks_Chapter_4.webp",
+                                "mediaType": "Image",
+                                "url": "/media/ncsc1k5a/9r77pgsx.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 884,
+                                "bytes": 11356574,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 4"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "eea60a96-7fc4-400c-9cd4-6c2d6adb8e86",
+                          "properties": {
+                            "value": "تعمل المنظفات بشكل أفضل وتذوب البقع بسهولة أكبر مع الماء الساخن من سولفاتن."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "9b7f78ef-b6e8-4552-b638-edd7e4df962c",
+                "properties": {
+                  "title": "غسل اليدين الأمثل",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "0a43c4f2-987d-42a1-9a03-4e0d62fdee0d",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "c84dad9f-7008-4411-aa33-fec0235be06b",
+                                "name": "Tips_and_Tricks_Chapter_5.webp",
+                                "mediaType": "Image",
+                                "url": "/media/cbtbw5tb/_mg_0966.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 533,
+                                "bytes": 3584227,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 5"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "b5cfa9b5-8680-48a0-a48a-8e5adfd7a2ce",
+                          "properties": {
+                            "value": "توفير ماء نظيف وساخن لغسل اليدين قبل تقديم الوجبات باستخدام سولفاتن هو لفتة ترحيبية."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "13ec9c14-88a5-449e-8cf7-fab2b6155699",
+                "properties": {
+                  "title": "إزالة الريش بسهولة",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "4318355a-29af-44e4-be02-10528ecb60fe",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "a3230175-0c73-4c28-8f0c-4ec01eeb3fa7",
+                                "name": "Tips_and_Tricks_Chapter_6.webp",
+                                "mediaType": "Image",
+                                "url": "/media/5lfhkfi0/vdm3spep.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 553,
+                                "bytes": 6242573,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 6"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "3edf6f9a-a25d-4e03-a46b-18b1192cfe88",
+                          "properties": {
+                            "value": "استخدام الماء الساخن من سولفاتن يجعل نزع ريش الدجاج أسهل."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "1ada4c49-6891-4e17-a3ef-4ecf80d32670",
+                "properties": {
+                  "title": "التواصل",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "23191be2-3080-44a6-bf21-d7e7f7643639",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "ae569482-4542-4830-be25-d7b694656046",
+                                "name": "Tips_and_Tricks_Chapter_7.webp",
+                                "mediaType": "Image",
+                                "url": "/media/bvpbagbl/mn46padz.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 501,
+                                "bytes": 1705073,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 7"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "e67522e6-a17b-411e-a2f7-384848312eaf",
+                          "properties": {
+                            "value": "إذا كان لديك أي نصائح أو حيل أخرى، لا تتردد في الاتصال بنا على hallo@solvatten.org."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/tips-and-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "sw-KE": {
+          "path": "/sw-ke/vidokezo-na-hadaa/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/dicas-e-truques/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/نصائح-وحيل/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/astuces-et-conseils/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "moneyWise",
+      "name": "حكمة المال",
+      "createDate": "2025-03-04T22:08:24.3320297",
+      "updateDate": "2025-04-29T09:09:05.9150881",
+      "route": {
+        "path": "/ar/حكمة-المال/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "11d45ad9-45b8-4ece-b48d-71d0e33e7a6d",
+      "properties": {
+        "content": {
+          "items": [
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "db4c64a6-a457-4b8e-9f90-944ed5544c22",
+                "properties": {
+                  "title": "اكسب المال وقلل من عبء العمل باستخدام سولفاتن",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "975c2574-eb88-4052-a700-d6f77e352df5",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": {
+                                  "left": 0.2854922086225502,
+                                  "top": 0.4871934017097543
+                                },
+                                "crops": [],
+                                "id": "93c3bf10-74b7-4eaa-8d15-88ebb81d5cab",
+                                "name": "Money_Wise_Chapter_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/t30jkjo4/9z3r0pwn.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 679,
+                                "bytes": 608916,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "fe7da0b2-1c54-4703-ac6a-c97674b0ada8",
+                          "properties": {
+                            "value": "تضيف سولفاتن قيمة للأعمال الصغيرة التي تعتمد على المياه لمنتجاتها وخدماتها، مما يدعم ريادة الأعمال ويحسن سبل العيش."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "df63a3b9-f1a5-4d36-b933-16597ddc1474",
+                "properties": {
+                  "title": "حليب للبيع",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "d5673f8a-421c-4244-9bfa-01ed3408f27d",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": {
+                                  "left": 0.2754120611796104,
+                                  "top": 0.5833333193600833
+                                },
+                                "crops": [],
+                                "id": "46bda5ca-c512-4524-9e00-ce539535988d",
+                                "name": "Money_Wise_Chapter_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/ivxpx2d1/cow-milking-p1030626.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 600,
+                                "bytes": 752226,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "b2bf263a-30d6-4e00-925a-e4031a1e55af",
+                          "properties": {
+                            "value": "غسل ضرع البقرة بماء نظيف من سولفاتن قبل الحلب يجعل الحليب أكثر أمانًا ويطيل من طراوته."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "4a3c35d7-3267-46ac-8691-814b103316b9",
+                "properties": {
+                  "title": "دخل من الخبز",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "7c278477-4c84-4edc-bed8-90dc1e3d0b82",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "d1db7d1b-f266-41e2-b9bb-f4510268ae46",
+                                "name": "Money_Wise_Chapter_3.webp",
+                                "mediaType": "Image",
+                                "url": "/media/ss1j0zyp/e-sun-bread-rising.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 600,
+                                "bytes": 14077810,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 3"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "ddb1b397-9239-4fa6-883c-1bbcabae9e22",
+                          "properties": {
+                            "value": "خبز الفطائر الشمسية باستخدام الماء النظيفة والساخن من سولفاتن أمر بسيط ويساعد في توليد الدخل.\n\nنصيحة: تجنب ماء الكلور، لأنه يمنع الخميرة البرية والتخمير."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "22249cf7-3801-4f7d-a1bd-8c36d9bfeddf",
+                "properties": {
+                  "title": "بيع الوجبات الساخنة",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "27070720-9fa5-41bb-ab6d-2e5d296829df",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "49b73d98-ff81-45f1-8787-7e4812e78454",
+                                "name": "Money_Wise_Chapter_4.webp",
+                                "mediaType": "Image",
+                                "url": "/media/c51pd55i/v8vayfz4.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 689,
+                                "bytes": 11751465,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 4"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "8fe82586-35e0-4433-a303-3302c95f3669",
+                          "properties": {
+                            "value": "بالماء الذي تبلغ حرارته +75°C، يمكنك تحضير الأرز دون غليه. قم بلف وعزل الوعاء، انقع الأرز، وسيكون جاهزًا في حوالي ساعتين."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "15165cdf-7b88-4bad-a2a2-8ec2bee78b04",
+                "properties": {
+                  "title": "الجمال كمصدر دخل إضافي",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "765ca362-7314-41ca-9a0b-79d9146d58f2",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": {
+                                  "left": 0.352,
+                                  "top": 0.2507832257836504
+                                },
+                                "crops": [],
+                                "id": "e806a20a-1413-4637-9c68-a3a1b9045045",
+                                "name": "Money_Wise_Chapter_5.webp",
+                                "mediaType": "Image",
+                                "url": "/media/qvueaxt0/qbhm8qyc.webp",
+                                "extension": "webp",
+                                "width": 520,
+                                "height": 370,
+                                "bytes": 220096,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 5"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "b4d73017-226c-4ec0-a4a9-f380b03b5ee2",
+                          "properties": {
+                            "value": "يمكن لمصففي الشعر وصالونات التجميل استخدام سولفاتن للحصول على ماء نظيف وساخن لغسل شعر العملاء وتقديم خدمات أخرى."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "43b99b95-9fc0-4af3-bb1a-f212a46d2021",
+                "properties": {
+                  "title": "بيع المياه الباردة والآمنة",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "9c2be1cb-29c3-4c8c-b1dc-d4efc8a28835",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "e7a3e19e-daae-4a10-bc9d-6b8986fa762c",
+                                "name": "Money_Wise_Chapter_6.webp",
+                                "mediaType": "Image",
+                                "url": "/media/cevpkuoh/p7c8w7io.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 515,
+                                "bytes": 416096,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 6"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "e45a4300-41ad-49e8-9188-478e039fcb80",
+                          "properties": {
+                            "value": "بيع المياه المعبأة الباردة والآمنة من سولفاتن يمكن أن يساعد في زيادة الدخل."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "efd9312a-3e96-4605-922f-133d11772357",
+                "properties": {
+                  "title": "بيع العصير الآمن",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "68e89c51-08e2-4c0b-b60d-80d379d36f1f",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "91ce192f-784f-440c-bbd2-682632c8ac9b",
+                                "name": "Money_Wise_Chapter_7.webp",
+                                "mediaType": "Image",
+                                "url": "/media/udjjqjzg/dsc_6696-copy.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 606,
+                                "bytes": 2063957,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 7"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "7e72636b-c673-4a0b-83cd-1222121bb5cf",
+                          "properties": {
+                            "value": "اكسب دخلًا إضافيًا عن طريق صنع وبيع عصير الفواكه باستخدام ماء نظيف وآمن من سولفاتن. إنه يضمن جودة عالية ويظهر اهتمامك لعملائك."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "d8e2da2e-c527-4f97-af0a-abd01836edb6",
+                "properties": {
+                  "title": "خضروات طازجة وآمنة",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "9a692f7d-ce44-4a2a-bda7-7af79de3b70a",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "ba3a7ebd-1e42-4fec-8dd0-f352a119be57",
+                                "name": "Money_Wise_Chapter_8.webp",
+                                "mediaType": "Image",
+                                "url": "/media/gk0hydbl/gyt10zh3.webp",
+                                "extension": "webp",
+                                "width": 350,
+                                "height": 293,
+                                "bytes": 170088,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 8"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "dbfa2240-3a6f-4bd8-a4dc-5e3e50261b7a",
+                          "properties": {
+                            "value": "استخدام سولفاتن لغسل الخضروات يضمن أنها آمنة ونظيفة."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "970969f9-a9c6-4e67-bdcb-41e5f01d9825",
+                "properties": {
+                  "title": "غسيل سهل",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "73acfee7-a6d1-464a-be81-e285625edb5b",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "027821a4-d45e-4689-9179-1efe5a5cc396",
+                                "name": "Money_Wise_Chapter_9.webp",
+                                "mediaType": "Image",
+                                "url": "/media/fpvd3nbx/_mg_7921.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 400,
+                                "bytes": 112757,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 9"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "a4a9685e-a562-4cf1-adfe-ece376b4e04e",
+                          "properties": {
+                            "value": "تستخدم المطاعم والبائعون في الشوارع الماء من سولفاتن لتقديمه للعملاء ولغسل الصحون، حيث يساعد الماء الساخن في إذابة الدهون."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "40d6febc-388a-4028-963e-8f6a28dccb5b",
+                "properties": {
+                  "title": "سلال للبيع",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "a6bd8a9e-5e49-4c84-b117-69c1832e130e",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "3d9b86f0-add2-4161-a202-cfc8de6fb6ab",
+                                "name": "Money_Wise_Chapter_10.webp",
+                                "mediaType": "Image",
+                                "url": "/media/p3gn1c31/espa-mlotshwa-weaving-bowl.webp",
+                                "extension": "webp",
+                                "width": 600,
+                                "height": 908,
+                                "bytes": 983657,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 10"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "69fb3d41-9ef3-423e-9049-f730948c4b65",
+                          "properties": {
+                            "value": "الماء الساخن من سولفاتن مفيد لصبغ الألوان وثني الأغصان عند صنع السلال التقليدية."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "87672d6a-48e1-4827-8b29-7212fe3f8f16",
+                "properties": {
+                  "title": "تجارة البيض",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "4802fef9-66ef-42ac-a936-b3e8f4775273",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "83269143-9c01-460f-b023-4533bc691654",
+                                "name": "Money_Wise_Chapter_11.webp",
+                                "mediaType": "Image",
+                                "url": "/media/zrnhanli/skaermavbild-2025-01-20-kl-112744.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 560,
+                                "bytes": 416042,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 11"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "ce109714-3769-47a6-a3b4-cd512e017985",
+                          "properties": {
+                            "value": "بيع البيض باستخدام ماء نظيف وساخن من سولفاتن أمر سهل، يساعد في توليد الدخل، ويستهلك طاقة أقل."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/money-wise/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "sw-KE": {
+          "path": "/sw-ke/kwa-hekima-ya-fedha/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/financeiramente-inteligente/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/حكمة-المال/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/du-point-de-vue-financier/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "contact",
+      "name": "اتصل بنا",
+      "createDate": "2025-04-10T22:01:11.2400924",
+      "updateDate": "2025-04-29T09:09:19.4992438",
+      "route": {
+        "path": "/ar/اتصل-بنا/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "96dbdca2-7969-4f14-91de-1582872bd0a4",
+      "properties": {
+        "text": "إذا كنت ترغب في التواصل معنا، يُرجى إرسال بريد إلكتروني إلى {{email}}.",
+        "email": "hello@solvatten.se"
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/contact/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "sw-KE": {
+          "path": "/sw-ke/mawasiliano/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/contacto/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/اتصل-بنا/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/contact/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "app",
+      "name": "App",
+      "createDate": "2024-10-30T09:18:55.7292754",
+      "updateDate": "2025-05-18T13:16:28.9732773",
+      "route": {
+        "path": "/ar/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+      "properties": {
+        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
+        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "sw-KE": {
+          "path": "/sw-ke/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "popup",
+      "name": "رسالة منبثقة",
+      "createDate": "2025-04-10T22:02:39.9475761",
+      "updateDate": "2025-05-18T13:19:09.5275742",
+      "route": {
+        "path": "/ar/رسالة-منبثقة/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "bbe87fa0-b352-4d3f-a88a-70e9a12f17be",
+      "properties": {
+        "title": "مرحبًا!",
+        "text": "هل أنت في كينيا، أوغندا، زامبيا، موزمبيق، أو المغرب؟\n\nنود أن تبقى على اتصال مع مجتمع Solvatten المحلي الخاص بك، حيث نشارك نصائح مفيدة ودعمًا لمساعدتك على الاستفادة القصوى من جهاز Solvatten الخاص بك.\n\nاضغط على اسم بلدك أدناه للانضمام إلى مجموعة الواتساب المحلية. سنتأكد من ربط رقمك بالمجموعة المناسبة:\n\n{{countries}}\n\nيمكنك الانسحاب في أي وقت.",
+        "countries": {
+          "items": [
+            {
+              "content": {
+                "contentType": "country",
+                "id": "ad22eaf3-528c-44b3-9b33-121403e588a2",
+                "properties": {
+                  "countryName": "كينيا",
+                  "whatsapp": "https://chat.whatsapp.com/D6G6Wnr8lbi7PX420SxBuR"
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "country",
+                "id": "67dae4bc-692a-4379-a484-097b43e0eaad",
+                "properties": {
+                  "countryName": "أوغندا",
+                  "whatsapp": null
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "country",
+                "id": "8d99861c-f892-4cc6-b1a5-8f310bd13478",
+                "properties": {
+                  "countryName": "زامبيا",
+                  "whatsapp": null
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "country",
+                "id": "0a7149ff-743b-44eb-b172-c2eac5f54f88",
+                "properties": {
+                  "countryName": "موزمبيق",
+                  "whatsapp": null
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "country",
+                "id": "c80c32ef-ea3e-49eb-8523-6fa4259b8b70",
+                "properties": {
+                  "countryName": "المغرب",
+                  "whatsapp": null
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/popup/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "sw-KE": {
+          "path": "/sw-ke/ujumbe-unaojitokeza/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/mensagem-pop-up/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/رسالة-منبثقة/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/message-contextuel/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
