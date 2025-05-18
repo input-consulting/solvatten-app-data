@@ -4506,10 +4506,65 @@
       }
     },
     {
+      "contentType": "app",
+      "name": "App",
+      "createDate": "2024-10-30T09:18:55.7292754",
+      "updateDate": "2025-05-18T13:16:28.9732773",
+      "route": {
+        "path": "/sw-ke/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+      "properties": {
+        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
+        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "sw-KE": {
+          "path": "/sw-ke/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
       "contentType": "popup",
       "name": "Ujumbe Unaojitokeza",
       "createDate": "2025-04-10T22:02:39.9475761",
-      "updateDate": "2025-04-29T09:12:59.7104228",
+      "updateDate": "2025-05-18T13:19:09.5275742",
       "route": {
         "path": "/sw-ke/ujumbe-unaojitokeza/",
         "startItem": {
@@ -4520,7 +4575,7 @@
       "id": "bbe87fa0-b352-4d3f-a88a-70e9a12f17be",
       "properties": {
         "title": "Hujambo!",
-        "text": "Je, uko Kenya, Uganda, Zambia, Msumbiji, au Morocco?\n\nTungependa ubaki karibu na jamii yako ya Solvatten, ambapo tunashirikiana vidokezo muhimu na msaada wa kutumia Solvatten yako kwa ufanisi zaidi.\n\nGusa jina la nchi yako hapa chini ili kujiunga na kundi la WhatsApp la eneo lako. Tutahakikisha nambari yako imeunganishwa na kundi sahihi:\n\nKenya\nUganda\nZambia\nMsumbiji\nMoroko\n\nUnaweza kujiondoa wakati wowote.",
+        "text": "Je, uko Kenya, Uganda, Zambia, Msumbiji, au Morocco?\n\nTungependa ubaki karibu na jamii yako ya Solvatten, ambapo tunashirikiana vidokezo muhimu na msaada wa kutumia Solvatten yako kwa ufanisi zaidi.\n\nGusa jina la nchi yako hapa chini ili kujiunga na kundi la WhatsApp la eneo lako. Tutahakikisha nambari yako imeunganishwa na kundi sahihi:\n\n{{countries}}\n\nUnaweza kujiondoa wakati wowote.",
         "countries": {
           "items": [
             {
@@ -4612,61 +4667,6 @@
         },
         "fr": {
           "path": "/fr/message-contextuel/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
-      "contentType": "app",
-      "name": "App",
-      "createDate": "2024-10-30T09:18:55.7292754",
-      "updateDate": "2025-05-18T13:16:28.9732773",
-      "route": {
-        "path": "/sw-ke/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-      "properties": {
-        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
-        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
-      },
-      "cultures": {
-        "en": {
-          "path": "/en/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "pt": {
-          "path": "/p/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "ar": {
-          "path": "/ar/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "fr": {
-          "path": "/fr/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "sw-KE": {
-          "path": "/sw-ke/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
