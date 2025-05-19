@@ -5,7 +5,7 @@
       "contentType": "instructions",
       "name": "Maagizo",
       "createDate": "2024-09-20T23:10:25.3865255",
-      "updateDate": "2025-05-13T08:06:08.320809",
+      "updateDate": "2025-05-19T22:25:40.2152606",
       "route": {
         "path": "/sw-ke/maagizo/",
         "startItem": {
@@ -1856,7 +1856,7 @@
       "contentType": "faq",
       "name": "Maswali Yanayoulizwa Mara kwa Mara",
       "createDate": "2024-09-21T12:49:10.894209",
-      "updateDate": "2025-04-29T08:40:25.5104571",
+      "updateDate": "2025-05-19T22:25:42.0278774",
       "route": {
         "path": "/sw-ke/maswali-yanayoulizwa-mara-kwa-mara/",
         "startItem": {
@@ -3439,7 +3439,7 @@
       "contentType": "tipsAndTricks",
       "name": "Vidokezo na Hadaa",
       "createDate": "2024-11-06T16:08:33.1975827",
-      "updateDate": "2025-04-29T09:02:58.9657163",
+      "updateDate": "2025-05-19T22:25:42.228728",
       "route": {
         "path": "/sw-ke/vidokezo-na-hadaa/",
         "startItem": {
@@ -3849,7 +3849,7 @@
       "contentType": "moneyWise",
       "name": "Kwa Hekima ya Fedha",
       "createDate": "2025-03-04T22:08:24.3320297",
-      "updateDate": "2025-04-29T09:09:05.9150881",
+      "updateDate": "2025-05-19T22:25:42.49197",
       "route": {
         "path": "/sw-ke/kwa-hekima-ya-fedha/",
         "startItem": {
@@ -4506,65 +4506,10 @@
       }
     },
     {
-      "contentType": "app",
-      "name": "App",
-      "createDate": "2024-10-30T09:18:55.7292754",
-      "updateDate": "2025-05-18T13:16:28.9732773",
-      "route": {
-        "path": "/sw-ke/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-      "properties": {
-        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
-        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
-      },
-      "cultures": {
-        "en": {
-          "path": "/en/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "pt": {
-          "path": "/p/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "ar": {
-          "path": "/ar/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "fr": {
-          "path": "/fr/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "sw-KE": {
-          "path": "/sw-ke/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
       "contentType": "popup",
       "name": "Ujumbe Unaojitokeza",
       "createDate": "2025-04-10T22:02:39.9475761",
-      "updateDate": "2025-05-18T13:19:09.5275742",
+      "updateDate": "2025-05-18T11:24:04.734782",
       "route": {
         "path": "/sw-ke/ujumbe-unaojitokeza/",
         "startItem": {
@@ -4667,6 +4612,61 @@
         },
         "fr": {
           "path": "/fr/message-contextuel/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "app",
+      "name": "App",
+      "createDate": "2024-10-30T09:18:55.7292754",
+      "updateDate": "2025-05-18T11:24:21.1883479",
+      "route": {
+        "path": "/sw-ke/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+      "properties": {
+        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
+        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "sw-KE": {
+          "path": "/sw-ke/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
