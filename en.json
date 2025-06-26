@@ -2,6 +2,61 @@
   "total": 8,
   "items": [
     {
+      "contentType": "app",
+      "name": "App",
+      "createDate": "2024-10-30T09:18:55.7292754",
+      "updateDate": "2025-05-18T11:24:21.1883479",
+      "route": {
+        "path": "/en/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+      "properties": {
+        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
+        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "sw-KE": {
+          "path": "/sw-ke/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
       "contentType": "instructions",
       "name": "Instructions",
       "createDate": "2024-09-20T23:10:25.3865255",
@@ -3481,416 +3536,6 @@
       }
     },
     {
-      "contentType": "tipsAndTricks",
-      "name": "Tips And Tricks",
-      "createDate": "2024-11-06T16:08:33.1975827",
-      "updateDate": "2025-05-19T22:25:42.228728",
-      "route": {
-        "path": "/en/tips-and-tricks/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "d9a1d37e-efb4-4190-9164-64db8d648c6d",
-      "properties": {
-        "content": {
-          "items": [
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "057243a3-9da5-4940-b02f-4b9be252f68b",
-                "properties": {
-                  "title": "Taking care of Solvatten",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "b8f64101-cc2d-4879-bbba-d872716f90ca",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "045d3bac-090c-482f-96e8-a3bb7b9adb00",
-                                "name": "GIF-solvatten-350x350.gif",
-                                "mediaType": "Image",
-                                "url": "/media/epybxmtf/gif-solvatten-350x350.gif",
-                                "extension": "gif",
-                                "width": 350,
-                                "height": 350,
-                                "bytes": 3804772,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Solvatten kit"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "f3f81a37-bc1a-4b53-8cf8-9e5fe3846e78",
-                          "properties": {
-                            "value": "When not in use, close Solvatten and store it indoors to protect it. Before using it again, rinse the kit with water. \n\nSolvatten is made of high-quality plastic and designed for long-lasting durability with daily use. While it is robust, it should still be handled with care. If there is a hole in the container, the lid is too scratched, or the indicator doesn’t turn green, it’s time to replace the kit. "
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "afebb4f2-e09a-4e29-a582-2c0bedde7577",
-                          "properties": {
-                            "value": "If the indicator is broken, it can easily be replaced. Contact your local Solvatten representative for assistance."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "e62aca64-392d-45a9-bae7-ee493febd2e8",
-                "properties": {
-                  "title": "Recycling",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "c750ae62-7857-4a02-b9a2-d81e599a281c",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "e9692834-2591-4009-af7c-a08dbf034188",
-                                "name": "Tips_and_Tricks_Chapter_2.webp",
-                                "mediaType": "Image",
-                                "url": "/media/xprc4x5y/image-copy.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 607,
-                                "bytes": 123540,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 2"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "3d70bf0b-108f-4616-8ff3-19412fd9db6a",
-                          "properties": {
-                            "value": "If your Solvatten kit is still usable but you no longer need it, return it to the provider or someone who will use it. If damaged or leaking, repurpose it for storing beans, lentils, or other items. Solvatten kits are made of recyclable plastic, please recycle them at your local recycling facility when they are no longer usable."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "1dedc65c-e2df-4436-938a-4281208449e4",
-                "properties": {
-                  "title": "Sharing responsibility",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "f170a05b-410f-40f0-8bf8-6fafd25201c5",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "f6b92a12-2e17-4556-84b4-6265903e3e42",
-                                "name": "Tips_and_Tricks_Chapter_3.webp",
-                                "mediaType": "Image",
-                                "url": "/media/txqp4qd4/1-mama-enock-a-solvatten-expert-user-demonstrating-how-solvatten-is-used.webp",
-                                "extension": "webp",
-                                "width": 641,
-                                "height": 480,
-                                "bytes": 403024,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 3"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "e17f969c-ecad-4544-a77e-b50856bfe2c2",
-                          "properties": {
-                            "value": "If neighbors take turns looking after each other's Solvatten kits, it helps prevent theft and keeps the kits safe."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "9dc52022-7db8-4a84-9650-76d35cc01c60",
-                "properties": {
-                  "title": "Washing clothes",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "0f7d10ed-7b65-4f42-be63-29a5561356a5",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "1d6b6ee7-b689-4bd2-812b-e79cc35b3806",
-                                "name": "Tips_and_Tricks_Chapter_4.webp",
-                                "mediaType": "Image",
-                                "url": "/media/ncsc1k5a/9r77pgsx.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 884,
-                                "bytes": 11356574,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 4"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "5894e93d-cbcd-460a-a7a7-07fe0df63630",
-                          "properties": {
-                            "value": "Detergents work better and stains dissolve more easily with hot water from Solvatten."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "d0cbb322-48f7-4efc-bdde-1a59e5eb81ce",
-                "properties": {
-                  "title": "Optimal handwash",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "e076ef9b-aeaf-47f4-8cc9-0565e48c510d",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "c84dad9f-7008-4411-aa33-fec0235be06b",
-                                "name": "Tips_and_Tricks_Chapter_5.webp",
-                                "mediaType": "Image",
-                                "url": "/media/cbtbw5tb/_mg_0966.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 533,
-                                "bytes": 3584227,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 5"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "30c1329e-34d3-4051-b171-b92ce2748bdd",
-                          "properties": {
-                            "value": "Offering clean, hot water for handwashing before serving meals with Solvatten is a welcoming gesture."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "c1b120c2-05a7-4da7-95d5-952b657bb30b",
-                "properties": {
-                  "title": "Easier plucking",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "e8abe750-4d62-4e7e-a127-b47318b6cdcc",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "a3230175-0c73-4c28-8f0c-4ec01eeb3fa7",
-                                "name": "Tips_and_Tricks_Chapter_6.webp",
-                                "mediaType": "Image",
-                                "url": "/media/5lfhkfi0/vdm3spep.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 553,
-                                "bytes": 6242573,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chapter 6"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "031f3790-1c7e-4806-8998-4bad56ebc41a",
-                          "properties": {
-                            "value": "Using hot water from Solvatten makes plucking chicken feathers easier."
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            },
-            {
-              "content": {
-                "contentType": "tipsAndTricksItem",
-                "id": "2d455fff-0d42-416f-98d7-e520998cfcf6",
-                "properties": {
-                  "title": "Get in contact",
-                  "content": {
-                    "items": [
-                      {
-                        "content": {
-                          "contentType": "appImage",
-                          "id": "7d002a0e-6412-4f0e-bf16-fce4823f9bb5",
-                          "properties": {
-                            "value": [
-                              {
-                                "focalPoint": null,
-                                "crops": [],
-                                "id": "ae569482-4542-4830-be25-d7b694656046",
-                                "name": "Tips_and_Tricks_Chapter_7.webp",
-                                "mediaType": "Image",
-                                "url": "/media/bvpbagbl/mn46padz.webp",
-                                "extension": "webp",
-                                "width": 800,
-                                "height": 501,
-                                "bytes": 1705073,
-                                "properties": {}
-                              }
-                            ],
-                            "imageName": "Chatper 7"
-                          }
-                        },
-                        "settings": null
-                      },
-                      {
-                        "content": {
-                          "contentType": "text",
-                          "id": "10ea0308-0fa9-486d-84aa-6f412b3d6db6",
-                          "properties": {
-                            "value": "If you have any more tips or tricks, please feel free to contact us at hallo@solvatten.org. "
-                          }
-                        },
-                        "settings": null
-                      }
-                    ]
-                  }
-                }
-              },
-              "settings": null
-            }
-          ]
-        }
-      },
-      "cultures": {
-        "en": {
-          "path": "/en/tips-and-tricks/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "sw-KE": {
-          "path": "/sw-ke/vidokezo-na-hadaa/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "pt": {
-          "path": "/p/dicas-e-truques/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "ar": {
-          "path": "/ar/نصائح-وحيل/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "fr": {
-          "path": "/fr/astuces-et-conseils/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
       "contentType": "moneyWise",
       "name": "Money Wise",
       "createDate": "2025-03-04T22:08:24.3320297",
@@ -4496,61 +4141,6 @@
       }
     },
     {
-      "contentType": "contact",
-      "name": "Contact",
-      "createDate": "2025-04-10T22:01:11.2400924",
-      "updateDate": "2025-04-29T09:09:19.4992438",
-      "route": {
-        "path": "/en/contact/",
-        "startItem": {
-          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-          "path": "app"
-        }
-      },
-      "id": "96dbdca2-7969-4f14-91de-1582872bd0a4",
-      "properties": {
-        "text": "If you would like to contact us, please send an email to {{email}}.",
-        "email": "hello@solvatten.se"
-      },
-      "cultures": {
-        "en": {
-          "path": "/en/contact/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "sw-KE": {
-          "path": "/sw-ke/mawasiliano/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "pt": {
-          "path": "/p/contacto/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "ar": {
-          "path": "/ar/اتصل-بنا/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "fr": {
-          "path": "/fr/contact/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        }
-      }
-    },
-    {
       "contentType": "popup",
       "name": "Popup",
       "createDate": "2025-04-10T22:02:39.9475761",
@@ -4665,53 +4255,463 @@
       }
     },
     {
-      "contentType": "app",
-      "name": "App",
-      "createDate": "2024-10-30T09:18:55.7292754",
-      "updateDate": "2025-05-18T11:24:21.1883479",
+      "contentType": "contact",
+      "name": "Contact",
+      "createDate": "2025-04-10T22:01:11.2400924",
+      "updateDate": "2025-06-26T08:23:21.218248",
       "route": {
-        "path": "/en/",
+        "path": "/en/contact/",
         "startItem": {
           "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
           "path": "app"
         }
       },
-      "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+      "id": "96dbdca2-7969-4f14-91de-1582872bd0a4",
       "properties": {
-        "videoUrl": "https://www.youtube.com/watch?v=UvaXoSm2tP8",
-        "imageUrl": "https://solvatten.org/wp-content/uploads/2022/01/MG_0966-scaled.jpg"
+        "text": "If you would like to contact us, please send an email to {{email}}.",
+        "email": "hello@solvatten.org"
       },
       "cultures": {
         "en": {
-          "path": "/en/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "pt": {
-          "path": "/p/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "ar": {
-          "path": "/ar/",
-          "startItem": {
-            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
-            "path": "app"
-          }
-        },
-        "fr": {
-          "path": "/fr/",
+          "path": "/en/contact/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
           }
         },
         "sw-KE": {
-          "path": "/sw-ke/",
+          "path": "/sw-ke/mawasiliano/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/contacto/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/اتصل-بنا/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/contact/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        }
+      }
+    },
+    {
+      "contentType": "tipsAndTricks",
+      "name": "Tips And Tricks",
+      "createDate": "2024-11-06T16:08:33.1975827",
+      "updateDate": "2025-06-26T08:23:46.7054554",
+      "route": {
+        "path": "/en/tips-and-tricks/",
+        "startItem": {
+          "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+          "path": "app"
+        }
+      },
+      "id": "d9a1d37e-efb4-4190-9164-64db8d648c6d",
+      "properties": {
+        "content": {
+          "items": [
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "057243a3-9da5-4940-b02f-4b9be252f68b",
+                "properties": {
+                  "title": "Taking care of Solvatten",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "b8f64101-cc2d-4879-bbba-d872716f90ca",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "888be13f-bf3d-4aa1-9813-000b722a9616",
+                                "name": "Tips_and_Tricks_Chapter_1.webp",
+                                "mediaType": "Image",
+                                "url": "/media/wavn0psu/2022-uganda-mission-185.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 492,
+                                "bytes": 1206855,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Tips_and_Tricks_Chapter_1"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "f3f81a37-bc1a-4b53-8cf8-9e5fe3846e78",
+                          "properties": {
+                            "value": "When not in use, close Solvatten and store it indoors to protect it. Before using it again, rinse the kit with water. \n\nSolvatten is made of high-quality plastic and designed for long-lasting durability with daily use. While it is robust, it should still be handled with care. If there is a hole in the container, the lid is too scratched, or the indicator doesn’t turn green, it’s time to replace the kit. "
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "afebb4f2-e09a-4e29-a582-2c0bedde7577",
+                          "properties": {
+                            "value": "If the indicator is broken, it can easily be replaced. Contact your local Solvatten representative for assistance."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "e62aca64-392d-45a9-bae7-ee493febd2e8",
+                "properties": {
+                  "title": "Recycling",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "c750ae62-7857-4a02-b9a2-d81e599a281c",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "e9692834-2591-4009-af7c-a08dbf034188",
+                                "name": "Tips_and_Tricks_Chapter_2.webp",
+                                "mediaType": "Image",
+                                "url": "/media/xprc4x5y/image-copy.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 607,
+                                "bytes": 123540,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 2"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "3d70bf0b-108f-4616-8ff3-19412fd9db6a",
+                          "properties": {
+                            "value": "If your Solvatten kit is still usable but you no longer need it, return it to the provider or someone who will use it. If damaged or leaking, repurpose it for storing beans, lentils, or other items. Solvatten kits are made of recyclable plastic, please recycle them at your local recycling facility when they are no longer usable."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "1dedc65c-e2df-4436-938a-4281208449e4",
+                "properties": {
+                  "title": "Sharing responsibility",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "f170a05b-410f-40f0-8bf8-6fafd25201c5",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "f6b92a12-2e17-4556-84b4-6265903e3e42",
+                                "name": "Tips_and_Tricks_Chapter_3.webp",
+                                "mediaType": "Image",
+                                "url": "/media/txqp4qd4/1-mama-enock-a-solvatten-expert-user-demonstrating-how-solvatten-is-used.webp",
+                                "extension": "webp",
+                                "width": 641,
+                                "height": 480,
+                                "bytes": 403024,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 3"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "e17f969c-ecad-4544-a77e-b50856bfe2c2",
+                          "properties": {
+                            "value": "If neighbors take turns looking after each other's Solvatten kits, it helps prevent theft and keeps the kits safe."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "9dc52022-7db8-4a84-9650-76d35cc01c60",
+                "properties": {
+                  "title": "Washing clothes",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "0f7d10ed-7b65-4f42-be63-29a5561356a5",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "1d6b6ee7-b689-4bd2-812b-e79cc35b3806",
+                                "name": "Tips_and_Tricks_Chapter_4.webp",
+                                "mediaType": "Image",
+                                "url": "/media/ncsc1k5a/9r77pgsx.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 884,
+                                "bytes": 11356574,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 4"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "5894e93d-cbcd-460a-a7a7-07fe0df63630",
+                          "properties": {
+                            "value": "Detergents work better and stains dissolve more easily with hot water from Solvatten."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "d0cbb322-48f7-4efc-bdde-1a59e5eb81ce",
+                "properties": {
+                  "title": "Optimal handwash",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "e076ef9b-aeaf-47f4-8cc9-0565e48c510d",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "c84dad9f-7008-4411-aa33-fec0235be06b",
+                                "name": "Tips_and_Tricks_Chapter_5.webp",
+                                "mediaType": "Image",
+                                "url": "/media/cbtbw5tb/_mg_0966.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 533,
+                                "bytes": 3584227,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 5"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "30c1329e-34d3-4051-b171-b92ce2748bdd",
+                          "properties": {
+                            "value": "Offering clean, hot water for handwashing before serving meals with Solvatten is a welcoming gesture."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "c1b120c2-05a7-4da7-95d5-952b657bb30b",
+                "properties": {
+                  "title": "Easier plucking",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "e8abe750-4d62-4e7e-a127-b47318b6cdcc",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "a3230175-0c73-4c28-8f0c-4ec01eeb3fa7",
+                                "name": "Tips_and_Tricks_Chapter_6.webp",
+                                "mediaType": "Image",
+                                "url": "/media/5lfhkfi0/vdm3spep.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 553,
+                                "bytes": 6242573,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chapter 6"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "031f3790-1c7e-4806-8998-4bad56ebc41a",
+                          "properties": {
+                            "value": "Using hot water from Solvatten makes plucking chicken feathers easier."
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            },
+            {
+              "content": {
+                "contentType": "tipsAndTricksItem",
+                "id": "2d455fff-0d42-416f-98d7-e520998cfcf6",
+                "properties": {
+                  "title": "Get in contact",
+                  "content": {
+                    "items": [
+                      {
+                        "content": {
+                          "contentType": "appImage",
+                          "id": "7d002a0e-6412-4f0e-bf16-fce4823f9bb5",
+                          "properties": {
+                            "value": [
+                              {
+                                "focalPoint": null,
+                                "crops": [],
+                                "id": "ae569482-4542-4830-be25-d7b694656046",
+                                "name": "Tips_and_Tricks_Chapter_7.webp",
+                                "mediaType": "Image",
+                                "url": "/media/bvpbagbl/mn46padz.webp",
+                                "extension": "webp",
+                                "width": 800,
+                                "height": 501,
+                                "bytes": 1705073,
+                                "properties": {}
+                              }
+                            ],
+                            "imageName": "Chatper 7"
+                          }
+                        },
+                        "settings": null
+                      },
+                      {
+                        "content": {
+                          "contentType": "text",
+                          "id": "10ea0308-0fa9-486d-84aa-6f412b3d6db6",
+                          "properties": {
+                            "value": "If you have any more tips or tricks, please feel free to contact us at hello@solvatten.org. "
+                          }
+                        },
+                        "settings": null
+                      }
+                    ]
+                  }
+                }
+              },
+              "settings": null
+            }
+          ]
+        }
+      },
+      "cultures": {
+        "en": {
+          "path": "/en/tips-and-tricks/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "sw-KE": {
+          "path": "/sw-ke/vidokezo-na-hadaa/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "pt": {
+          "path": "/p/dicas-e-truques/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "ar": {
+          "path": "/ar/نصائح-وحيل/",
+          "startItem": {
+            "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
+            "path": "app"
+          }
+        },
+        "fr": {
+          "path": "/fr/astuces-et-conseils/",
           "startItem": {
             "id": "c676354f-53d5-4bec-86cf-0207a52545c8",
             "path": "app"
